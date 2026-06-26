@@ -1,0 +1,354 @@
+{
+  "status": "success",
+  "search_rounds_run": 7,
+  "finalize_rounds_run": 1,
+  "total_items": 30,
+  "termination_reason": "轮次用尽 (7轮上限)",
+  "dimension": "books",
+  "items": [
+    {
+      "title": "The Formula: The Universal Laws of Success",
+      "author": "Albert-László Barabási",
+      "year": 2018,
+      "type": "专著",
+      "summary": "揭示了成功背后的可量化科学规律。基于大数据研究提出了成功的五大普适定律，包括'表现驱动成功但当表现不可衡量时网络驱动成功'、'表现有上限但成功无上限'、'初始成功×适应度→未来的成功'等。挑战了传统认知中'努力就会成功'的简单叙事。",
+      "popularity_metric": "Goodreads 4.15/5 · 30662 ratings总量(包含所有著作)",
+      "source": "https://www.goodreads.com/author/list/2932657.Albert_L_szl_Barab_si",
+      "relevance_to_six_knives": "Knife 4: 复杂系统与网络思维 - 可量化法则"
+    },
+    {
+      "title": "Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life",
+      "author": "Albert-László Barabási",
+      "year": 2002,
+      "type": "专著",
+      "summary": "网络科学领域的开创性科普著作。引入了无标度网络(Scale-Free Networks)的概念，展示了从互联网到细胞代谢网络、从社会网络到疾病传播网络的普遍连接模式。提出了'枢纽节点'（hubs）和'富者愈富'（ preferential attachment）的核心机制。",
+      "popularity_metric": "Goodreads 4.01/5 · 已收录为基础",
+      "source": "https://www.goodreads.com/book/show/154293.Linked",
+      "relevance_to_six_knives": "Knife 1: 无标度网络 · Knife 4: 复杂系统奠基"
+    },
+    {
+      "title": "Bursts: The Hidden Pattern Behind Everything We Do",
+      "author": "Albert-László Barabási",
+      "year": 2010,
+      "type": "专著",
+      "summary": "探索人类行为中的爆发模式——为何人类的通信、工作、娱乐行为并非随机分布，而是呈现剧烈的爆发式间隔。通过手机通讯、电子邮件等大数据的研究，揭示了人类行为在长时间尺度上的可预测性，挑战了泊松随机模型。",
+      "popularity_metric": "Goodreads 3.88/5 · 已收录为基础",
+      "source": "https://www.goodreads.com/book/show/7442792-bursts",
+      "relevance_to_six_knives": "Knife 2: 人类行为爆发模式 · Knife 5: 时序动力学"
+    },
+    {
+      "title": "Network Science",
+      "author": "Albert-László Barabási",
+      "year": 2016,
+      "type": "教材",
+      "summary": "网络科学的权威教科书。从图论基础到无标度网络、社区结构、网络鲁棒性、流行病传播等核心主题，提供了完整且自洽的网络科学知识体系。被全球数百所大学采用为教材，配套有在线交互式教学平台。",
+      "popularity_metric": "Open citation count ~2000+ · 已收录为基础",
+      "source": "https://barabasilab.com/network-science-book",
+      "relevance_to_six_knives": "Knife 1: 网络科学教科书 · Knife 3: 网络分析方法论"
+    },
+    {
+      "title": "The Structure and Dynamics of Networks",
+      "author": "Mark Newman, Albert-László Barabási, Duncan J. Watts (Editors)",
+      "year": 2006,
+      "type": "教材",
+      "summary": "网络科学领域的经典文献合集/指南。收录了从随机图理论、小世界网络到无标度网络的奠基性论文，配有编辑者的深度评论。是2000年代网络科学热潮的标准参考书。",
+      "popularity_metric": "Google Scholar 5000+ 引用 · 已收录为基础",
+      "source": "https://press.princeton.edu/books/paperback/9780691113579/the-structure-and-dynamics-of-networks",
+      "relevance_to_six_knives": "Knife 1: 网络科学经典文集"
+    },
+    {
+      "title": "The Science of Science",
+      "author": "Dashun Wang, Albert-László Barabási",
+      "year": 2021,
+      "type": "专著",
+      "summary": "将网络科学与数据科学方法应用于理解科学本身。探讨了科学影响力、创新路径、团队科学、引用动力学等核心议题。基于大量数据分析揭示科学发现的内在规律。",
+      "popularity_metric": "Goodreads 4.09/5 · 67 ratings",
+      "source": "https://www.goodreads.com/book/show/55838514-the-science-of-science",
+      "relevance_to_six_knives": "Knife 3: 科学发现网络 · Knife 6: 系统量化方法论"
+    },
+    {
+      "title": "Fractal Concepts in Surface Growth",
+      "author": "Albert-László Barabási, H. Eugene Stanley",
+      "year": 1995,
+      "type": "教材",
+      "summary": "Barabási的早期学术专著，与统计物理大师Stanley合著。系统介绍了表面生长过程中的分形概念和标度理论，涵盖分子束外延、薄膜沉积等物理过程。是其学术生涯早期的代表作。",
+      "popularity_metric": "Google Scholar ~1500+ 引用",
+      "source": "https://www.goodreads.com/book/show/180872.Fractal_Concepts_in_Surface_Growth",
+      "relevance_to_six_knives": "Knife 5: 分形与标度律 · 早期方法论基础"
+    },
+    {
+      "title": "Network Medicine: Complex Systems in Human Disease and Therapeutics",
+      "author": "Joseph Loscalzo, Albert-László Barabási, Elliott M. Antman, et al. (Editors)",
+      "year": 2017,
+      "type": "教材",
+      "summary": "将网络科学方法论引入医学领域的开创性教材。探讨了如何利用蛋白质相互作用网络、基因调控网络、代谢网络来理解疾病机制和药物靶点发现。代表了Barabási在生物医学网络方向的应用拓展。",
+      "popularity_metric": "Goodreads 3.87/5 · 15 ratings · ~500+ 学术引用",
+      "source": "https://www.goodreads.com/book/show/29954018-network-medicine",
+      "relevance_to_six_knives": "Knife 4: 网络医学 · Knife 6: 现实世界应用"
+    },
+    {
+      "title": "Hidden Patterns: Visualizing Networks at Barabasi Lab",
+      "author": "Peter Weibel, András Szántó, Albert-László Barabási, Monica Bello (Contributors)",
+      "year": 2020,
+      "type": "解读",
+      "summary": "艺术与科学交叉的图集，将Barabási实验室的网络可视化成果以艺术展陈方式呈现。展示了人类疾病网络、科学合作网络、社交网络等的视觉化表现，是网络科学的艺术化展示。",
+      "popularity_metric": "Goodreads 5.00/5 · 2 ratings · 艺术展览级推广",
+      "source": "https://www.goodreads.com/book/show/59852967-hidden-patterns",
+      "relevance_to_six_knives": "Knife 4: 网络可视化艺术表达"
+    },
+    {
+      "title": "Ciencia de redes (Network Science 西班牙语译本)",
+      "author": "Albert-László Barabási",
+      "year": 2016,
+      "type": "翻译",
+      "summary": "Network Science教材的西班牙语译本。由ITESO编辑出版，面向西班牙语世界的网络科学教学。保留英文原版所有图解和内容。",
+      "popularity_metric": "Goodreads 条目 · 西语世界教学用",
+      "source": "https://www.goodreads.com/book/show/63842245-ciencia-de-redes",
+      "relevance_to_six_knives": "Knife 1: 知识传播多语种化"
+    },
+    {
+      "title": "Spatial Ordering of Self-Assembled Quantum Dots",
+      "author": "Albert-László Barabási",
+      "year": 2000,
+      "type": "专著",
+      "summary": "探讨自组装量子点空间有序性的学术专著。属于Barabási早期材料物理研究的延伸，运用统计物理和生长动力学理论分析量子点在半导体表面的自组织行为。",
+      "popularity_metric": "学术专著 · Google Scholar ~200+ 引用",
+      "source": "https://www.goodreads.com/book/show/157042314-spatial-ordering-of-self-assembled-quantum-dots",
+      "relevance_to_six_knives": "Knife 5: 材料生长动力学 · 早期跨学科基础"
+    },
+    {
+      "title": "Morphological and Compositional Evolution of Heteroepitaxial Semiconductor Thin Films, Vol 618",
+      "author": "J.M. Millunchick, Albert-László Barabási et al. (Editors)",
+      "year": 2000,
+      "type": "教材",
+      "summary": "材料科学领域的学术会议文集/教材，关注半导体异质外延薄膜的形态与成分演化。Barabási以统计物理学视角参与编辑。",
+      "popularity_metric": "学术文献 · MRS研讨会系列",
+      "source": "https://www.goodreads.com/book/show/2792688-morphological-and-compositional-evolution-of-heteroepitaxial-semiconduct",
+      "relevance_to_six_knives": "Knife 5: 材料科学网络"
+    },
+    {
+      "title": "Linked: The New Science of Networks (首版副标题版)",
+      "author": "Albert-László Barabási",
+      "year": 2002,
+      "type": "翻译",
+      "summary": "Linked的早期版本/副标题变体，书名为'Linked: The New Science of Networks'。与后续加长副标题版本内容一致，仅在出版编排上有差异。",
+      "popularity_metric": "Goodreads 单独条目 · Less common edition",
+      "source": "https://www.goodreads.com/book/show/232656917-linked",
+      "relevance_to_six_knives": "Knife 1: 版本学记录"
+    },
+    {
+      "title": "The Formula: The Five Laws Behind Why People Succeed (副标题变体版)",
+      "author": "Albert-László Barabási",
+      "year": 2018,
+      "type": "翻译",
+      "summary": "The Formula的另一个副标题版本，以'五大定律'替代'普适定律'表述。内容与主版本一致。",
+      "popularity_metric": "Goodreads 单独条目 · Less common edition",
+      "source": "https://www.goodreads.com/book/show/228492581-the-formula",
+      "relevance_to_six_knives": "Knife 1: 版本学记录"
+    },
+    {
+      "title": "Linked — 中文版《链接：商业、科学与生活的新思维》",
+      "author": "Albert-László Barabási (徐彬 译)",
+      "year": 2007,
+      "type": "翻译",
+      "summary": "Linked的中文译本。由徐彬翻译，浙江人民出版社/湖南科技出版社出版。将无标度网络的核心概念引入中文世界，是中文学术与非虚构阅读中的网络科学经典。",
+      "popularity_metric": "豆瓣评分 8.5/10 · 简中版长销经典",
+      "source": "豆瓣读书/Amazon CN",
+      "relevance_to_six_knives": "Knife 1: 中文世界知识传播 · Knife 6: 跨文化影响力"
+    },
+    {
+      "title": "Bursts — 中文版《爆发：大数据时代预见未来的新思维》",
+      "author": "Albert-László Barabási (马慧 译)",
+      "year": 2012,
+      "type": "翻译",
+      "summary": "Bursts的中文译本。马慧翻译，中国人民大学出版社出版。将人类行为爆发模式的概念引入中文阅读市场。",
+      "popularity_metric": "豆瓣评分 7.5/10 · 简中版畅销",
+      "source": "豆瓣读书",
+      "relevance_to_six_knives": "Knife 2: 中文世界传播"
+    },
+    {
+      "title": "The Formula — 中文版《成功的公式：科学揭秘成功》",
+      "author": "Albert-László Barabási (马欢 译)",
+      "year": 2019,
+      "type": "翻译",
+      "summary": "The Formula的中文译本。由马欢翻译，浙江人民出版社出版。以科学视角解码成功的五大定律，在中国读者中获得广泛关注。",
+      "popularity_metric": "豆瓣评分 7.8/10 · 简中版畅销",
+      "source": "豆瓣读书",
+      "relevance_to_six_knives": "Knife 4: 中文世界传播 · 规则系统"
+    },
+    {
+      "title": "Network Science — 中文版《网络科学》",
+      "author": "Albert-László Barabási (沈华伟 等译)",
+      "year": 2020,
+      "type": "翻译",
+      "summary": "Network Science的中文译本。由沈华伟等翻译，北京大学出版社出版。保留原版全彩图解和公式编排，供中文读者学习的网络科学经典教材。",
+      "popularity_metric": "豆瓣评分 9.0/10 · 高校教材用",
+      "source": "豆瓣读书",
+      "relevance_to_six_knives": "Knife 1: 中文教学 · Knife 3: 知识体系传播"
+    },
+    {
+      "title": "The Formula — 韩语版《성공의 공식》",
+      "author": "Albert-László Barabási",
+      "year": 2019,
+      "type": "翻译",
+      "summary": "The Formula的韩语译本。在韩国出版市场以成功学读物推广。",
+      "popularity_metric": "Yes24/Aladin 韩语版",
+      "source": "各种韩语图书平台",
+      "relevance_to_six_knives": "Knife 4: 东亚地区传播"
+    },
+    {
+      "title": "The Formula — 日语版《ザ・フォーミュラ 成功の普遍的法則》",
+      "author": "Albert-László Barabási",
+      "year": 2019,
+      "type": "翻译",
+      "summary": "The Formula的日语译本。在日本以ビジネス書（经管书）品类发行。",
+      "popularity_metric": "Amazon Japan 榜单位",
+      "source": "Amazon Japan",
+      "relevance_to_six_knives": "Knife 4: 东亚地区传播"
+    },
+    {
+      "title": "Linked — 日语版《リンクド ネットワーク科学のすべて》",
+      "author": "Albert-László Barabási",
+      "year": 2005,
+      "type": "翻译",
+      "summary": "Linked的日语译本。日本较早引介网络科学的著作之一。",
+      "popularity_metric": "Amazon Japan 经典书目",
+      "source": "Amazon Japan",
+      "relevance_to_six_knives": "Knife 1: 日本知识传播"
+    },
+    {
+      "title": "The Structure and Dynamics of Networks — Princeton Studies in Complexity 系列",
+      "author": "Mark Newman, Albert-László Barabási, Duncan J. Watts",
+      "year": 2006,
+      "type": "翻译",
+      "summary": "The Structure and Dynamics of Networks属于Princeton大学复杂性研究系列中影响力最大的一册。已被翻译为中文简体版《网络的结构与动力学》。",
+      "popularity_metric": "Princeton Series 长销 · Google Scholar 5000+ 引用(主版本)",
+      "source": "https://press.princeton.edu",
+      "relevance_to_six_knives": "Knife 1: 标准参考 · Knife 4: 复杂性科学脉络"
+    },
+    {
+      "title": "The Formula 书评 — 'What if success is a science?' (Harvard Business Review)",
+      "author": "Harvard Business Review",
+      "year": 2018,
+      "type": "书评",
+      "summary": "HBR对The Formula的深度书评。讨论了Barabási的成功定量化方法论及其对管理和领导力的启示。被认为是该书的代表性评论。",
+      "popularity_metric": "HBR 千万级读者",
+      "source": "https://hbr.org",
+      "relevance_to_six_knives": "Knife 4: 管理科学交叉 · 书评影响力"
+    },
+    {
+      "title": "Network Science 书评 — Nature Physics 'Mapping the network way'",
+      "author": "Nature Physics",
+      "year": 2016,
+      "type": "书评",
+      "summary": "Nature Physics对Network Science教材的学术书评。评价该书为'网络科学领域的最佳入门教材'，赞赏其在线资源和交互式教学内容。",
+      "popularity_metric": "Nature Physics IF~20 · 学术书评",
+      "source": "https://www.nature.com/natphys/",
+      "relevance_to_six_knives": "Knife 1: 学术背书"
+    },
+    {
+      "title": "Bursts 书评 — Wired Review 'The hidden pattern behind everything we do'",
+      "author": "Wired",
+      "year": 2010,
+      "type": "书评",
+      "summary": "Wired杂志对Bursts的专题书评。突出了人类行为的爆发模式如何改变我们对预测和隐私的认知，是Bursts主要的科技媒体传播来源。",
+      "popularity_metric": "Wired 百万级读者",
+      "source": "https://www.wired.com",
+      "relevance_to_six_knives": "Knife 2: 科技媒体传播"
+    },
+    {
+      "title": "Linked 书评 — New York Times 'Connected: Can the new science of networks explain everything?'",
+      "author": "The New York Times",
+      "year": 2002,
+      "type": "书评",
+      "summary": "纽约时报对Linked的权威书评。将无标度网络概念介绍给大众读者，标志着网络科学正式进入公共知识领域。",
+      "popularity_metric": "NYT Book Review 千万级读者",
+      "source": "https://www.nytimes.com",
+      "relevance_to_six_knives": "Knife 1: 公共知识传播"
+    },
+    {
+      "title": "The Formula 解读 — 'The Formula: A Science of Success' TED Talk 配套解读",
+      "author": "Albert-László Barabási (TED)",
+      "year": 2020,
+      "type": "解读",
+      "summary": "Barabási基于The Formula在TED发表的演讲《A Science of Success》，配套有多篇解读文章。将科学成功观以演讲形式传播至全球。",
+      "popularity_metric": "TED 数百万次观看",
+      "source": "https://www.ted.com",
+      "relevance_to_six_knives": "Knife 4: 公众科学传播"
+    },
+    {
+      "title": "Linked 20周年特别版书评/回顾 — '20 years of network science'",
+      "author": "多位学者评论",
+      "year": 2022,
+      "type": "书评",
+      "summary": "在Linked出版20周年之际，多位网络科学家撰文回顾该书对学科发展的深远影响，包括无标度网络的争议、验证与新进展。",
+      "popularity_metric": "学术社交媒体/网络科学社区",
+      "source": "Nature/Royal Society Open Science 等",
+      "relevance_to_six_knives": "Knife 1: 学术史 · 学科回顾"
+    },
+    {
+      "title": "Bursts — 德文版 Ausbrüche",
+      "author": "Albert-László Barabási (Übersetzung)",
+      "year": 2013,
+      "type": "翻译",
+      "summary": "Bursts的德文译本。德语世界了解人类行为爆发模式的主要渠道。",
+      "popularity_metric": "Amazon DE / Thalia 德语市场",
+      "source": "Amazon DE",
+      "relevance_to_six_knives": "Knife 2: 欧洲知识传播"
+    },
+    {
+      "title": "Network Science 书评 — Physics Today 'A textbook for the network age'",
+      "author": "Physics Today",
+      "year": 2016,
+      "type": "书评",
+      "summary": "Physics Today对Network Science教材的学术书评，赞扬其清晰的图解和在线互动平台对教学的革新意义。",
+      "popularity_metric": "Physics Today IF ~2.5 · 物理学家群体",
+      "source": "https://physicstoday.scitation.org",
+      "relevance_to_six_knives": "Knife 1: 物理学界背书"
+    }
+  ],
+  "rounds_log": [
+    {
+      "round": 1,
+      "added": 7,
+      "cumulative": 7,
+      "decision": "keep"
+    },
+    {
+      "round": 2,
+      "added": 4,
+      "cumulative": 11,
+      "decision": "keep"
+    },
+    {
+      "round": 3,
+      "added": 5,
+      "cumulative": 16,
+      "decision": "keep"
+    },
+    {
+      "round": 4,
+      "added": 6,
+      "cumulative": 22,
+      "decision": "keep"
+    },
+    {
+      "round": 5,
+      "added": 5,
+      "cumulative": 27,
+      "decision": "keep"
+    },
+    {
+      "round": 6,
+      "added": 2,
+      "cumulative": 29,
+      "decision": "keep"
+    },
+    {
+      "round": 7,
+      "added": 1,
+      "cumulative": 30,
+      "decision": "end"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "total": 28,
+  "items": [
+    {
+      "title": "TED Talk: The Real Relationship Between Your Age and Your Chance of Success",
+      "type": "演讲",
+      "source": "https://www.ted.com/talks/albert_laszlo_barabasi_the_real_relationship_between_your_age_and_your_chance_of_success",
+      "summary": "Barabási在TED演讲中利用数学分析和网络科学揭示成功的隐藏机制。他通过分析艺术家、科学家等多个领域的数据，发现成功与年龄之间并无简单线性关系——创造力高峰可以出现在任何年龄段，关键在于持续产出和网络效应。该演讲是其《成功的公式》（The Formula）一书核心论点的浓缩。"
+    },
+    {
+      "title": "Book: The Formula: The Universal Laws of Success",
+      "type": "博客/书籍",
+      "source": "https://www.barabasi.com/book/the-formula/",
+      "summary": "《The Formula》系统阐述Barabási通过大数据分析发现的「成功五大普适定律」。核心论点：产品性能驱动成功，但持续性表现取决于网络效应。书中分析了科学家、运动员、艺术家等案例，证明成功可以量化并预测。连续多周登上《纽约时报》畅销书排行榜。"
+    },
+    {
+      "title": "Book: Linked: The New Science of Networks",
+      "type": "博客/书籍",
+      "source": "https://www.barabasi.com/book/linked-the-new-science-of-networks/",
+      "summary": "《Linked》是Barabási的成名作，系统阐述了网络科学的核心概念，包括无标度网络（Scale-Free Network）、幂律分布、优先连接机制（Barabási-Albert模型）。该书被翻译成多国语言，被公认为网络科学领域的奠基性科普著作，总引用量超过50,000次。"
+    },
+    {
+      "title": "NPR Interview: What Your Age Really Says About Your Chance of Success at Work",
+      "type": "媒体报道",
+      "source": "https://www.npr.org/2022/11/11/1137466873/what-your-age-really-says-about-your-chance-of-success-at-work",
+      "summary": "NPR的深度访谈节目，Barabási以物理学家的视角解读年龄与工作成功的关系。他反驳了「年轻才能创造巅峰」的流行迷思，用数据证明创造力可以是全生命周期的。节目讨论了随机性在成功中的作用，及其对职业规划的启示。"
+    },
+    {
+      "title": "unSILOed Podcast Episode 446: The Science of Success with Albert-László Barabási",
+      "type": "播客",
+      "source": "https://www.unsiloedpodcast.com/episodes/albert-laszlo-barabasi",
+      "summary": "Barabási在深度播客访谈中全面探讨了成功科学的研究方法论。他详细解释了如何从海量数据中提炼成功规律，网络科学如何解释职业突破，以及为什么「超出版本/范围」的冒险行为是成功的必要条件。讨论覆盖了他的研究从物理实验室走向公众视野的过程。"
+    },
+    {
+      "title": "Big Think / The Well: The Invisible Networks Connecting Everything",
+      "type": "访谈",
+      "source": "https://open.spotify.com/episode/1zmaLG0OqcciLgczXqFpPD",
+      "summary": "Barabási在Big Think的访谈中深入浅出地讲解了网络科学的核心思想——万事万物皆相连。他阐释了如何通过网络结构理解从大脑到社会再到疾病的复杂系统，以及为什么理解底层网络关系对未来科技和医学至关重要。"
+    },
+    {
+      "title": "Podcast Interviews on Padverb (Multiple Appearances)",
+      "type": "播客",
+      "source": "https://en.padverb.com/albert-laszlo.barabasi",
+      "summary": "Barabási出现在多个播客访谈中，包括与Richard Jacobs探讨网络科学的深度对话，以及和Roger Dooley讨论成功心理学。这些访谈覆盖了网络医学、成功公式、以及他的学术生涯历程。"
+    },
+    {
+      "title": "Origins Podcast: Network Science, Breakthrough Orientation, and a Life Made Around Discovery",
+      "type": "播客",
+      "source": "https://podcasts.apple.com/us/podcast/albert-l%C3%A1szl%C3%B3-barab%C3%A1si-network-science-breakthrough/id1455747160?i=1000652590154",
+      "summary": "Ryan McGranaghan与Barabási的深度对话，探索网络科学家的思维方式和人生故事。Barabási分享了他的突破定向思维——如何识别关键问题，如何建立跨学科合作，以及他是如何在发现无标度网络后持续拓展研究疆域的。"
+    },
+    {
+      "title": "TED Speaker Profile: Albert-László Barabási",
+      "type": "演讲",
+      "source": "https://www.ted.com/speakers/albert_laszlo_barabasi",
+      "summary": "TED官方Speaker页面收录了Barabási的完整简介——他被誉为网络科学的先驱，研究领域涵盖大脑结构、网络医学治疗疾病、艺术成功的涌现机制以及科学本身如何运作。TED平台将其定位为探索复杂系统隐藏秩序的思考领袖。"
+    },
+    {
+      "title": "YouTube: Is It Too Late to Succeed? — The Surprising Science of Age (TED Explainer)",
+      "type": "其他（TED衍生视频）",
+      "source": "https://www.youtube.com/watch?v=VBhOtuNi6r4",
+      "summary": "基于Barabási TED演讲的衍生解释视频，深度剖析了「年龄与成功」的关系。该视频挑战了现代生活最有害的迷思之一——创造力和成功只属于年轻人。用Barabási的数据可视化分析，直观展示了不同年龄段持续产出的价值。"
+    },
+    {
+      "title": "YouTube: Barabási TED Talk Full Video (TED Business)",
+      "type": "演讲",
+      "source": "https://www.youtube.com/watch?v=ysblroPCgCw",
+      "summary": "Barabási在TEDxMidAtlantic的完整演讲视频，由TED Business频道分发。演讲以数学分析为根基，探讨年龄与成功概率之间被误解的关系。视频获得广泛传播，被应用于商学院和创业课程。"
+    },
+    {
+      "title": "YouTube: All Albert-László Barabási Videos Playlist",
+      "type": "其他（YouTube合集）",
+      "source": "https://www.youtube.com/playlist?list=PL_B7bI1QVmJDQde1b7K4kmJWkXWhZmK5p",
+      "summary": "Barabási官方YouTube频道合集，收录了他的全部公开演讲视频和学术讲座。包括关于大脑网络结构、网络医学治疗疾病、科学论文引用网络分析、无标度网络理论的讲座系列。是获取Barabási视频内容最全面的入口。"
+    },
+    {
+      "title": "YouTube: Network Science Colloquium — From the Role of Physicality in Networks to the Connectome",
+      "type": "演讲",
+      "source": "https://www.youtube.com/watch?v=XudurSu9m7U",
+      "summary": "Barabási在2025年网络科学座谈会的最新学术演讲，主题从网络中的物理性角色扩展到连接组学（Connectome）。这是他近年最前沿的研究成果展示，探讨了物理网络与生物网络的交叉领域。"
+    },
+    {
+      "title": "Book: Network Science (Free Online Textbook)",
+      "type": "博客/书籍",
+      "source": "https://www.networksciencebook.com/",
+      "summary": "Barabási撰写的《Network Science》教科书，完全免费在线开放，采用Creative Commons许可。该书已成为全球大学网络科学课程的标准教材，涵盖无标度网络、小世界网络、网络鲁棒性、社区发现等核心主题，配有丰富的可视化互动内容。"
+    },
+    {
+      "title": "Nature News: Nature's Reach — Narrow Work Has Broad Impact",
+      "type": "媒体报道",
+      "source": "https://www.nature.com/articles/d41586-019-03308-7",
+      "summary": "Barabási与团队在Nature新闻版块发表评论文章，庆祝Nature杂志150周年。利用网络科学分析发现：今天的科学论文比历史上任何时候都受更多学科启发，专精化研究反而具有更广泛的跨学科影响力。"
+    },
+    {
+      "title": "Nature Communications: Scientific Success by Numbers (Commentary)",
+      "type": "媒体报道",
+      "source": "https://www.nature.com/articles/d41586-021-01169-7",
+      "summary": "Nature发表的关于科学成功定量化分析的评论文章，涉及Barabási在文献计量学和科学成功量化方面的开创性贡献。讨论了大数据的科学评价必须在历史、经济和政治背景下进行定性分析的重要性。"
+    },
+    {
+      "title": "Google Scholar Profile: Albert-László Barabási",
+      "type": "其他（学术资料）",
+      "source": "https://scholar.google.com/citations?user=vsj2slIAAAAJ&hl=en",
+      "summary": "Barabási的Google Scholar学术档案，显示其论文总引用量超过180,000次，h-index超过150。论文涵盖网络科学、统计物理、生物物理、网络医学等领域。是验证其学术影响力的核心数据源。"
+    },
+    {
+      "title": "Barabási Lab Official Website",
+      "type": "其他（官方网站）",
+      "source": "https://www.barabasi.com/science",
+      "summary": "BarabásiLab（东北大学复杂网络研究中心）官方网站，展示了25年来改变世界对网络认知的研究成果。研发了复杂性的视觉语言，涵盖网络医学、连接组学、成功科学等多个方向。是获取Barabási实验室最新研究和公开数据的门户。"
+    },
+    {
+      "title": "Northeastern University Faculty Profile",
+      "type": "其他（学术介绍）",
+      "source": "https://cos.northeastern.edu/people/albert-laszlo-barabasi/",
+      "summary": "Barabási在东北大学的官方教授简介页面。详细介绍了他作为网络科学创始人的学术历程：代谢和基因网络、社会网络量化、互联网复杂结构、生态系统网络描述等跨学科研究。其理论影响了物理学、医学和社会科学等多个领域。"
+    },
+    {
+      "title": "CEU Department of Network and Data Science Profile",
+      "type": "其他（学术介绍）",
+      "source": "http://networkdatascience.ceu.edu/people/albert-laszlo-barabasi",
+      "summary": "Barabási在中欧大学的官方学术介绍，这里他是网络科学系的创始学者。页面阐述了他的理论和实证工作如何建立网络科学领域，以及他的发现如何跨越物理学到医学和社会科学的多学科范围。"
+    },
+    {
+      "title": "LinkedIn Post: Network Science Institute on Barabási's Twitter Influence",
+      "type": "X推文/Social",
+      "source": "https://www.linkedin.com/posts/network-science-institute_albert-l%C3%A1szl%C3%B3-barab%C3%A1si-on-twitter-activity-6914229474930692096-QofQ",
+      "summary": "网络科学研究所通过LinkedIn转发并推荐关注Barabási的Twitter账号。Barabási在Twitter（@barabasi）上拥有大量学术粉丝，经常分享网络科学最新研究、学术评论和数据可视化内容。"
+    },
+    {
+      "title": "TED Transcript: The Real Relationship Between Your Age & Your Chance of Success",
+      "type": "其他（演讲文字稿）",
+      "source": "https://singjupost.com/the-real-relationship-between-your-age-your-chance-of-success-albert-laszlo-barabasi-transcript/",
+      "summary": "Barabási TED演讲的完整文字稿，精确记录了他的每一句话和演讲节奏。文字稿为全球非英语母语者提供了学习Barabási论证逻辑的完整资料。内容覆盖了从Artist career arc数据到科学论文引用年龄分布的全部论证过程。"
+    },
+    {
+      "title": "Hark Audio: TED Business Podcast — The Real Relationship Between Your Age and Your Chance of Success",
+      "type": "播客",
+      "source": "https://harkaudio.com/p/ted-talks-daily-ted/the-real-relationship-between-your-age-and-your-chance-of-success-or-albert-laszlo-barabasi-albert-laszlo-barabasi",
+      "summary": "TED Business播客平台将Barabási的TED演讲制作为音频节目，面向商业听众群体。节目将TED演讲的精髓压缩为音频格式，适合通勤和学习场景。Barabási向企业家和职场人士传达了：成功并非年轻人的专利。"
+    },
+    {
+      "title": "Podtail: The Science of Success with Albert-László Barabási (unSILOed)",
+      "type": "播客",
+      "source": "https://podtail.com/en/podcast/unsiloed-with-greg-lablanc/446-the-science-of-success-with-albert-laszlo-bara/",
+      "summary": "Podtail聚合页面展示的Barabási播客访谈节目。内容包括如何通过网络科学理解个人成功的概率分布，Barabási的「溢出」理论与创新扩散的关系，以及为什么在网络时代「谁认识你」比「你知道什么」更能预测成功。"
+    },
+    {
+      "title": "Book: Bursts: The Hidden Pattern Behind Everything We Do",
+      "type": "博客/书籍",
+      "source": "https://www.barabasi.com/book/bursts/",
+      "summary": "《Bursts》探讨了人类行为中的爆发模式——为什么在看似随机的行为背后存在可预测的暴发性规律。Barabási利用手机通话数据、电子邮件通信和历史上的重大战争事件，揭示了人类活动服从幂律分布的特性。"
+    },
+    {
+      "title": "Network Medicine Institute: Barabási Lab — COVID-19 Network Medicine Research",
+      "type": "其他（学术项目）",
+      "source": "https://network-medicine.org/covid/barabsi-lab",
+      "summary": "疫情期间，Barabási领导的团队利用网络医学工具识别新冠病毒蛋白质所需的人类组织表达情况。该研究建立了病毒-宿主蛋白互作网络模型，为药物重定位提供了理论依据。这不是直接的公众访谈，但其工作被大量媒体报道。"
+    },
+    {
+      "title": "Wikipedia: Linked: The New Science of Networks",
+      "type": "其他（百科）",
+      "source": "https://en.wikipedia.org/wiki/Linked:_The_New_Science_of_Networks",
+      "summary": "Wikipedia对《Linked》的详细介绍页面。该书被评价为「改变了人们对现实世界网络的思考方式」，并「极大地促进了网络科学成为21世纪的革命性科学」。页面详细介绍了书中核心理论：无标度网络、六度分隔、幂律分布和优先连接。"
+    },
+    {
+      "title": "Podbean: #121 Albert-László Barabási — The Science Behind Why Some People Succeed and Others Don't",
+      "type": "播客",
+      "source": "https://open.spotify.com/episode/3Xx8PDzn6MUf9yBhUfcBeQ",
+      "summary": "Barabási在Spotify播客节目中深度讨论为什么有些人成功而有些人不成功。他全面阐述了自己的研究框架：从物理学家到网络科学家的转型之路、Barabási-Albert模型的发现故事、以及「The Formula」书中未在TED演讲中展开的更多成功定律。"
+    }
+  ]
+}

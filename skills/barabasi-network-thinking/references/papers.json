@@ -1,0 +1,4074 @@
+{
+  "status": "success",
+  "search_rounds_run": 6,
+  "finalize_rounds_run": 1,
+  "total_items": 202,
+  "termination_reason": "累计 202 ≥ 40 条 → 立即停",
+  "dimension": "papers",
+  "items": [
+    {
+      "title": "The human disease network",
+      "authors": [
+        "K.-I. Goh",
+        "Michael E. Cusick",
+        "David Valle",
+        "Barton Childs",
+        "Marc Vidal",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2007,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.0701361104",
+      "citations": 3249,
+      "summary": "Constructs the human disease network connecting diseases based on shared genetic origins, revealing that diseases are highly interconnected and that disease genes cluster in the interactome.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1073/pnas.0701361104"
+    },
+    {
+      "title": "Limits of Predictability in Human Mobility",
+      "authors": [
+        "Chaoming Song",
+        "Zehui Qu",
+        "Nicholas Blumm",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2010,
+      "journal": "Science",
+      "doi": "10.1126/science.1177170",
+      "citations": 3190,
+      "summary": "Quantifies the fundamental limits of predictability in human mobility, showing that despite the randomness of individual movements, 93% of human mobility is predictable.",
+      "relevance_to_six_knives": "predictability",
+      "source": "https://doi.org/10.1126/science.1177170"
+    },
+    {
+      "title": "The Product Space Conditions the Development of Nations",
+      "authors": [
+        "César A. Hidalgo",
+        "Bailey Klinger",
+        "Albert-Ĺaszló Barabási",
+        "Ricardo Hausmann"
+      ],
+      "year": 2007,
+      "journal": "Science",
+      "doi": "10.1126/science.1144581",
+      "citations": 2833,
+      "summary": "Analyses the product space connecting goods traded globally, showing that a country's development trajectory depends on its position in this network.",
+      "relevance_to_six_knives": "social-networks",
+      "source": "https://doi.org/10.1126/science.1144581"
+    },
+    {
+      "title": "The origin of bursts and heavy tails in human dynamics",
+      "authors": [
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2005,
+      "journal": "Nature",
+      "doi": "10.1038/nature03459",
+      "citations": 2285,
+      "summary": "Shows that the heavy tails and bursty inter-event times observed in human communication patterns arise from queuing and priority-based decision processes.",
+      "relevance_to_six_knives": "bursty",
+      "source": "https://doi.org/10.1038/nature03459"
+    },
+    {
+      "title": "Mean-field theory for scale-free random networks",
+      "authors": [
+        "Albert-Ĺaszló Barabási",
+        "Réka Albert",
+        "Hawoong Jeong"
+      ],
+      "year": 1999,
+      "journal": "Physica A Statistical Mechanics and its Applications",
+      "doi": "10.1016/s0378-4371(99)00291-5",
+      "citations": 2279,
+      "summary": "Derives the mean-field theory for scale-free random networks, providing analytical solutions for the degree distribution and showing that preferential attachment yields power-law scaling.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1016/s0378-4371(99)00291-5"
+    },
+    {
+      "title": "Hierarchical organization in complex networks",
+      "authors": [
+        "Erzsébet Ravasz Regan",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2003,
+      "journal": "Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics",
+      "doi": "10.1103/physreve.67.026112",
+      "citations": 2183,
+      "summary": "Demonstrates that many complex networks exhibit hierarchical organization, combining scale-free topology with high clustering coefficients through a deterministic model.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1103/physreve.67.026112"
+    },
+    {
+      "title": "Scale-Free Networks: A Decade and Beyond",
+      "authors": [
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2009,
+      "journal": "Science",
+      "doi": "10.1126/science.1173299",
+      "citations": 2129,
+      "summary": "Reviews the first decade of scale-free network research, covering the ubiquity of power-law degree distributions and the impact of the Barabási-Albert model across disciplines.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1126/science.1173299"
+    },
+    {
+      "title": "Structure and tie strengths in mobile communication networks",
+      "authors": [
+        "Jukka‐Pekka Onnela",
+        "Jari Saramäki",
+        "Jörkki Hyvönen",
+        "Gábor Szabó",
+        "David Lazer",
+        "Kimmo Kaski",
+        "János Kertész",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2007,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.0610245104",
+      "citations": 1958,
+      "summary": "Analyzes mobile communication networks to reveal the relationship between network structure and tie strengths, showing how weak ties bridge communities.",
+      "relevance_to_six_knives": "social-networks",
+      "source": "https://doi.org/10.1073/pnas.0610245104"
+    },
+    {
+      "title": "Interactome Networks and Human Disease",
+      "authors": [
+        "Marc Vidal",
+        "Michael E. Cusick",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2011,
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2011.02.016",
+      "citations": 1807,
+      "summary": "Reviews how protein interaction networks (interactomes) provide a framework for understanding human disease, identifying disease modules and network-based drug targets.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1016/j.cell.2011.02.016"
+    },
+    {
+      "title": "Drug—target network",
+      "authors": [
+        "Muhammed A. Yıldırım",
+        "K.-I. Goh",
+        "Michael E. Cusick",
+        "Albert-Ĺaszló Barabási",
+        "Marc Vidal"
+      ],
+      "year": 2007,
+      "journal": "Nature Biotechnology",
+      "doi": "10.1038/nbt1338",
+      "citations": 1734,
+      "summary": "Maps the network of FDA-approved drugs and their known protein targets, revealing the modular structure of drug-target interactions and polypharmacology.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/nbt1338"
+    },
+    {
+      "title": "Quantifying social group evolution",
+      "authors": [
+        "Gergely Palla",
+        "Albert-Ĺaszló Barabási",
+        "Tamás Vicsek"
+      ],
+      "year": 2007,
+      "journal": "Nature",
+      "doi": "10.1038/nature05670",
+      "citations": 1680,
+      "summary": "Quantifies the evolution of social groups over time using mobile phone data, revealing the dynamic processes governing group formation and dissolution.",
+      "relevance_to_six_knives": "social-networks",
+      "source": "https://doi.org/10.1038/nature05670"
+    },
+    {
+      "title": "Uncovering disease-disease relationships through the incomplete interactome",
+      "authors": [
+        "Jörg Menche",
+        "Amitabh Sharma",
+        "Maksim Kitsak",
+        "Susan Dina Ghiassian",
+        "Marc Vidal",
+        "Joseph Loscalzo",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2015,
+      "journal": "Science",
+      "doi": "10.1126/science.1257601",
+      "citations": 1613,
+      "summary": "Develops methods to uncover disease-disease relationships through analysis of the incomplete human interactome, revealing molecular connections between seemingly unrelated conditions.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1126/science.1257601"
+    },
+    {
+      "title": "A universal model for mobility and migration patterns",
+      "authors": [
+        "Filippo Simini",
+        "Marta C. González",
+        "Amos Maritan",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2012,
+      "journal": "Nature",
+      "doi": "10.1038/nature10856",
+      "citations": 1510,
+      "summary": "Develops a universal model for human mobility and migration patterns that captures the scaling properties of movement across different scales.",
+      "relevance_to_six_knives": "predictability",
+      "source": "https://doi.org/10.1038/nature10856"
+    },
+    {
+      "title": "A Proteome-Scale Map of the Human Interactome Network",
+      "authors": [
+        "Thomas Rolland",
+        "Murat Taşan",
+        "Benoît Charloteaux",
+        "Samuel Pevzner",
+        "Quan Zhong",
+        "Nidhi Sahni",
+        "S. Stephen Yi",
+        "Irma Lemmens",
+        "Celia Fontanillo",
+        "Roberto Mosca",
+        "Atanas Kamburov",
+        "Susan Dina Ghiassian",
+        "Xinping Yang",
+        "Lila Ghamsari",
+        "Dawit Balcha",
+        "Bridget E. Begg",
+        "Pascal Falter‐Braun",
+        "Marc Brehme",
+        "Martin Broly",
+        "Anne‐Ruxandra Carvunis",
+        "Dan Convery-Zupan",
+        "Roser Corominas",
+        "Jasmin Coulombe‐Huntington",
+        "Elizabeth Dann",
+        "Matija Dreze",
+        "Amélie Dricot",
+        "Changyu Fan",
+        "Eric A. Franzosa",
+        "Fana Gebreab",
+        "Bryan J. Gutierrez",
+        "Madeleine F. Hardy",
+        "Mike Jin",
+        "Shuli Kang",
+        "Ruth Kiros",
+        "Guan Ning Lin",
+        "Katja Luck",
+        "Andrew MacWilliams",
+        "Jörg Menche",
+        "Ryan R. Murray",
+        "Alexandre Palagi",
+        "Matthew M. Poulin",
+        "Xavier Rambout",
+        "John Rasla",
+        "Patrick Reichert",
+        "Viviana Romero",
+        "Elien Ruyssinck",
+        "Julie M. Sahalie",
+        "Annemarie Scholz",
+        "Akash Shah",
+        "Amitabh Sharma",
+        "Yun Shen",
+        "Kerstin Spirohn",
+        "Stanley Tam",
+        "Alexander O. Tejeda",
+        "Shelly A. Wanamaker",
+        "Jean‐Claude Twizere",
+        "Kerwin Vega",
+        "Jennifer Walsh",
+        "Michael E. Cusick",
+        "Yu Xia",
+        "Albert-Ĺaszló Barabási",
+        "Lilia M. Iakoucheva",
+        "Patrick Aloy",
+        "Javier De Las Rivas",
+        "Jan Tavernier",
+        "Michael A. Calderwood",
+        "David E. Hill",
+        "Tong Hao",
+        "Frederick P. Roth",
+        "Marc Vidal"
+      ],
+      "year": 2014,
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2014.10.050",
+      "citations": 1457,
+      "summary": "Presents a proteome-scale map of the human interactome network, systematically mapping protein-protein interactions to understand cellular organization and disease.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1016/j.cell.2014.10.050"
+    },
+    {
+      "title": "High-Quality Binary Protein Interaction Map of the Yeast Interactome Network",
+      "authors": [
+        "Haiyuan Yu",
+        "Pascal Falter‐Braun",
+        "Muhammed A. Yıldırım",
+        "Irma Lemmens",
+        "K. Venkatesan",
+        "Julie M. Sahalie",
+        "Tomoko Hirozane-Kishikawa",
+        "Fana Gebreab",
+        "Na Li",
+        "Nicolas Simonis",
+        "Tong Hao",
+        "Jean‐François Rual",
+        "Amélie Dricot",
+        "Alexei Vázquez",
+        "Ryan R. Murray",
+        "Christophe Simon",
+        "Leah Tardivo",
+        "Stanley Tam",
+        "Nenad Svrzikapa",
+        "Changyu Fan",
+        "A. De Smet",
+        "Adriana Motyl",
+        "Michael E. Hudson",
+        "Juyong Park",
+        "Xiaofeng Xin",
+        "Michael E. Cusick",
+        "Troy Moore",
+        "Charlie Boone",
+        "M Snyder",
+        "Frederick P. Roth",
+        "Albert-Ĺaszló Barabási",
+        "Jan Tavernier",
+        "David E. Hill",
+        "Marc Vidal"
+      ],
+      "year": 2008,
+      "journal": "Science",
+      "doi": "10.1126/science.1158684",
+      "citations": 1427,
+      "summary": "Provides a high-quality binary protein interaction map of the yeast interactome network, establishing the gold standard for interactome mapping.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1126/science.1158684"
+    },
+    {
+      "title": "Science of science",
+      "authors": [
+        "Santo Fortunato",
+        "Carl T. Bergstrom",
+        "Katy Börner",
+        "James A. Evans",
+        "Dirk Helbing",
+        "Staša Milojević",
+        "Alexander M. Petersen",
+        "Filippo Radicchi",
+        "Roberta Sinatra",
+        "Brian Uzzi",
+        "Alessandro Vespignani",
+        "Ludo Waltman",
+        "Dashun Wang",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2018,
+      "journal": "Science",
+      "doi": "10.1126/science.aao0185",
+      "citations": 1379,
+      "summary": "Provides a comprehensive review of the science of science field, covering the quantitative understanding of scientific careers, impact, collaboration, and the dynamics of knowledge creation.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1126/science.aao0185"
+    },
+    {
+      "title": "Topology of Evolving Networks: Local Events and Universality",
+      "authors": [
+        "Réka Albert",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2000,
+      "journal": "Physical Review Letters",
+      "doi": "10.1103/physrevlett.85.5234",
+      "citations": 1322,
+      "summary": "Studies the topology of evolving networks, showing that local events and preferential attachment lead to universal scaling properties in network structure.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1103/physrevlett.85.5234"
+    },
+    {
+      "title": "Modelling the scaling properties of human mobility",
+      "authors": [
+        "Chaoming Song",
+        "Tal Koren",
+        "Pu Wang",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2010,
+      "journal": "Nature Physics",
+      "doi": "10.1038/nphys1760",
+      "citations": 1304,
+      "summary": "Models the scaling properties of human mobility, reproducing the characteristic displacement and waiting time distributions observed in real trajectory data.",
+      "relevance_to_six_knives": "predictability",
+      "source": "https://doi.org/10.1038/nphys1760"
+    },
+    {
+      "title": "Universal resilience patterns in complex networks",
+      "authors": [
+        "Jianxi Gao",
+        "Baruch Barzel",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2016,
+      "journal": "Nature",
+      "doi": "10.1038/nature16948",
+      "citations": 1188,
+      "summary": "Derives universal resilience patterns in complex networks, showing that network topology determines the resilience of ecological, biological, and social systems to perturbations.",
+      "relevance_to_six_knives": "robust-fragile",
+      "source": "https://doi.org/10.1038/nature16948"
+    },
+    {
+      "title": "Competition and multiscaling in evolving networks",
+      "authors": [
+        "Ginestra Bianconi",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2001,
+      "journal": "Europhysics Letters (EPL)",
+      "doi": "10.1209/epl/i2001-00260-6",
+      "citations": 1081,
+      "summary": "Analyzes competition in evolving networks and demonstrates multiscaling behavior where nodes with different ages and fitness levels exhibit distinct scaling exponents.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1209/epl/i2001-00260-6"
+    },
+    {
+      "title": "Historical comparison of gender inequality in scientific careers across countries and disciplines",
+      "authors": [
+        "Junming Huang",
+        "Alexander J. Gates",
+        "Roberta Sinatra",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2020,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1914221117",
+      "citations": 937,
+      "summary": "Provides a large-scale historical comparison of gender inequality in scientific careers across countries and disciplines, documenting persistent gaps and regional variation.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1073/pnas.1914221117"
+    },
+    {
+      "title": "Evidence for Network Evolution in an Arabidopsis Interactome Map",
+      "authors": [
+        "Matija Dreze",
+        "Anne‐Ruxandra Carvunis",
+        "Benoît Charloteaux",
+        "Mary Galli",
+        "Samuel J. Pevzner",
+        "Murat Taşan",
+        "Yong‐Yeol Ahn",
+        "Padmavathi Balumuri",
+        "Albert-Ĺaszló Barabási",
+        "Vanessa Bautista",
+        "Pascal Falter‐Braun",
+        "Danielle Byrdsong",
+        "Huaming Chen",
+        "Jonathan D. Chesnut",
+        "Michael E. Cusick",
+        "Jeffery L. Dangl",
+        "Chris de los Reyes",
+        "Amélie Dricot",
+        "Melissa Duarte",
+        "Joseph R. Ecker",
+        "Changyu Fan",
+        "Lantian Gai",
+        "Fana Gebreab",
+        "Gourab Ghoshal",
+        "Patrick N. Gilles",
+        "Bryan J. Gutierrez",
+        "Tong Hao",
+        "David E. Hill",
+        "Christopher J. Kim",
+        "Rosa Cheuk Kim",
+        "Claire Lurin",
+        "Andrew MacWilliams",
+        "Uday Matrubutham",
+        "Tijana Milenković",
+        "Jyotika Mirchandani",
+        "Dario Monachello",
+        "Jonathan D. Moore",
+        "M. Shahid Mukhtar",
+        "Eric Olivares",
+        "Suswapna Patnaik",
+        "Matthew M. Poulin",
+        "Nataša Pržulj",
+        "Rosa Quan",
+        "Sabrina Rabello",
+        "Gopalakrishna Ramaswamy",
+        "Patrick Reichert",
+        "Edward A. Rietman",
+        "Thomas Rolland",
+        "Viviana Romero",
+        "Frederick P. Roth",
+        "Balaji Santhanam",
+        "Robert J. Schmitz",
+        "Paul Shinn",
+        "William Spooner",
+        "Joshua C. Stein",
+        "Geetha M. Swamilingiah",
+        "Stanley Tam",
+        "Jean Vandenhaute",
+        "Marc Vidal",
+        "Selma Waaijers",
+        "Doreen Ware",
+        "Evan M. Weiner",
+        "Stacy Wu",
+        "Junshi Yazaki"
+      ],
+      "year": 2011,
+      "journal": "Science",
+      "doi": "10.1126/science.1203877",
+      "citations": 918,
+      "summary": "Presents evidence for the evolutionary rewiring of protein interaction networks across species using the Arabidopsis interactome map.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1126/science.1203877"
+    },
+    {
+      "title": "An empirical framework for binary interactome mapping",
+      "authors": [
+        "K. Venkatesan",
+        "Jean‐François Rual",
+        "Alexei Vázquez",
+        "Ulrich Stelzl",
+        "Irma Lemmens",
+        "Tomoko Hirozane-Kishikawa",
+        "Tong Hao",
+        "Martina Zenkner",
+        "Xiaofeng Xin",
+        "Kwang Il Goh",
+        "Muhammed A. Yıldırım",
+        "Nicolas Simonis",
+        "Kathrin Heinzmann",
+        "Fana Gebreab",
+        "Julie M. Sahalie",
+        "Sebiha Cevik",
+        "Christophe Simon",
+        "Anne Sophie de Smet",
+        "Elizabeth Dann",
+        "Alex Smolyar",
+        "Arunachalam Vinayagam",
+        "Haiyuan Yu",
+        "David Szeto",
+        "Heather Borick",
+        "Amélie Dricot",
+        "Niels Klitgord",
+        "Ryan R. Murray",
+        "Chenwei Lin",
+        "Maciej Łałowski",
+        "Jan Timm",
+        "Kirstin Rau",
+        "Charles Boone",
+        "Pascal Falter‐Braun",
+        "Michael E. Cusick",
+        "Frederick P. Roth",
+        "David E. Hill",
+        "Jan Tavernier",
+        "Erich E. Wanker",
+        "Albert-Ĺaszló Barabási",
+        "Marc Vidal"
+      ],
+      "year": 2008,
+      "journal": "Nature Methods",
+      "doi": "10.1038/nmeth.1280",
+      "citations": 908,
+      "summary": "Develops an empirical framework for systematic binary interactome mapping, establishing quality standards for protein-protein interaction data.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/nmeth.1280"
+    },
+    {
+      "title": "Quantifying Long-Term Scientific Impact",
+      "authors": [
+        "Dashun Wang",
+        "Chaoming Song",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2013,
+      "journal": "Science",
+      "doi": "10.1126/science.1237825",
+      "citations": 873,
+      "summary": "Quantifies long-term scientific impact using bibliometric measures, showing that early-career publishing patterns predict long-term success.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1126/science.1237825"
+    },
+    {
+      "title": "Network-based prediction of drug combinations",
+      "authors": [
+        "Feixiong Cheng",
+        "I. Kovács",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2019,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-019-09186-x",
+      "citations": 873,
+      "summary": "Develops a network-based method to predict drug combinations with synergistic effects, leveraging the human interactome to identify effective multi-target therapies.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41467-019-09186-x"
+    },
+    {
+      "title": "Bose-Einstein Condensation in Complex Networks",
+      "authors": [
+        "Ginestra Bianconi",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2001,
+      "journal": "Physical Review Letters",
+      "doi": "10.1103/physrevlett.86.5632",
+      "citations": 807,
+      "summary": "Introduces a model where network evolution mirrors Bose-Einstein condensation, with winner-take-all effects where a single node captures a finite fraction of all connections.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1103/physrevlett.86.5632"
+    },
+    {
+      "title": "A Protein–Protein Interaction Network for Human Inherited Ataxias and Disorders of Purkinje Cell Degeneration",
+      "authors": [
+        "Janghoo Lim",
+        "Tong Hao",
+        "Chad A. Shaw",
+        "Akash J. Patel",
+        "Gábor Szabó",
+        "Jean‐François Rual",
+        "C. Joseph Fisk",
+        "Ning Li",
+        "Alex Smolyar",
+        "David E. Hill",
+        "Albert-Ĺaszló Barabási",
+        "Marc Vidal",
+        "Huda Y. Zoghbi"
+      ],
+      "year": 2006,
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2006.03.032",
+      "citations": 789,
+      "summary": "Maps the protein-protein interaction network for inherited ataxias and Purkinje cell degeneration disorders, revealing disease mechanisms.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1016/j.cell.2006.03.032"
+    },
+    {
+      "title": "Canonical genetic signatures of the adult human brain",
+      "authors": [
+        "Michael Hawrylycz",
+        "Jeremy A. Miller",
+        "Vilas Menon",
+        "David Feng",
+        "Tim Dolbeare",
+        "Angela Guillozet-Bongaarts",
+        "Anil G. Jegga",
+        "Bruce J. Aronow",
+        "Chang‐Kyu Lee",
+        "Amy Bernard",
+        "Matthew F. Glasser",
+        "Donna Dierker",
+        "Jörg Menche",
+        "Aaron Szafer",
+        "Forrest Collman",
+        "Pascal Grange",
+        "Kenneth A. Berman",
+        "Ştefan Mihalaş",
+        "Zizhen Yao",
+        "Lance Stewart",
+        "Albert-Ĺaszló Barabási",
+        "Jay Schulkin",
+        "John W. Phillips",
+        "Lydia Ng",
+        "Chinh Dang",
+        "David R. Haynor",
+        "Allan Jones",
+        "David C. Van Essen",
+        "Christof Koch",
+        "Ed S. Lein"
+      ],
+      "year": 2015,
+      "journal": "Nature Neuroscience",
+      "doi": "10.1038/nn.4171",
+      "citations": 739,
+      "summary": "Identifies canonical genetic signatures across the adult human brain, revealing transcriptional patterns linked to brain structure and function.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/nn.4171"
+    },
+    {
+      "title": "Experimental Determination and System Level Analysis of Essential Genes in Escherichia coli MG1655",
+      "authors": [
+        "Svetlana Gerdes",
+        "Michael D. Scholle",
+        "John W. Campbell",
+        "Gábor Balázsi",
+        "E. Ravasz",
+        "Matthew D. Daugherty",
+        "A. L. Somera",
+        "Nikos C. Kyrpides",
+        "Iain Anderson",
+        "Mikhail S. Gelfand",
+        "Anamitra Bhattacharya",
+        "Vinayak Kapatral",
+        "M. D'Souza",
+        "Mark V. Baev",
+        "Yuri Grechkin",
+        "Faika Mseeh",
+        "Michael Fonstein",
+        "Ross Overbeek",
+        "Albert-Ĺaszló Barabási",
+        "Zoltán N. Oltvai",
+        "Andrei L. Osterman"
+      ],
+      "year": 2003,
+      "journal": "Journal of Bacteriology",
+      "doi": "10.1128/jb.185.19.5673-5684.2003",
+      "citations": 735,
+      "summary": "Determines the set of essential genes in E. coli through systematic gene knockout experiments, linking essentiality to network topology.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1128/jb.185.19.5673-5684.2003"
+    },
+    {
+      "title": "Global organization of metabolic fluxes in the bacterium Escherichia coli",
+      "authors": [
+        "Eivind Almaas",
+        "Bianka Kovács",
+        "Tamás Vicsek",
+        "Zoltán N. Oltvai",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2004,
+      "journal": "Nature",
+      "doi": "10.1038/nature02289",
+      "citations": 714,
+      "summary": "Reveals the global organization of metabolic fluxes in E. coli, showing that metabolic activity follows a hierarchical, modular structure.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/nature02289"
+    },
+    {
+      "title": "A Dynamic Network Approach for the Study of Human Phenotypes",
+      "authors": [
+        "César A. Hidalgo",
+        "Nicholas Blumm",
+        "Albert-Ĺaszló Barabási",
+        "Nicholas A. Christakis"
+      ],
+      "year": 2009,
+      "journal": "PLoS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1000353",
+      "citations": 700,
+      "summary": "Develops a dynamic network approach to study human phenotypes, connecting temporal phenotypic data to underlying molecular networks.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1371/journal.pcbi.1000353"
+    },
+    {
+      "title": "Modeling bursts and heavy tails in human dynamics",
+      "authors": [
+        "Alexei Vázquez",
+        "J. G. Oliveira",
+        "Zoltán Dezső",
+        "K.-I. Goh",
+        "Imre Kondor",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2006,
+      "journal": "Physical Review E",
+      "doi": "10.1103/physreve.73.036127",
+      "citations": 688,
+      "summary": "Develops models explaining bursts and heavy tails in human communication dynamics, linking individual decision queuing to macroscopic temporal patterns.",
+      "relevance_to_six_knives": "bursty",
+      "source": "https://doi.org/10.1103/physreve.73.036127"
+    },
+    {
+      "title": "Human mobility, social ties, and link prediction",
+      "authors": [
+        "Dashun Wang",
+        "Dino Pedreschi",
+        "Chaoming Song",
+        "Fosca Giannotti",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2011,
+      "journal": "",
+      "doi": "10.1145/2020408.2020581",
+      "citations": 677,
+      "summary": "Connects human mobility patterns with social network ties, demonstrating that short-range mobility is primarily driven by social relationships.",
+      "relevance_to_six_knives": "predictability",
+      "source": "https://doi.org/10.1145/2020408.2020581"
+    },
+    {
+      "title": "Modeling the Internet's large-scale topology",
+      "authors": [
+        "Soon‐Hyung Yook",
+        "Hawoong Jeong",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2002,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.172501399",
+      "citations": 677,
+      "summary": "Models the large-scale topology of the Internet, showing that it follows a scale-free structure with highly connected hubs and hierarchical organization.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1073/pnas.172501399"
+    },
+    {
+      "title": "Small but slow world: How network topology and burstiness slow down spreading",
+      "authors": [
+        "Márton Karsai",
+        "Mikko Kivelä",
+        "Raj Kumar Pan",
+        "Kimmo Kaski",
+        "János Kertész",
+        "Albert-Ĺaszló Barabási",
+        "Jari Saramäki"
+      ],
+      "year": 2011,
+      "journal": "Physical Review E",
+      "doi": "10.1103/physreve.83.025102",
+      "citations": 672,
+      "summary": "Shows how network topology combined with bursty interaction patterns slow down spreading processes, challenging conventional assumptions about small-world efficiency.",
+      "relevance_to_six_knives": "bursty",
+      "source": "https://doi.org/10.1103/physreve.83.025102"
+    },
+    {
+      "title": "Control principles of complex systems",
+      "authors": [
+        "Yang‐Yu Liu",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2016,
+      "journal": "Reviews of Modern Physics",
+      "doi": "10.1103/revmodphys.88.035006",
+      "citations": 671,
+      "summary": "Reviews control principles of complex systems, covering structural controllability, target control, and the observability of complex networks.",
+      "relevance_to_six_knives": "controllability",
+      "source": "https://doi.org/10.1103/revmodphys.88.035006"
+    },
+    {
+      "title": "Human symptoms–disease network",
+      "authors": [
+        "Xuezhong Zhou",
+        "Jörg Menche",
+        "Albert-Ĺaszló Barabási",
+        "Amitabh Sharma"
+      ],
+      "year": 2014,
+      "journal": "Nature Communications",
+      "doi": "10.1038/ncomms5212",
+      "citations": 671,
+      "summary": "Constructs a bipartite network linking human symptoms to diseases, enabling network-based analysis of symptom co-occurrence and molecular disease relationships.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/ncomms5212"
+    },
+    {
+      "title": "Widespread Macromolecular Interaction Perturbations in Human Genetic Disorders",
+      "authors": [
+        "Nidhi Sahni",
+        "S. Stephen Yi",
+        "Mikko Taipale",
+        "Juan I. Fuxman Bass",
+        "Jasmin Coulombe‐Huntington",
+        "Fan Yang",
+        "Jian Peng",
+        "Jochen Weile",
+        "Georgios Ioannis Karras",
+        "Yang Wang",
+        "I. Kovács",
+        "Atanas Kamburov",
+        "Irina Krykbaeva",
+        "Mandy Hiu Yi Lam",
+        "George Tucker",
+        "Vikram Khurana",
+        "Amitabh Sharma",
+        "Yang‐Yu Liu",
+        "Nozomu Yachie",
+        "Quan Zhong",
+        "Yun Shen",
+        "Alexandre Palagi",
+        "Adriana San‐Miguel",
+        "Changyu Fan",
+        "Dawit Balcha",
+        "Amélie Dricot",
+        "Daniel M. Jordan",
+        "Jennifer Walsh",
+        "Akash Shah",
+        "Xinping Yang",
+        "Ani K. Stoyanova",
+        "Alex Leighton",
+        "Michael A. Calderwood",
+        "Yves Jacob",
+        "Michael E. Cusick",
+        "Kourosh Salehi‐Ashtiani",
+        "Luke Whitesell",
+        "Shamil Sunyaev",
+        "Bonnie Berger",
+        "Albert-Ĺaszló Barabási",
+        "Benoît Charloteaux",
+        "David E. Hill",
+        "Tong Hao",
+        "Frederick P. Roth",
+        "Yu Xia",
+        "Albertha J.M. Walhout",
+        "Susan Lindquist",
+        "Marc Vidal"
+      ],
+      "year": 2015,
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2015.04.013",
+      "citations": 643,
+      "summary": "Reveals how human genetic disorders cause widespread perturbations in macromolecular interaction networks, beyond individual protein effects.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1016/j.cell.2015.04.013"
+    },
+    {
+      "title": "Quantifying the evolution of individual scientific impact",
+      "authors": [
+        "Roberta Sinatra",
+        "Dashun Wang",
+        "Pierre Deville",
+        "Chaoming Song",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2016,
+      "journal": "Science",
+      "doi": "10.1126/science.aaf5239",
+      "citations": 638,
+      "summary": "Quantifies how individual scientific impact evolves over a career using publication and citation data, revealing universal career dynamics.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1126/science.aaf5239"
+    },
+    {
+      "title": "Functional and topological characterization of protein interaction networks",
+      "authors": [
+        "Soon‐Hyung Yook",
+        "Zoltán N. Oltvai",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2004,
+      "journal": "PROTEOMICS",
+      "doi": "10.1002/pmic.200300636",
+      "citations": 630,
+      "summary": "Characterizes the functional and topological properties of protein interaction networks, linking network position to biological function.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1002/pmic.200300636"
+    },
+    {
+      "title": "Network-based in silico drug efficacy screening",
+      "authors": [
+        "Emre Güney",
+        "Jörg Menche",
+        "Marc Vidal",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2016,
+      "journal": "Nature Communications",
+      "doi": "10.1038/ncomms10331",
+      "citations": 615,
+      "summary": "Uses network-based in silico methods to predict drug efficacy by measuring the network proximity between drug targets and disease modules.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/ncomms10331"
+    },
+    {
+      "title": "Human disease classification in the postgenomic era: A complex systems approach to human pathobiology",
+      "authors": [
+        "Joseph Loscalzo",
+        "Isaac S. Kohane",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2007,
+      "journal": "Molecular Systems Biology",
+      "doi": "10.1038/msb4100163",
+      "citations": 607,
+      "summary": "Proposes a network-based approach to human disease classification in the postgenomic era using complex systems concepts.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/msb4100163"
+    },
+    {
+      "title": "Halting viruses in scale-free networks",
+      "authors": [
+        "Zoltán Dezső",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2002,
+      "journal": "Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics",
+      "doi": "10.1103/physreve.65.055103",
+      "citations": 602,
+      "summary": "Demonstrates that targeted immunization of highly connected hubs can halt virus spread in scale-free networks, restoring a finite epidemic threshold.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1103/physreve.65.055103"
+    },
+    {
+      "title": "Measuring preferential attachment in evolving networks",
+      "authors": [
+        "Hawoong Jeong",
+        "Zoltán Néda",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2003,
+      "journal": "Europhysics Letters (EPL)",
+      "doi": "10.1209/epl/i2003-00166-9",
+      "citations": 601,
+      "summary": "Empirically measures preferential attachment in evolving real-world networks, confirming the mechanism that generates scale-free degree distributions.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1209/epl/i2003-00166-9"
+    },
+    {
+      "title": "Network-based approach to prediction and population-based validation of in silico drug repurposing",
+      "authors": [
+        "Feixiong Cheng",
+        "Rishi Desai",
+        "Diane E. Handy",
+        "Rui‐Sheng Wang",
+        "Sebastian Schneeweiß",
+        "Albert-Ĺaszló Barabási",
+        "Joseph Loscalzo"
+      ],
+      "year": 2018,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-018-05116-5",
+      "citations": 568,
+      "summary": "Develops and validates a network-based approach to predict drug repurposing opportunities using population-level healthcare data.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41467-018-05116-5"
+    },
+    {
+      "title": "Network science",
+      "authors": [
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2013,
+      "journal": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+      "doi": "10.1098/rsta.2012.0375",
+      "citations": 539,
+      "summary": "Provides a comprehensive introduction to network science, covering the fundamental concepts of network structure, dynamics, and applications across disciplines.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1098/rsta.2012.0375"
+    },
+    {
+      "title": "Burstiness and memory in complex systems",
+      "authors": [
+        "K.-I. Goh",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2008,
+      "journal": "Europhysics Letters (EPL)",
+      "doi": "10.1209/0295-5075/81/48002",
+      "citations": 532,
+      "summary": "Characterizes burstiness and memory effects in complex systems, showing that temporal correlations between events significantly affect dynamics.",
+      "relevance_to_six_knives": "bursty",
+      "source": "https://doi.org/10.1209/0295-5075/81/48002"
+    },
+    {
+      "title": "Network Medicine — From Obesity to the “Diseasome”",
+      "authors": [
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2007,
+      "journal": "New England Journal of Medicine",
+      "doi": "10.1056/nejme078114",
+      "citations": 532,
+      "summary": "Explores connections between obesity and the diseasome using network medicine, revealing shared molecular pathways between metabolic and other diseases.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1056/nejme078114"
+    },
+    {
+      "title": "Network Medicine Framework for Identifying Drug Repurposing Opportunities for COVID-19",
+      "authors": [
+        "Deisy Morselli Gysi",
+        "Ítalo Faria do Valle",
+        "Marinka Žitnik",
+        "Asher Ameli",
+        "Xiao Gan",
+        "Onur Varol",
+        "Susan Dina Ghiassian",
+        "J. J. Patten",
+        "Robert A. Davey",
+        "Joseph Loscalzo",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2020,
+      "journal": "PubMed Central",
+      "doi": "10.1073/pnas.2025581118",
+      "citations": 530,
+      "summary": "Applies network medicine principles to identify drug repurposing opportunities for COVID-19 by analyzing host-virus protein interactions.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1073/pnas.2025581118"
+    },
+    {
+      "title": "Observability of complex systems",
+      "authors": [
+        "Yang‐Yu Liu",
+        "Jean-Jacques Slotine",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2013,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1215508110",
+      "citations": 529,
+      "summary": "Introduces the observability problem for complex networks, deriving conditions under which the internal states of a network can be inferred from external measurements.",
+      "relevance_to_six_knives": "controllability",
+      "source": "https://doi.org/10.1073/pnas.1215508110"
+    },
+    {
+      "title": "The network takeover",
+      "authors": [
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2011,
+      "journal": "Nature Physics",
+      "doi": "10.1038/nphys2188",
+      "citations": 526,
+      "summary": "Argues that network thinking has fundamentally transformed our understanding of complex systems across physics, biology, and social sciences.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/nphys2188"
+    },
+    {
+      "title": "Dynamic Scaling of Ion-Sputtered Surfaces",
+      "authors": [
+        "Rodolfo Cuerno",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 1995,
+      "journal": "Physical Review Letters",
+      "doi": "10.1103/physrevlett.74.4746",
+      "citations": 514,
+      "summary": "Discovers dynamic scaling behavior in ion-sputtered surfaces, revealing universal growth and roughening kinetics.",
+      "relevance_to_six_knives": "physical-networks",
+      "source": "https://doi.org/10.1103/physrevlett.74.4746"
+    },
+    {
+      "title": "Life's Complexity Pyramid",
+      "authors": [
+        "Zoltán N. Oltvai",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2002,
+      "journal": "Science",
+      "doi": "10.1126/science.1078563",
+      "citations": 510,
+      "summary": "Proposes a complexity pyramid framework for understanding the hierarchical organization of life from molecules to ecosystems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1126/science.1078563"
+    },
+    {
+      "title": "The implications of human metabolic network topology for disease comorbidity",
+      "authors": [
+        "Deok‐Sun Lee",
+        "J. Park",
+        "Krin A. Kay",
+        "Nicholas A. Christakis",
+        "Zoltán N. Oltvai",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2008,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.0802208105",
+      "citations": 506,
+      "summary": "Shows that the topology of the human metabolic network predicts disease comorbidity patterns through shared metabolic pathways.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1073/pnas.0802208105"
+    },
+    {
+      "title": "The fundamental advantages of temporal networks",
+      "authors": [
+        "Aming Li",
+        "Sean P. Cornelius",
+        "Yang‐Yu Liu",
+        "Long Wang",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2017,
+      "journal": "Science",
+      "doi": "10.1126/science.aai7488",
+      "citations": 501,
+      "summary": "Reveals the fundamental advantages of temporal networks over static networks for information processing and dynamical processes.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1126/science.aai7488"
+    },
+    {
+      "title": "Understanding the Spreading Patterns of Mobile Phone Viruses",
+      "authors": [
+        "Pu Wang",
+        "Marta C. González",
+        "César A. Hidalgo",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2009,
+      "journal": "Science",
+      "doi": "10.1126/science.1167053",
+      "citations": 499,
+      "summary": "Models the spreading patterns of mobile phone viruses using network theory, predicting epidemic thresholds on real communication networks.",
+      "relevance_to_six_knives": "predictability",
+      "source": "https://doi.org/10.1126/science.1167053"
+    },
+    {
+      "title": "Spectra of “real-world” graphs: Beyond the semicircle law",
+      "authors": [
+        "Illés J. Farkas",
+        "Imre Derényi",
+        "Albert-Ĺaszló Barabási",
+        "Tamás Vicsek"
+      ],
+      "year": 2001,
+      "journal": "Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics",
+      "doi": "10.1103/physreve.64.026704",
+      "citations": 498,
+      "summary": "Studies the structural and functional properties of networks in the context of Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1103/physreve.64.026704"
+    },
+    {
+      "title": "Returners and explorers dichotomy in human mobility",
+      "authors": [
+        "Luca Pappalardo",
+        "Filippo Simini",
+        "Salvatore Rinzivillo",
+        "Dino Pedreschi",
+        "Fosca Giannotti",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2015,
+      "journal": "Nature Communications",
+      "doi": "10.1038/ncomms9166",
+      "citations": 487,
+      "summary": "Introduces the dichotomy between 'returners' (individuals who return to frequently visited locations) and 'explorers' in human mobility patterns.",
+      "relevance_to_six_knives": "predictability",
+      "source": "https://doi.org/10.1038/ncomms9166"
+    },
+    {
+      "title": "Flavor network and the principles of food pairing",
+      "authors": [
+        "Yong‐Yeol Ahn",
+        "Sebastian E. Ahnert",
+        "James P. Bagrow",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2011,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/srep00196",
+      "citations": 477,
+      "summary": "Constructs a flavor network based on ingredient sharing in recipes, revealing universal principles of food pairing and culinary culture.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/srep00196"
+    },
+    {
+      "title": "Deterministic scale-free networks",
+      "authors": [
+        "Albert-Ĺaszló Barabási",
+        "Erzsébet Ravasz Regan",
+        "Tamás Vicsek"
+      ],
+      "year": 2001,
+      "journal": "Physica A Statistical Mechanics and its Applications",
+      "doi": "10.1016/s0378-4371(01)00369-7",
+      "citations": 470,
+      "summary": "Introduces deterministic models for scale-free networks that generate exact power-law degree distributions without stochastic processes.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1016/s0378-4371(01)00369-7"
+    },
+    {
+      "title": "Weighted Evolving Networks",
+      "authors": [
+        "Soon‐Hyung Yook",
+        "Hawoong Jeong",
+        "Albert-Ĺaszló Barabási",
+        "Yuhai Tu"
+      ],
+      "year": 2001,
+      "journal": "Physical Review Letters",
+      "doi": "10.1103/physrevlett.86.5835",
+      "citations": 464,
+      "summary": "Extends the Barabási-Albert model to weighted evolving networks, showing how link weights co-evolve with network topology.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1103/physrevlett.86.5835"
+    },
+    {
+      "title": "The sound of many hands clapping",
+      "authors": [
+        "Zoltán Néda",
+        "E. Ravasz",
+        "Y. Bréchet",
+        "Tamás Vicsek",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": null,
+      "journal": "RePEc: Research Papers in Economics",
+      "doi": "",
+      "citations": 454,
+      "summary": "Reveals the physics of rhythmic applause, showing how clapping frequency synchronizes through social interactions.",
+      "relevance_to_six_knives": "bursty",
+      "source": ""
+    },
+    {
+      "title": "Evolutionary conservation of motif constituents in the yeast protein interaction network",
+      "authors": [
+        "Stefan Wuchty",
+        "Zoltán N. Oltvai",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2003,
+      "journal": "Nature Genetics",
+      "doi": "10.1038/ng1242",
+      "citations": 446,
+      "summary": "Demonstrates evolutionary conservation of network motif constituents in the yeast protein interaction network.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/ng1242"
+    },
+    {
+      "title": "Network-based prediction of protein interactions",
+      "authors": [
+        "I. Kovács",
+        "Katja Luck",
+        "Kerstin Spirohn",
+        "Yang Wang",
+        "Carl Pollis",
+        "Sadie Schlabach",
+        "Wenting Bian",
+        "Dae‐Kyum Kim",
+        "Nishka Kishore",
+        "Tong Hao",
+        "Michael A. Calderwood",
+        "Marc Vidal",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2019,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-019-09177-y",
+      "citations": 441,
+      "summary": "Creates a network-based computational framework for predicting protein-protein interactions, significantly expanding the coverage of the human interactome.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41467-019-09177-y"
+    },
+    {
+      "title": "Target control of complex networks",
+      "authors": [
+        "Jianxi Gao",
+        "Yang‐Yu Liu",
+        "Raissa M. D’Souza",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2014,
+      "journal": "Nature Communications",
+      "doi": "10.1038/ncomms6415",
+      "citations": 422,
+      "summary": "Extends network controllability theory to target control, showing that controlling a subset of nodes is more efficient than full control.",
+      "relevance_to_six_knives": "controllability",
+      "source": "https://doi.org/10.1038/ncomms6415"
+    },
+    {
+      "title": "A DIseAse MOdule Detection (DIAMOnD) Algorithm Derived from a Systematic Analysis of Connectivity Patterns of Disease Proteins in the Human Interactome",
+      "authors": [
+        "Susan Dina Ghiassian",
+        "Jörg Menche",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2015,
+      "journal": "PLoS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1004120",
+      "citations": 406,
+      "summary": "Introduces the DIAMOnD algorithm for identifying disease modules in the human interactome from genome-wide association data.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1371/journal.pcbi.1004120"
+    },
+    {
+      "title": "Intracellular crowding defines the mode and sequence of substrate uptake by Escherichia coli and constrains its metabolic activity",
+      "authors": [
+        "Qasim Khalil Beg",
+        "Alexei Vázquez",
+        "Jason Ernst",
+        "Márcio Argollo de Menezes",
+        "Ziv Bar‐Joseph",
+        "Albert-Ĺaszló Barabási",
+        "Zoltán N. Oltvai"
+      ],
+      "year": 2007,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.0609845104",
+      "citations": 399,
+      "summary": "Shows how intracellular crowding determines the mode and sequence of substrate uptake by E. coli.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1073/pnas.0609845104"
+    },
+    {
+      "title": "Universality in network dynamics",
+      "authors": [
+        "Baruch Barzel",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2013,
+      "journal": "Nature Physics",
+      "doi": "10.1038/nphys2741",
+      "citations": 398,
+      "summary": "Reveals universal patterns in the dynamics of complex networks across physical, biological, and social systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/nphys2741"
+    },
+    {
+      "title": "Interpreting cancer genomes using systematic host network perturbations by tumour virus proteins",
+      "authors": [
+        "Orit Rozenblatt–Rosen",
+        "Rahul C. Deo",
+        "Megha Padi",
+        "Guillaume Adelmant",
+        "Michael A. Calderwood",
+        "Thomas Rolland",
+        "Miranda Grace",
+        "Amélie Dricot",
+        "Manor Askenazi",
+        "Maria Tavares",
+        "Samuel J. Pevzner",
+        "Fieda Abderazzaq",
+        "Danielle Byrdsong",
+        "Anne‐Ruxandra Carvunis",
+        "Alyce A. Chen",
+        "Jingwei Cheng",
+        "Mick Correll",
+        "Melissa Duarte",
+        "Changyu Fan",
+        "Mariet C.W. Feltkamp",
+        "Scott B. Ficarro",
+        "Rachel Franchi",
+        "Brijesh K. Garg",
+        "Natali Gulbahce",
+        "Tong Hao",
+        "Amy M. Holthaus",
+        "Robert James",
+        "Anna Korkhin",
+        "Larisa Litovchick",
+        "Jessica C. Mar",
+        "Theodore R. Pak",
+        "Sabrina Rabello",
+        "Renee Rubio",
+        "Yun Shen",
+        "Saurav Singh",
+        "Jennifer M. Spangle",
+        "Murat Taşan",
+        "Shelly A. Wanamaker",
+        "James T. Webber",
+        "Jennifer Roecklein‐Canfield",
+        "Eric Johannsen",
+        "Albert-Ĺaszló Barabási",
+        "Rameen Beroukhim",
+        "Elliott Kieff",
+        "Michael E. Cusick",
+        "David E. Hill",
+        "Karl Münger",
+        "Jarrod A. Marto",
+        "John Quackenbush",
+        "Frederick P. Roth",
+        "James A. DeCaprio",
+        "Marc Vidal"
+      ],
+      "year": 2012,
+      "journal": "Nature",
+      "doi": "10.1038/nature11288",
+      "citations": 397,
+      "summary": "Interprets cancer genomes by analyzing systematic perturbations of host networks by tumor virus proteins.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/nature11288"
+    },
+    {
+      "title": "Two degrees of separation in complex food webs",
+      "authors": [
+        "Richard J. Williams",
+        "Eric L. Berlow",
+        "Jennifer A. Dunne",
+        "Albert-Ĺaszló Barabási",
+        "Neo D. Martinez"
+      ],
+      "year": 2002,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.192448799",
+      "citations": 384,
+      "summary": "Shows that complex food webs exhibit an average path length of approximately two, revealing the ultra-small-world nature of ecological networks.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1073/pnas.192448799"
+    },
+    {
+      "title": "Network control principles predict neuron function in the Caenorhabditis elegans connectome",
+      "authors": [
+        "Gang Yan",
+        "Petra E. Vértes",
+        "Emma K. Towlson",
+        "Yee Lian Chew",
+        "Denise S. Walker",
+        "William R Schafer",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2017,
+      "journal": "Nature",
+      "doi": "10.1038/nature24056",
+      "citations": 364,
+      "summary": "Reviews control principles of complex systems, covering structural controllability, target control, and the observability of complex networks.",
+      "relevance_to_six_knives": "controllability",
+      "source": "https://doi.org/10.1038/nature24056"
+    },
+    {
+      "title": "Darwin and Einstein correspondence patterns",
+      "authors": [
+        "J. G. Oliveira",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2005,
+      "journal": "Nature",
+      "doi": "10.1038/4371251a",
+      "citations": 359,
+      "summary": "Analyzes the correspondence patterns of Darwin and Einstein, revealing universal features of human communication dynamics.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1038/4371251a"
+    },
+    {
+      "title": "Geographic Constraints on Social Network Groups",
+      "authors": [
+        "Jukka‐Pekka Onnela",
+        "Samuel Arbesman",
+        "Marta C. González",
+        "Albert-Ĺaszló Barabási",
+        "Nicholas A. Christakis"
+      ],
+      "year": 2011,
+      "journal": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0016939",
+      "citations": 358,
+      "summary": "Demonstrates how geographic distance constrains the formation and evolution of social network groups.",
+      "relevance_to_six_knives": "social-networks",
+      "source": "https://doi.org/10.1371/journal.pone.0016939"
+    },
+    {
+      "title": "The topological relationship between the large-scale attributes and local interaction patterns of complex networks",
+      "authors": [
+        "Alexei Vázquez",
+        "Radu Dobrin",
+        "Danilo Sergi",
+        "Jean‐Pierre Eckmann",
+        "Zoltán N. Oltvai",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2004,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.0406024101",
+      "citations": 345,
+      "summary": "Reveals the relationship between large-scale attributes and local interaction patterns in complex networks.",
+      "relevance_to_six_knives": "network-methods",
+      "source": "https://doi.org/10.1073/pnas.0406024101"
+    },
+    {
+      "title": "Dislocation-Free Island Formation in Heteroepitaxial Growth: A Study at Equilibrium",
+      "authors": [
+        "I. Daruka",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 1997,
+      "journal": "Physical Review Letters",
+      "doi": "10.1103/physrevlett.79.3708",
+      "citations": 339,
+      "summary": "Studies dislocation-free island formation during heteroepitaxial growth using equilibrium thermodynamics.",
+      "relevance_to_six_knives": "physical-networks",
+      "source": "https://doi.org/10.1103/physrevlett.79.3708"
+    },
+    {
+      "title": "Impact of Non-Poissonian Activity Patterns on Spreading Processes",
+      "authors": [
+        "Alexei Vázquez",
+        "Balázs Rácz",
+        "András Lukács",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2007,
+      "journal": "Physical Review Letters",
+      "doi": "10.1103/physrevlett.98.158702",
+      "citations": 338,
+      "summary": "Shows how non-Poissonian activity patterns in human communication affect spreading processes on networks.",
+      "relevance_to_six_knives": "bursty",
+      "source": "https://doi.org/10.1103/physrevlett.98.158702"
+    },
+    {
+      "title": "Predicting perturbation patterns from the topology of biological networks",
+      "authors": [
+        "Marc Santolini",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2018,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1720589115",
+      "citations": 338,
+      "summary": "Develops methods for predicting perturbation patterns from the topology of biological networks, enabling identification of disease-perturbed network regions.",
+      "relevance_to_six_knives": "network-methods",
+      "source": "https://doi.org/10.1073/pnas.1720589115"
+    },
+    {
+      "title": "Control Centrality and Hierarchical Structure in Complex Networks",
+      "authors": [
+        "Yang‐Yu Liu",
+        "Jean-Jacques Slotine",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2012,
+      "journal": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0044459",
+      "citations": 330,
+      "summary": "Introduces control centrality as a measure of a node's importance for controlling complex networks.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1371/journal.pone.0044459"
+    },
+    {
+      "title": "Collective Response of Human Populations to Large-Scale Emergencies",
+      "authors": [
+        "James P. Bagrow",
+        "Dashun Wang",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2011,
+      "journal": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0017680",
+      "citations": 324,
+      "summary": "Analyzes collective response of human populations to large-scale emergencies using mobile phone data.",
+      "relevance_to_six_knives": "social-networks",
+      "source": "https://doi.org/10.1371/journal.pone.0017680"
+    },
+    {
+      "title": "Universal features of correlated bursty behaviour",
+      "authors": [
+        "Márton Karsai",
+        "Kimmo Kaski",
+        "Albert-Ĺaszló Barabási",
+        "János Kertész"
+      ],
+      "year": 2012,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/srep00397",
+      "citations": 314,
+      "summary": "Discovers universal features of correlated bursty behavior across different human communication channels.",
+      "relevance_to_six_knives": "bursty",
+      "source": "https://doi.org/10.1038/srep00397"
+    },
+    {
+      "title": "PARP9 and PARP14 cross-regulate macrophage activation via STAT1 ADP-ribosylation",
+      "authors": [
+        "Hiroshi Iwata",
+        "Claudia Goettsch",
+        "Amitabh Sharma",
+        "Piero Ricchiuto",
+        "Wilson Wen Bin Goh",
+        "Arda Halu",
+        "Iwao Yamada",
+        "Hideo Yoshida",
+        "Takuya Hara",
+        "Wei Mei",
+        "Noriyuki Inoue",
+        "Daiju Fukuda",
+        "Alexander Mojcher",
+        "Peter C. Mattson",
+        "Albert-Ĺaszló Barabási",
+        "Mark Boothby",
+        "Elena Aïkawa",
+        "Sasha A. Singh",
+        "Masanori Aikawa"
+      ],
+      "year": 2016,
+      "journal": "Nature Communications",
+      "doi": "10.1038/ncomms12849",
+      "citations": 308,
+      "summary": "Reveals that PARP9 and PARP14 cross-regulate macrophage activation via STAT1 ADP-ribosylation.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/ncomms12849"
+    },
+    {
+      "title": "The unmapped chemical complexity of our diet",
+      "authors": [
+        "Albert-Ĺaszló Barabási",
+        "Giulia Menichetti",
+        "Joseph Loscalzo"
+      ],
+      "year": 2019,
+      "journal": "Nature Food",
+      "doi": "10.1038/s43016-019-0005-1",
+      "citations": 295,
+      "summary": "Explores the composition and health implications of food and nutrition using data-driven and network medicine approaches.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s43016-019-0005-1"
+    },
+    {
+      "title": "Network link prediction by global silencing of indirect correlations",
+      "authors": [
+        "Baruch Barzel",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2013,
+      "journal": "Nature Biotechnology",
+      "doi": "10.1038/nbt.2601",
+      "citations": 283,
+      "summary": "Develops a network link prediction method based on global silencing of indirect correlations.",
+      "relevance_to_six_knives": "network-methods",
+      "source": "https://doi.org/10.1038/nbt.2601"
+    },
+    {
+      "title": "Spectrum of controlling and observing complex networks",
+      "authors": [
+        "Gang Yan",
+        "George Tsekenis",
+        "Baruch Barzel",
+        "Jean-Jacques Slotine",
+        "Yang‐Yu Liu",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2015,
+      "journal": "Nature Physics",
+      "doi": "10.1038/nphys3422",
+      "citations": 283,
+      "summary": "Characterizes the spectrum of controlling and observing complex networks, revealing the trade-offs between driver nodes and energy requirements.",
+      "relevance_to_six_knives": "controllability",
+      "source": "https://doi.org/10.1038/nphys3422"
+    },
+    {
+      "title": "Physics of the rhythmic applause",
+      "authors": [
+        "Zoltán Néda",
+        "E. Ravasz",
+        "Tamás Vicsek",
+        "Y. Bréchet",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2000,
+      "journal": "Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics",
+      "doi": "10.1103/physreve.61.6987",
+      "citations": 271,
+      "summary": "Reveals the physics underlying rhythmic applause synchronization in large audiences.",
+      "relevance_to_six_knives": "bursty",
+      "source": "https://doi.org/10.1103/physreve.61.6987"
+    },
+    {
+      "title": "Fluctuations in Network Dynamics",
+      "authors": [
+        "Márcio Argollo de Menezes",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2004,
+      "journal": "Physical Review Letters",
+      "doi": "10.1103/physrevlett.92.028701",
+      "citations": 268,
+      "summary": "Analyzes fluctuations and stochastic effects in the dynamics of complex networks.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1103/physrevlett.92.028701"
+    },
+    {
+      "title": "Controllability analysis of the directed human protein interaction network identifies disease genes and drug targets",
+      "authors": [
+        "Arunachalam Vinayagam",
+        "Travis E. Gibson",
+        "Ho‐Joon Lee",
+        "Bahar Yilmazel",
+        "Charles Roesel",
+        "Yanhui Hu",
+        "Young V. Kwon",
+        "Amitabh Sharma",
+        "Yang‐Yu Liu",
+        "Norbert Perrimon",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2016,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1603992113",
+      "citations": 268,
+      "summary": "Applies control theory to complex networks, introducing structural controllability concepts and identifying the minimum number of driver nodes needed to control a network.",
+      "relevance_to_six_knives": "controllability",
+      "source": "https://doi.org/10.1073/pnas.1603992113"
+    },
+    {
+      "title": "MicroRNA-21 Integrates Pathogenic Signaling to Control Pulmonary Hypertension",
+      "authors": [
+        "Victoria N. Parikh",
+        "Richard C. Jin",
+        "Sabrina Rabello",
+        "Natali Gulbahce",
+        "Kevin P. White",
+        "Andrew Hale",
+        "Katherine A. Cottrill",
+        "Rahamthulla S. Shaik",
+        "Aaron B. Waxman",
+        "Yingyi Zhang",
+        "Bradley A. Maron",
+        "Jochen C. Hartner",
+        "Yuko Fujiwara",
+        "Stuart H. Orkin",
+        "Kathleen J. Haley",
+        "Albert-Ĺaszló Barabási",
+        "Joseph Loscalzo",
+        "Stephen Y. Chan"
+      ],
+      "year": 2012,
+      "journal": "Circulation",
+      "doi": "10.1161/circulationaha.111.060269",
+      "citations": 267,
+      "summary": "Advances the understanding of control principles and controllability in complex networks.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1161/circulationaha.111.060269"
+    },
+    {
+      "title": "The impact of cellular networks on disease comorbidity",
+      "authors": [
+        "Juyong Park",
+        "Deok‐Sun Lee",
+        "Nicholas A. Christakis",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2009,
+      "journal": "Molecular Systems Biology",
+      "doi": "10.1038/msb.2009.16",
+      "citations": 256,
+      "summary": "Studies the structural and functional properties of networks in the context of Molecular Systems Biology, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/msb.2009.16"
+    },
+    {
+      "title": "Modeling and Predicting Popularity Dynamics via Reinforced Poisson Processes",
+      "authors": [
+        "Huawei Shen",
+        "Dashun Wang",
+        "Chaoming Song",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2014,
+      "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "doi": "10.1609/aaai.v28i1.8739",
+      "citations": 240,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1609/aaai.v28i1.8739"
+    },
+    {
+      "title": "A network framework of cultural history",
+      "authors": [
+        "Maximilian Schich",
+        "Chaoming Song",
+        "Yong-Yeol Ahn",
+        "Alexander Mirsky",
+        "Mauro Martino",
+        "Albert-Ĺaszló Barabási",
+        "Dirk Helbing"
+      ],
+      "year": 2014,
+      "journal": "Science",
+      "doi": "10.1126/science.1240064",
+      "citations": 237,
+      "summary": "Studies the structural and functional properties of networks in the context of Science, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1126/science.1240064"
+    },
+    {
+      "title": "Aggregation of topological motifs in the Escherichia coli transcriptional regulatory network",
+      "authors": [
+        "Radu Dobrin",
+        "Qasim Khalil Beg",
+        "Albert-Ĺaszló Barabási",
+        "Zoltán N. Oltvai"
+      ],
+      "year": 2004,
+      "journal": "BMC Bioinformatics",
+      "doi": "10.1186/1471-2105-5-10",
+      "citations": 233,
+      "summary": "Studies the structural and functional properties of networks in the context of BMC Bioinformatics, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "network-methods",
+      "source": "https://doi.org/10.1186/1471-2105-5-10"
+    },
+    {
+      "title": "Percolation in directed scale-free networks",
+      "authors": [
+        "Nehemia Schwartz",
+        "Reuven Cohen",
+        "Daniel ben‐Avraham",
+        "Albert-Ĺaszló Barabási",
+        "Shlomo Havlin"
+      ],
+      "year": 2002,
+      "journal": "Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics",
+      "doi": "10.1103/physreve.66.015104",
+      "citations": 228,
+      "summary": "Studies the structural and functional properties of networks in the context of Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "scale-free",
+      "source": "https://doi.org/10.1103/physreve.66.015104"
+    },
+    {
+      "title": "Emergence of bimodality in controlling complex networks",
+      "authors": [
+        "Tao Jia",
+        "Yang‐Yu Liu",
+        "Endre Csóka",
+        "Márton Pósfai",
+        "Jean-Jacques Slotine",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2013,
+      "journal": "Nature Communications",
+      "doi": "10.1038/ncomms3002",
+      "citations": 224,
+      "summary": "Discovers a bimodal distribution in the minimum number of driver nodes required to control complex networks.",
+      "relevance_to_six_knives": "controllability",
+      "source": "https://doi.org/10.1038/ncomms3002"
+    },
+    {
+      "title": "Human Dynamics: The Correspondence Patterns of Darwin and Einstein",
+      "authors": [
+        "J. G. Oliveira",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2005,
+      "journal": "CERN Document Server (European Organization for Nuclear Research)",
+      "doi": "10.48550/arxiv.physics/0511006",
+      "citations": 224,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "bursty",
+      "source": "https://doi.org/10.48550/arxiv.physics/0511006"
+    },
+    {
+      "title": "Quantifying reputation and success in art",
+      "authors": [
+        "Samuel P. Fraiberger",
+        "Roberta Sinatra",
+        "Magnus Resch",
+        "Christoph Riedl",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2018,
+      "journal": "Science",
+      "doi": "10.1126/science.aau7224",
+      "citations": 212,
+      "summary": "Quantifies reputation and success in the art world using network analysis of exhibition and auction data.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1126/science.aau7224"
+    },
+    {
+      "title": "A disease module in the interactome explains disease heterogeneity, drug response and captures novel pathways and genes in asthma",
+      "authors": [
+        "Amitabh Sharma",
+        "Jörg Menche",
+        "Chaohua Huang",
+        "Tatiana Ort",
+        "Xiaobo Zhou",
+        "Maksim Kitsak",
+        "Nidhi Sahni",
+        "Derek Thibault",
+        "Linh Voung",
+        "Feng Guo",
+        "Susan Dina Ghiassian",
+        "Natali Gulbahce",
+        "Frédéric Baribaud",
+        "Joel Tocker",
+        "Radu Dobrin",
+        "Elliot S. Barnathan",
+        "Hao Liu",
+        "Reynold A. Panettieri",
+        "Kelan G. Tantisira",
+        "Weiliang Qiu",
+        "Benjamin A. Raby",
+        "Edwin K. Silverman",
+        "Marc Vidal",
+        "Scott T. Weiss",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2015,
+      "journal": "Human Molecular Genetics",
+      "doi": "10.1093/hmg/ddv001",
+      "citations": 211,
+      "summary": "Demonstrates that disease modules in the human interactome explain disease heterogeneity, drug response variability, and identify novel disease genes.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1093/hmg/ddv001"
+    },
+    {
+      "title": "The Science of Science",
+      "authors": [
+        "Dashun Wang",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2021,
+      "journal": "Cambridge University Press eBooks",
+      "doi": "10.1017/9781108610834",
+      "citations": 211,
+      "summary": "Provides a comprehensive review of the science of science field, covering the quantitative understanding of scientific careers, impact, collaboration, and the dynamics of knowledge creation.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1017/9781108610834"
+    },
+    {
+      "title": "Ranking stability and super-stable nodes in complex networks",
+      "authors": [
+        "Gourab Ghoshal",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2011,
+      "journal": "Nature Communications",
+      "doi": "10.1038/ncomms1396",
+      "citations": 209,
+      "summary": "Studies the structural and functional properties of networks in the context of Nature Communications, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/ncomms1396"
+    },
+    {
+      "title": "Uremic Toxin Indoxyl Sulfate Promotes Proinflammatory Macrophage Activation Via the Interplay of OATP2B1 and Dll4-Notch Signaling",
+      "authors": [
+        "Toshiaki Nakano",
+        "Shunsuke Katsuki",
+        "Mingxian Chen",
+        "Julius L. Decano",
+        "Arda Halu",
+        "Lang Ho Lee",
+        "Diego Vinicius Santinelli Pestana",
+        "Angelo So Taa Kum",
+        "Rodrigo K. Kuromoto",
+        "Whitney S. Golden",
+        "Mario S. Boff",
+        "Gabriel C. Guimarães",
+        "Hideyuki Higashi",
+        "Kevin Kauffman",
+        "Takashi Maejima",
+        "Takehiro Suzuki",
+        "Hiroshi Iwata",
+        "Albert-Ĺaszló Barabási",
+        "Jon C. Aster",
+        "Daniel G. Anderson",
+        "Amitabh Sharma",
+        "Sasha A. Singh",
+        "Elena Aïkawa",
+        "Masanori Aikawa"
+      ],
+      "year": 2018,
+      "journal": "Circulation",
+      "doi": "10.1161/circulationaha.118.034588",
+      "citations": 204,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1161/circulationaha.118.034588"
+    },
+    {
+      "title": "Collective credit allocation in science",
+      "authors": [
+        "Huawei Shen",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2014,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1401992111",
+      "citations": 202,
+      "summary": "Develops quantitative methods for fairly allocating credit in multi-author scientific publications.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1073/pnas.1401992111"
+    },
+    {
+      "title": "Modules, networks and systems medicine for understanding disease and aiding diagnosis",
+      "authors": [
+        "Mika Gustafsson",
+        "Colm E. Nestor",
+        "Huan Zhang",
+        "Albert-Ĺaszló Barabási",
+        "Sergio E. Baranzini",
+        "Søren Brunak",
+        "Kian Fan Chung",
+        "Howard J. Federoff",
+        "Anne‐Claude Gavin",
+        "Richard R. Meehan",
+        "Paola Picotti",
+        "Miguel Ángel Pujana",
+        "Nikolaus Rajewsky",
+        "Kenneth G. C. Smith",
+        "Peter J. Sterk",
+        "Pablo Villoslada",
+        "Mikael Benson"
+      ],
+      "year": 2014,
+      "journal": "Genome Medicine",
+      "doi": "10.1186/s13073-014-0082-6",
+      "citations": 199,
+      "summary": "Studies the structural and functional properties of networks in the context of Genome Medicine, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1186/s13073-014-0082-6"
+    },
+    {
+      "title": "Topological units of environmental signal processing in the transcriptional regulatory network of Escherichia coli",
+      "authors": [
+        "Gábor Balázsi",
+        "Albert-Ĺaszló Barabási",
+        "Zoltán N. Oltvai"
+      ],
+      "year": 2005,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.0500365102",
+      "citations": 195,
+      "summary": "Studies the structural and functional properties of networks in the context of Proceedings of the National Academy of Sciences, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1073/pnas.0500365102"
+    },
+    {
+      "title": "Genomics and phenomics of body mass index reveals a complex disease network",
+      "authors": [
+        "Jie Huang",
+        "Jennifer E. Huffman",
+        "Yunfeng Huang",
+        "Ítalo Faria do Valle",
+        "Themistocles L. Assimes",
+        "Sridharan Raghavan",
+        "Benjamin F. Voight",
+        "Chang Liu",
+        "Albert-Ĺaszló Barabási",
+        "Rose D. L. Huang",
+        "Qin Hui",
+        "Xuan‐Mai T. Nguyen",
+        "Yuk‐Lam Ho",
+        "Luc Djoussé",
+        "Julie A. Lynch",
+        "Marijana Vujković",
+        "Catherine Tcheandjieu",
+        "Hua Tang",
+        "Scott M. Damrauer",
+        "Peter D. Reaven",
+        "Donald R. Miller",
+        "Lawrence S. Phillips",
+        "Maggie C. Y. Ng",
+        "Mariaelisa Graff",
+        "Christopher A. Haiman",
+        "Ruth J. F. Loos",
+        "Kari E. North",
+        "Loïc Yengo",
+        "George Davey Smith",
+        "Danish Saleheen",
+        "J. Michael Gaziano",
+        "Daniel J. Rader",
+        "Philip S. Tsao",
+        "Kelly Cho",
+        "Kyong‐Mi Chang",
+        "Peter W.F. Wilson",
+        "VA Million Veteran Program",
+        "Yan V. Sun",
+        "Christopher J. O’Donnell"
+      ],
+      "year": 2022,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-022-35553-2",
+      "citations": 182,
+      "summary": "Reveals a complex disease network connecting body mass index to diverse clinical phenotypes through shared genetic and molecular mechanisms.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41467-022-35553-2"
+    },
+    {
+      "title": "Career on the Move: Geography, Stratification and Scientific Impact",
+      "authors": [
+        "Pierre Deville",
+        "Dashun Wang",
+        "Roberta Sinatra",
+        "Chaoming Song",
+        "Vincent D. Blondel",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2014,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/srep04770",
+      "citations": 181,
+      "summary": "Studies the structural and functional properties of networks in the context of Scientific Reports, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1038/srep04770"
+    },
+    {
+      "title": "Effect of correlations on network controllability",
+      "authors": [
+        "Yang‐Yu Liu",
+        "Márton Pósfai",
+        "Jean-Jacques Slotine",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2012,
+      "journal": "DSpace@MIT (Massachusetts Institute of Technology)",
+      "doi": "",
+      "citations": 174,
+      "summary": "Applies control theory to complex networks, introducing structural controllability concepts and identifying the minimum number of driver nodes needed to control a network.",
+      "relevance_to_six_knives": "controllability",
+      "source": ""
+    },
+    {
+      "title": "Quantifying NFT-driven networks in crypto art",
+      "authors": [
+        "Kishore Vasan",
+        "Milán Janosov",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2022,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-022-05146-6",
+      "citations": 158,
+      "summary": "Quantifies the structure and dynamics of NFT-driven networks in the crypto art market using network science methods.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/s41598-022-05146-6"
+    },
+    {
+      "title": "Improving the generalizability of protein-ligand binding predictions with AI-Bind",
+      "authors": [
+        "Ayan Chatterjee",
+        "Robin Walters",
+        "Zohair Shafi",
+        "Omair Shafi Ahmed",
+        "Michael Sebek",
+        "Deisy Morselli Gysi",
+        "Rose Yu",
+        "Tina Eliassi‐Rad",
+        "Albert-Ĺaszló Barabási",
+        "Giulia Menichetti"
+      ],
+      "year": 2023,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-023-37572-z",
+      "citations": 157,
+      "summary": "Improves the generalizability of protein-ligand binding predictions with AI-Bind.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/s41467-023-37572-z"
+    },
+    {
+      "title": "Comparative Genome-Scale Metabolic Reconstruction and Flux Balance Analysis of Multiple Staphylococcus aureus Genomes Identify Novel Antimicrobial Drug Targets",
+      "authors": [
+        "Deok‐Sun Lee",
+        "Henry Burd",
+        "Jiangxia Liu",
+        "Eivind Almaas",
+        "Olaf Wiest",
+        "Albert-Ĺaszló Barabási",
+        "Zoltán N. Oltvai",
+        "Vinayak Kapatral"
+      ],
+      "year": 2009,
+      "journal": "Journal of Bacteriology",
+      "doi": "10.1128/jb.01743-08",
+      "citations": 156,
+      "summary": "Applies network medicine approaches to understand disease mechanisms, identify drug targets, or improve therapeutic strategies.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1128/jb.01743-08"
+    },
+    {
+      "title": "Network medicine framework reveals generic herb-symptom effectiveness of traditional Chinese medicine",
+      "authors": [
+        "Xiao Gan",
+        "Zixin Shu",
+        "Xinyan Wang",
+        "Dengying Yan",
+        "Jun Li",
+        "Shany Ofaim",
+        "Réka Albert",
+        "Xiaodong Li",
+        "Baoyan Liu",
+        "Xuezhong Zhou",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2023,
+      "journal": "Science Advances",
+      "doi": "10.1126/sciadv.adh0215",
+      "citations": 155,
+      "summary": "Applies network medicine to reveal the molecular mechanisms of traditional Chinese medicine.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1126/sciadv.adh0215"
+    },
+    {
+      "title": "The universal decay of collective memory and attention",
+      "authors": [
+        "Cristián Candia",
+        "Cristian Jara-Figueroa",
+        "Carlos Rodríguez‐Sickert",
+        "Albert-Ĺaszló Barabási",
+        "César A. Hidalgo"
+      ],
+      "year": 2018,
+      "journal": "Nature Human Behaviour",
+      "doi": "10.1038/s41562-018-0474-5",
+      "citations": 149,
+      "summary": "Reveals the universal decay of collective memory and attention, showing how scientific discoveries and cultural products are forgotten over time.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1038/s41562-018-0474-5"
+    },
+    {
+      "title": "Machine learning prediction of the degree of food processing",
+      "authors": [
+        "Giulia Menichetti",
+        "Babak Ravandi",
+        "Dariush Mozaffarian",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2023,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-023-37457-1",
+      "citations": 135,
+      "summary": "Applies machine learning to predict the degree of food processing for grocery items, creating a comprehensive database for nutrition research.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41467-023-37457-1"
+    },
+    {
+      "title": "The chaperone effect in scientific publishing",
+      "authors": [
+        "Vedran Sekara",
+        "Pierre Deville",
+        "Sebastian E. Ahnert",
+        "Albert-Ĺaszló Barabási",
+        "Roberta Sinatra",
+        "Sune Lehmann"
+      ],
+      "year": 2018,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1800471115",
+      "citations": 132,
+      "summary": "Documents the chaperone effect in scientific publishing where junior researchers gain citation advantages from publishing with senior co-authors.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1073/pnas.1800471115"
+    },
+    {
+      "title": "Epigenomic and transcriptomic approaches in the post-genomic era: path to novel targets for diagnosis and therapy of the ischaemic heart? Position Paper of the European Society of Cardiology Working Group on Cellular Biology of the Heart",
+      "authors": [
+        "Cinzia Perrino",
+        "Albert-Ĺaszló Barabási",
+        "Gianluigi Condorelli",
+        "Sean M. Davidson",
+        "León J. De Windt",
+        "Stefanie Dimmeler",
+        "Felix B. Engel",
+        "Derek J. Hausenloy",
+        "Joseph A. Hill",
+        "Linda W. van Laake",
+        "Sandrine Lecour",
+        "Jonathan Leor",
+        "Rosalinda Madonna",
+        "Manuel Mayr",
+        "Fabrice Prunier",
+        "Joost Petrus Geradus Sluijter",
+        "Rainer Schulz",
+        "Thomas Thum",
+        "Kirsti Ytrehus",
+        "Péter Ferdinandy"
+      ],
+      "year": 2017,
+      "journal": "Cardiovascular Research",
+      "doi": "10.1093/cvr/cvx070",
+      "citations": 126,
+      "summary": "Reviews epigenomic and transcriptomic approaches for discovering novel therapeutic targets.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1093/cvr/cvx070"
+    },
+    {
+      "title": "Network medicine framework shows that proximity of polyphenol targets and disease proteins predicts therapeutic effects of polyphenols",
+      "authors": [
+        "Ítalo Faria do Valle",
+        "Harvey G. Roweth",
+        "Michael W. Malloy",
+        "Sofia Moco",
+        "Denís Barron",
+        "Elisabeth M. Battinelli",
+        "Joseph Loscalzo",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2021,
+      "journal": "Nature Food",
+      "doi": "10.1038/s43016-021-00243-7",
+      "citations": 111,
+      "summary": "Applies a network medicine framework to show that the proximity between polyphenol targets and disease proteins in the human interactome predicts therapeutic effects.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s43016-021-00243-7"
+    },
+    {
+      "title": "A wealth of discovery built on the Human Genome Project — by the numbers",
+      "authors": [
+        "Alexander J. Gates",
+        "Deisy Morselli Gysi",
+        "Manolis Kellis",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2021,
+      "journal": "Nature",
+      "doi": "10.1038/d41586-021-00314-6",
+      "citations": 101,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/d41586-021-00314-6"
+    },
+    {
+      "title": "Nature’s reach: narrow work has broad impact",
+      "authors": [
+        "Alexander J. Gates",
+        "Qing Ke",
+        "Onur Varol",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2019,
+      "journal": "Nature",
+      "doi": "10.1038/d41586-019-03308-7",
+      "citations": 101,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/d41586-019-03308-7"
+    },
+    {
+      "title": "Research gaps and opportunities in precision nutrition: an NIH workshop report",
+      "authors": [
+        "Bruce Y. Lee",
+        "José M. Ordovás",
+        "Elizabeth J. Parks",
+        "Cheryl A.M. Anderson",
+        "Albert-Ĺaszló Barabási",
+        "Steven K. Clinton",
+        "Kayla de la Haye",
+        "Valerie B. Duffy",
+        "Paul W. Franks",
+        "Elizabeth M. Ginexi",
+        "Kristian J. Hammond",
+        "Erin C Hanlon",
+        "Michael Hittle",
+        "Emily Ho",
+        "Abigail L. Horn",
+        "Richard Isaacson",
+        "Patricia L. Mabry",
+        "Susan Kohl Malone",
+        "Corby K. Martin",
+        "Josiemer Mattei",
+        "Simin Nikbin Meydani",
+        "Lorene M. Nelson",
+        "Marian L. Neuhouser",
+        "Brendan Parent",
+        "Nicolaas P. Pronk",
+        "Helen M. Roche",
+        "Suchi Saria",
+        "Frank A. J. L. Scheer",
+        "Eran Segal",
+        "Mary Ann Sevick",
+        "Tim D. Spector",
+        "Linda Van Horn",
+        "Krista A Varady",
+        "V. Saroja Voruganti",
+        "Marie F. Martinez"
+      ],
+      "year": 2022,
+      "journal": "American Journal of Clinical Nutrition",
+      "doi": "10.1093/ajcn/nqac237",
+      "citations": 95,
+      "summary": "Summarizes NIH workshop findings on research gaps and opportunities in precision nutrition, highlighting the need for network-based approaches.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1093/ajcn/nqac237"
+    },
+    {
+      "title": "Neuroscience Needs Network Science",
+      "authors": [
+        "Dániel L. Barabási",
+        "Ginestra Bianconi",
+        "Edward T. Bullmore",
+        "Mark Burgess",
+        "SueYeon Chung",
+        "Tina Eliassi‐Rad",
+        "Dileep George",
+        "I. Kovács",
+        "Hernán A. Makse",
+        "Thomas E. Nichols",
+        "Christos Papadimitriou",
+        "Olaf Sporns",
+        "Kim Stachenfeld",
+        "Zoltán Toroczkai",
+        "Emma K. Towlson",
+        "Anthony M. Zador",
+        "Hongkui Zeng",
+        "Albert-Ĺaszló Barabási",
+        "Amy Bernard",
+        "György Buzsáki"
+      ],
+      "year": 2023,
+      "journal": "Journal of Neuroscience",
+      "doi": "10.1523/jneurosci.1014-23.2023",
+      "citations": 92,
+      "summary": "Argues that neuroscience needs network science to understand the brain's structural and functional organization.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1523/jneurosci.1014-23.2023"
+    },
+    {
+      "title": "Integrating personalized gene expression profiles into predictive disease-associated gene pools",
+      "authors": [
+        "Jörg Menche",
+        "Emre Güney",
+        "Amitabh Sharma",
+        "Patrick J. Branigan",
+        "Matthew J. Loza",
+        "Frédéric Baribaud",
+        "Radu Dobrin",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2017,
+      "journal": "npj Systems Biology and Applications",
+      "doi": "10.1038/s41540-017-0009-0",
+      "citations": 78,
+      "summary": "Develops methods for integrating personalized gene expression data into disease gene prediction.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/s41540-017-0009-0"
+    },
+    {
+      "title": "A structural transition in physical networks",
+      "authors": [
+        "Nima Dehmamy",
+        "Soodabeh Milanlouei",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2018,
+      "journal": "Nature",
+      "doi": "10.1038/s41586-018-0726-6",
+      "citations": 77,
+      "summary": "Reveals a structural phase transition in physical networks driven by link density, showing how network topology changes with connectivity.",
+      "relevance_to_six_knives": "physical-networks",
+      "source": "https://doi.org/10.1038/s41586-018-0726-6"
+    },
+    {
+      "title": "A diseasome cluster-based drug repurposing of soluble guanylate cyclase activators from smooth muscle relaxation to direct neuroprotection",
+      "authors": [
+        "Friederike Langhauser",
+        "Ana I. Casas",
+        "Vu-Thao-Vi Dao",
+        "Emre Güney",
+        "Jörg Menche",
+        "Eva Geuß",
+        "Pamela W. M. Kleikers",
+        "Manuela G. López",
+        "Albert-Ĺaszló Barabási",
+        "Christoph Kleinschnitz",
+        "Harald Schmidt"
+      ],
+      "year": 2018,
+      "journal": "npj Systems Biology and Applications",
+      "doi": "10.1038/s41540-017-0039-7",
+      "citations": 73,
+      "summary": "Applies network medicine approaches to understand disease mechanisms, identify drug targets, or improve therapeutic strategies.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41540-017-0039-7"
+    },
+    {
+      "title": "Fundamental limitations of network reconstruction from temporal data",
+      "authors": [
+        "Marco Tulio Angulo",
+        "Jaime A. Moreno",
+        "Gábor Lippner",
+        "Albert-Ĺaszló Barabási",
+        "Yang‐Yu Liu"
+      ],
+      "year": 2017,
+      "journal": "Journal of The Royal Society Interface",
+      "doi": "10.1098/rsif.2016.0966",
+      "citations": 72,
+      "summary": "Identifies fundamental limitations in reconstructing network structure from temporal data, establishing bounds on inference accuracy.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1098/rsif.2016.0966"
+    },
+    {
+      "title": "A systematic comprehensive longitudinal evaluation of dietary factors associated with acute myocardial infarction and fatal coronary heart disease",
+      "authors": [
+        "Soodabeh Milanlouei",
+        "Giulia Menichetti",
+        "Yanping Li",
+        "Joseph Loscalzo",
+        "Walter C. Willett",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2020,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-020-19888-2",
+      "citations": 65,
+      "summary": "Conducts systematic evaluation of dietary factors associated with acute myocardial infarction.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41467-020-19888-2"
+    },
+    {
+      "title": "A Genetic Model of the Connectome",
+      "authors": [
+        "Dániel L. Barabási",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2019,
+      "journal": "Neuron",
+      "doi": "10.1016/j.neuron.2019.10.031",
+      "citations": 62,
+      "summary": "Presents a genetic model of the C. elegans connectome, revealing how genetic programs shape neural circuit wiring.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1016/j.neuron.2019.10.031"
+    },
+    {
+      "title": "Taking census of physics",
+      "authors": [
+        "Federico Battiston",
+        "Federico Musciotto",
+        "Dashun Wang",
+        "Albert-Ĺaszló Barabási",
+        "Michael Szell",
+        "Roberta Sinatra"
+      ],
+      "year": 2018,
+      "journal": "Nature Reviews Physics",
+      "doi": "10.1038/s42254-018-0005-3",
+      "citations": 59,
+      "summary": "Provides a comprehensive census of physics research using publication and citation data to map the structure of the field.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1038/s42254-018-0005-3"
+    },
+    {
+      "title": "Dynamics of ranking",
+      "authors": [
+        "Gerardo Íñiguez",
+        "Carlos Pineda",
+        "Carlos Gershenson",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2022,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-022-29256-x",
+      "citations": 56,
+      "summary": "Reveals universal dynamics of ranking systems across diverse domains from sports to science.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/s41467-022-29256-x"
+    },
+    {
+      "title": "Human-AI coevolution",
+      "authors": [
+        "Dino Pedreschi",
+        "Luca Pappalardo",
+        "Emanuele Ferragina",
+        "Ricardo Baeza‐Yates",
+        "Albert-Ĺaszló Barabási",
+        "Frank Dignum",
+        "Virginia Dignum",
+        "Tina Eliassi‐Rad",
+        "Fosca Giannotti",
+        "János Kertész",
+        "Alistair Knott",
+        "Yannis Ioannidis",
+        "Paul Lukowicz",
+        "Andrea Passarella",
+        "Alex Pentland",
+        "John Shawe‐Taylor",
+        "Alessandro Vespignani"
+      ],
+      "year": 2024,
+      "journal": "Artificial Intelligence",
+      "doi": "10.1016/j.artint.2024.104244",
+      "citations": 51,
+      "summary": "Explores the coevolution of human and artificial intelligence, examining how AI systems reshape scientific practice and collaboration.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1016/j.artint.2024.104244"
+    },
+    {
+      "title": "Success in books: a big data approach to bestsellers",
+      "authors": [
+        "Burcu Yücesoy",
+        "Xindi Wang",
+        "Junming Huang",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2018,
+      "journal": "EPJ Data Science",
+      "doi": "10.1140/epjds/s13688-018-0135-y",
+      "citations": 49,
+      "summary": "Develops predictive models for book sales before publication using network-based features and social media signals.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1140/epjds/s13688-018-0135-y"
+    },
+    {
+      "title": "Assessment of community efforts to advance network-based prediction of protein–protein interactions",
+      "authors": [
+        "Xu‐Wen Wang",
+        "Lorenzo Madeddu",
+        "Kerstin Spirohn",
+        "Leonardo Martini",
+        "Adriano Fazzone",
+        "Luca Becchetti",
+        "Thomas P. Wytock",
+        "I. Kovács",
+        "Olivér M. Balogh",
+        "Bettina Benczik",
+        "Mátyás Pétervári",
+        "Bence Ágg",
+        "Péter Ferdinandy",
+        "Loan Vulliard",
+        "Jörg Menche",
+        "Stefania Colonnese",
+        "Manuela Petti",
+        "Gaetano Scarano",
+        "Francesca Cuomo",
+        "Tong Hao",
+        "Florent Laval",
+        "Luc Willems",
+        "Jean‐Claude Twizere",
+        "Marc Vidal",
+        "Michael A. Calderwood",
+        "Enrico Petrillo",
+        "Albert-Ĺaszló Barabási",
+        "Edwin K. Silverman",
+        "Joseph Loscalzo",
+        "Paola Velardi",
+        "Yang‐Yu Liu"
+      ],
+      "year": 2023,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-023-37079-7",
+      "citations": 48,
+      "summary": "Creates a network-based computational framework for predicting protein-protein interactions, significantly expanding the coverage of the human interactome.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41467-023-37079-7"
+    },
+    {
+      "title": "Uncovering the genetic blueprint of the C. elegans nervous system",
+      "authors": [
+        "I. Kovács",
+        "Dániel L. Barabási",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2020,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.2009093117",
+      "citations": 44,
+      "summary": "Maps the genetic blueprint of the C. elegans nervous system at single-cell resolution.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1073/pnas.2009093117"
+    },
+    {
+      "title": "Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology",
+      "authors": [
+        "Nima Dehmamy",
+        "Albert-Ĺaszló Barabási",
+        "Rose Yu"
+      ],
+      "year": 2019,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.1907.05008",
+      "citations": 44,
+      "summary": "Explores the representation power of graph neural networks in learning graph topology for network analysis tasks.",
+      "relevance_to_six_knives": "network-methods",
+      "source": "https://doi.org/10.48550/arxiv.1907.05008"
+    },
+    {
+      "title": "Noncoding RNAs improve the predictive power of network medicine",
+      "authors": [
+        "Deisy Morselli Gysi",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2023,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.2301342120",
+      "citations": 41,
+      "summary": "Shows that noncoding RNAs significantly improve the predictive power of network medicine for identifying disease-associated genes and drug targets.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1073/pnas.2301342120"
+    },
+    {
+      "title": "Success in books: predicting book sales before publication",
+      "authors": [
+        "Xindi Wang",
+        "Burcu Yücesoy",
+        "Onur Varol",
+        "Tina Eliassi‐Rad",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2019,
+      "journal": "EPJ Data Science",
+      "doi": "10.1140/epjds/s13688-019-0208-6",
+      "citations": 40,
+      "summary": "Develops predictive models for book sales before publication using network-based features and social media signals.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1140/epjds/s13688-019-0208-6"
+    },
+    {
+      "title": "Caenorhabditis elegans and the network control framework—FAQs",
+      "authors": [
+        "Emma K. Towlson",
+        "Petra E. Vértes",
+        "Gang Yan",
+        "Yee Lian Chew",
+        "Denise S. Walker",
+        "William R Schafer",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2018,
+      "journal": "Philosophical Transactions of the Royal Society B Biological Sciences",
+      "doi": "10.1098/rstb.2017.0372",
+      "citations": 36,
+      "summary": "Addresses frequently asked questions about applying network control theory to C. elegans.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1098/rstb.2017.0372"
+    },
+    {
+      "title": "A global network for network medicine",
+      "authors": [
+        "Bradley A. Maron",
+        "Lucia Altucci",
+        "Jean‐Luc Balligand",
+        "Jan Baumbach",
+        "Péter Ferdinandy",
+        "Sébastiano Filetti",
+        "Paolo Parini",
+        "Enrico Petrillo",
+        "Edwin K. Silverman",
+        "Albert-Ĺaszló Barabási",
+        "Joseph Loscalzo",
+        "Bradley A. Maron",
+        "Lucia Altucci",
+        "Jean‐Luc Balligand",
+        "Jan Baumbach",
+        "Péter Ferdinandy",
+        "Sébastiano Filetti",
+        "Paolo Parini",
+        "Enrico Petrillo",
+        "Edwin K. Silverman",
+        "Albert-Ĺaszló Barabási",
+        "Joseph Loscalzo"
+      ],
+      "year": 2020,
+      "journal": "npj Systems Biology and Applications",
+      "doi": "10.1038/s41540-020-00143-9",
+      "citations": 33,
+      "summary": "Establishes the global network medicine consortium for collaborative disease research.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41540-020-00143-9"
+    },
+    {
+      "title": "Exploring food contents in scientific literature with FoodMine",
+      "authors": [
+        "Forrest Hooton",
+        "Giulia Menichetti",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2020,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-020-73105-0",
+      "citations": 32,
+      "summary": "Develops FoodMine, a tool for systematically extracting food composition data from scientific literature using text mining.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41598-020-73105-0"
+    },
+    {
+      "title": "Isotopy and energy of physical networks",
+      "authors": [
+        "Yanchen Liu",
+        "Nima Dehmamy",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2020,
+      "journal": "Nature Physics",
+      "doi": "10.1038/s41567-020-1029-z",
+      "citations": 31,
+      "summary": "Introduces isotopy as a fundamental property of physical networks and demonstrates its relationship to energy minimization in network embeddings.",
+      "relevance_to_six_knives": "physical-networks",
+      "source": "https://doi.org/10.1038/s41567-020-1029-z"
+    },
+    {
+      "title": "Chemical Complexity of Food and Implications for Therapeutics",
+      "authors": [
+        "Giulia Menichetti",
+        "Albert-Ĺaszló Barabási",
+        "Joseph Loscalzo"
+      ],
+      "year": 2025,
+      "journal": "New England Journal of Medicine",
+      "doi": "10.1056/nejmra2413243",
+      "citations": 30,
+      "summary": "Reviews the chemical complexity of food and its implications for developing food-based therapeutics using network medicine approaches.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1056/nejmra2413243"
+    },
+    {
+      "title": "Impact of physicality on network structure",
+      "authors": [
+        "Márton Pósfai",
+        "Balázs Szegedy",
+        "Iva Bačić",
+        "Luka Blagojević",
+        "Miklós Abért",
+        "János Kertész",
+        "László Lovász",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2023,
+      "journal": "Nature Physics",
+      "doi": "10.1038/s41567-023-02267-1",
+      "citations": 30,
+      "summary": "Demonstrates how the physical embedding of networks fundamentally constrains their topological properties and dynamics.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/s41567-023-02267-1"
+    },
+    {
+      "title": "Controllability in an islet specific regulatory network identifies the transcriptional factor NFATC4, which regulates Type 2 Diabetes associated genes",
+      "authors": [
+        "Amitabh Sharma",
+        "Arda Halu",
+        "Julius L. Decano",
+        "Megha Padi",
+        "Yang‐Yu Liu",
+        "Rashmi B. Prasad",
+        "João Fadista",
+        "Marc Santolini",
+        "Jörg Menche",
+        "Scott T. Weiss",
+        "Marc Vidal",
+        "Edwin K. Silverman",
+        "Masanori Aikawa",
+        "Albert-Ĺaszló Barabási",
+        "Leif Groop",
+        "Joseph Loscalzo"
+      ],
+      "year": 2018,
+      "journal": "npj Systems Biology and Applications",
+      "doi": "10.1038/s41540-018-0057-0",
+      "citations": 30,
+      "summary": "Applies control theory to complex networks, introducing structural controllability concepts and identifying the minimum number of driver nodes needed to control a network.",
+      "relevance_to_six_knives": "controllability",
+      "source": "https://doi.org/10.1038/s41540-018-0057-0"
+    },
+    {
+      "title": "Identification of potent inhibitors of SARS-CoV-2 infection by combined pharmacological evaluation and cellular network prioritization",
+      "authors": [
+        "J. J. Patten",
+        "Patrick T. Keiser",
+        "Deisy Morselli-Gysi",
+        "Giulia Menichetti",
+        "Hiroyuki Mori",
+        "Callie J. Donahue",
+        "Xiao Gan",
+        "Ítalo Faria do Valle",
+        "Kathleen Geoghegan-Barek",
+        "Manu Anantpadma",
+        "RuthMabel Boytz",
+        "Jacob Berrigan",
+        "Sarah H. Stubbs",
+        "Tess Ayazika",
+        "Colin O’Leary",
+        "Sallieu Jalloh",
+        "Florence F. Wagner",
+        "Seyoum Ayehunie",
+        "Stephen J. Elledge",
+        "Deborah Anderson",
+        "Joseph Loscalzo",
+        "Marinka Žitnik",
+        "Suryaram Gummuluru",
+        "Mark Namchuk",
+        "Albert-Ĺaszló Barabási",
+        "Robert A. Davey"
+      ],
+      "year": 2022,
+      "journal": "iScience",
+      "doi": "10.1016/j.isci.2022.104925",
+      "citations": 29,
+      "summary": "Studies the structural and functional properties of networks in the context of iScience, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1016/j.isci.2022.104925"
+    },
+    {
+      "title": "Trade-offs between driving nodes and time-to-control in complex networks",
+      "authors": [
+        "Sérgio Pequito",
+        "Víctor M. Preciado",
+        "Albert-Ĺaszló Barabási",
+        "George J. Pappas"
+      ],
+      "year": 2017,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/srep39978",
+      "citations": 29,
+      "summary": "Reveals trade-offs between the number of driver nodes and the time needed to control complex networks.",
+      "relevance_to_six_knives": "controllability",
+      "source": "https://doi.org/10.1038/srep39978"
+    },
+    {
+      "title": "Functional structures of US state governments",
+      "authors": [
+        "Stephen Kosack",
+        "Michele Coscia",
+        "Evann Smith",
+        "Kim Albrecht",
+        "Albert-Ĺaszló Barabási",
+        "Ricardo Hausmann"
+      ],
+      "year": 2018,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1803228115",
+      "citations": 28,
+      "summary": "Reveals the functional network structure of US state governments using organizational data.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1073/pnas.1803228115"
+    },
+    {
+      "title": "Nutrient concentrations in food display universal behaviour",
+      "authors": [
+        "Giulia Menichetti",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2022,
+      "journal": "Nature Food",
+      "doi": "10.1038/s43016-022-00511-0",
+      "citations": 27,
+      "summary": "Reveals universal behavior in nutrient concentrations across foods, showing that nutrient profiles follow consistent statistical patterns.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s43016-022-00511-0"
+    },
+    {
+      "title": "Finding Patient Zero: Learning Contagion Source with Graph Neural Networks",
+      "authors": [
+        "Chintan Shah",
+        "Nima Dehmamy",
+        "Nicola Perra",
+        "Matteo Chinazzi",
+        "Albert-Ĺaszló Barabási",
+        "Alessandro Vespignani",
+        "Rose Yu"
+      ],
+      "year": 2020,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2006.11913",
+      "citations": 27,
+      "summary": "Develops graph neural network methods for finding patient zero in contagion processes.",
+      "relevance_to_six_knives": "network-methods",
+      "source": "https://doi.org/10.48550/arxiv.2006.11913"
+    },
+    {
+      "title": "Prevalence of processed foods in major US grocery stores",
+      "authors": [
+        "Babak Ravandi",
+        "Gordana Ispirova",
+        "Michael Sebek",
+        "Peter Mehler",
+        "Albert-Ĺaszló Barabási",
+        "Giulia Menichetti"
+      ],
+      "year": 2025,
+      "journal": "Nature Food",
+      "doi": "10.1038/s43016-024-01095-7",
+      "citations": 24,
+      "summary": "Documents the prevalence of processed foods in major US grocery stores using the GroceryDB database, revealing the extent of ultra-processed food availability.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s43016-024-01095-7"
+    },
+    {
+      "title": "Maximizing brain networks engagement via individualized connectome-wide target search",
+      "authors": [
+        "Arianna Menardi",
+        "Davide Momi",
+        "Antonino Vallesi",
+        "Albert-Ĺaszló Barabási",
+        "Emma K. Towlson",
+        "Emiliano Santarnecchi"
+      ],
+      "year": 2022,
+      "journal": "Brain stimulation",
+      "doi": "10.1016/j.brs.2022.09.011",
+      "citations": 24,
+      "summary": "Develops methods for maximizing brain network engagement via individualized connectome-wide target search.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1016/j.brs.2022.09.011"
+    },
+    {
+      "title": "Recordings of Caenorhabditis elegans locomotor behaviour following targeted ablation of single motorneurons",
+      "authors": [
+        "Yee Lian Chew",
+        "Denise S. Walker",
+        "Emma K. Towlson",
+        "Petra E. Vértes",
+        "Gang Yan",
+        "Albert-Ĺaszló Barabási",
+        "William R Schafer"
+      ],
+      "year": 2017,
+      "journal": "Scientific Data",
+      "doi": "10.1038/sdata.2017.156",
+      "citations": 21,
+      "summary": "Provides recordings of C. elegans locomotor behavior following targeted single-neuron ablation.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/sdata.2017.156"
+    },
+    {
+      "title": "A network-based normalized impact measure reveals successful periods of scientific discovery across disciplines",
+      "authors": [
+        "Qing Ke",
+        "Alexander J. Gates",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2023,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.2309378120",
+      "citations": 19,
+      "summary": "Proposes a network-based normalized impact measure that accounts for field differences and reveals successful periods of scientific discovery.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1073/pnas.2309378120"
+    },
+    {
+      "title": "Accelerating network layouts using graph neural networks",
+      "authors": [
+        "Csaba Both",
+        "Nima Dehmamy",
+        "Rose Yu",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2023,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-023-37189-2",
+      "citations": 17,
+      "summary": "Uses graph neural networks to accelerate network layout algorithms.",
+      "relevance_to_six_knives": "network-methods",
+      "source": "https://doi.org/10.1038/s41467-023-37189-2"
+    },
+    {
+      "title": "Hidden citations obscure true impact in science",
+      "authors": [
+        "Xiangyi Meng",
+        "Onur Varol",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2024,
+      "journal": "PNAS Nexus",
+      "doi": "10.1093/pnasnexus/pgae155",
+      "citations": 16,
+      "summary": "Reveals that hidden citations (citations not indexed in standard databases) significantly distort our understanding of scientific impact.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1093/pnasnexus/pgae155"
+    },
+    {
+      "title": "Reproducible science of science at scale: pySciSci",
+      "authors": [
+        "Alexander J. Gates",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2023,
+      "journal": "Quantitative Science Studies",
+      "doi": "10.1162/qss_a_00260",
+      "citations": 16,
+      "summary": "Provides a comprehensive review of the science of science field, covering the quantitative understanding of scientific careers, impact, collaboration, and the dynamics of knowledge creation.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1162/qss_a_00260"
+    },
+    {
+      "title": "The Network Medicine Imperative and the Need for an International Network Medicine Consortium",
+      "authors": [
+        "Paolo Parini",
+        "Lucia Altucci",
+        "Jean‐Luc Balligand",
+        "Jan Baumbach",
+        "Péter Ferdinandy",
+        "Sébastiano Filetti",
+        "Bradley A. Maron",
+        "Enrico Petrillo",
+        "Edwin K. Silverman",
+        "Albert-Ĺaszló Barabási",
+        "Joseph Loscalzo"
+      ],
+      "year": 2020,
+      "journal": "The American Journal of Medicine",
+      "doi": "10.1016/j.amjmed.2020.03.034",
+      "citations": 16,
+      "summary": "Argues for the necessity of network medicine and the need for an international network medicine consortium.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1016/j.amjmed.2020.03.034"
+    },
+    {
+      "title": "Machine Learning Prediction of Food Processing",
+      "authors": [
+        "Giulia Menichetti",
+        "Babak Ravandi",
+        "Dariush Mozaffarian",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2021,
+      "journal": "medRxiv",
+      "doi": "10.1101/2021.05.22.21257615",
+      "citations": 15,
+      "summary": "Applies machine learning to predict the degree of food processing for grocery items, creating a comprehensive database for nutrition research.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1101/2021.05.22.21257615"
+    },
+    {
+      "title": "Social network structure and composition in former NFL football players",
+      "authors": [
+        "Amar Dhand",
+        "Liam McCafferty",
+        "Rachel Grashow",
+        "Ian M. Corbin",
+        "Sarah Cohan",
+        "Alicia J. Whittington",
+        "Ann Connor",
+        "Aaron L. Baggish",
+        "Mark Weisskopf",
+        "Ross Zafonte",
+        "Álvaro Pascual‐Leone",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2021,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-020-80091-w",
+      "citations": 13,
+      "summary": "Analyzes social network structure and composition in former NFL football players.",
+      "relevance_to_six_knives": "social-networks",
+      "source": "https://doi.org/10.1038/s41598-020-80091-w"
+    },
+    {
+      "title": "Network-medicine framework for studying disease trajectories in U.S. veterans",
+      "authors": [
+        "Ítalo Faria do Valle",
+        "Brian R. Ferolito",
+        "Hanna Gerlovin",
+        "Lauren Costa",
+        "Serkalem Demissie",
+        "Franciel Linares",
+        "Jérémy Cohen",
+        "David Gagnon",
+        "J. Michael Gaziano",
+        "Edmon Begoli",
+        "Kelly Cho",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2022,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-022-15764-9",
+      "citations": 12,
+      "summary": "Studies the structural and functional properties of networks in the context of Scientific Reports, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/s41598-022-15764-9"
+    },
+    {
+      "title": "Physical Network Constraints Define the Multiplicative Architecture of the Brain’s Connectome",
+      "authors": [
+        "Ben Piazza",
+        "Dániel L. Barabási",
+        "Giulia Menichetti",
+        "André Ferreira Castro",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2025,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "10.1101/2025.02.27.640551",
+      "citations": 11,
+      "summary": "Reveals that physical network constraints define the multiplicative architecture of the brain's connectome, linking structure to function.",
+      "relevance_to_six_knives": "physical-networks",
+      "source": "https://doi.org/10.1101/2025.02.27.640551"
+    },
+    {
+      "title": "Measuring Entanglement in Physical Networks",
+      "authors": [
+        "Cory Glover",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2024,
+      "journal": "Physical Review Letters",
+      "doi": "10.1103/physrevlett.133.077401",
+      "citations": 11,
+      "summary": "Develops methods for measuring entanglement in physical networks, quantifying how links become inextricably intertwined.",
+      "relevance_to_six_knives": "physical-networks",
+      "source": "https://doi.org/10.1103/physrevlett.133.077401"
+    },
+    {
+      "title": "Synthetic ablations in the C. elegans nervous system",
+      "authors": [
+        "Emma K. Towlson",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2019,
+      "journal": "Network Neuroscience",
+      "doi": "10.1162/netn_a_00115",
+      "citations": 11,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1162/netn_a_00115"
+    },
+    {
+      "title": "Mapping philanthropic support of science",
+      "authors": [
+        "Louis Shekhtman",
+        "Alexander J. Gates",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2024,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-024-58367-2",
+      "citations": 10,
+      "summary": "Maps the landscape of philanthropic support for scientific research, revealing patterns in private funding across disciplines.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.1038/s41598-024-58367-2"
+    },
+    {
+      "title": "The clinical trials puzzle: How network effects limit drug discovery",
+      "authors": [
+        "Kishore Vasan",
+        "Deisy Morselli Gysi",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2023,
+      "journal": "iScience",
+      "doi": "10.1016/j.isci.2023.108361",
+      "citations": 10,
+      "summary": "Reveals how network effects in drug development limit the success of clinical trials.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1016/j.isci.2023.108361"
+    },
+    {
+      "title": "Human Perception of Performance",
+      "authors": [
+        "Luca Pappalardo",
+        "Paolo Cintia",
+        "Dino Pedreschi",
+        "Fosca Giannotti",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2017,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.1712.02224",
+      "citations": 10,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.48550/arxiv.1712.02224"
+    },
+    {
+      "title": "A Network-Based Framework to Discover Treatment-Response–Predicting Biomarkers for Complex Diseases",
+      "authors": [
+        "Uday Shankar Shanthamallu",
+        "Casey L. Kilpatrick",
+        "Alex L. Jones",
+        "Jonathan M. Rubin",
+        "Alif Saleh",
+        "Albert-Ĺaszló Barabási",
+        "Viatcheslav R. Akmaev",
+        "Susan Dina Ghiassian"
+      ],
+      "year": 2024,
+      "journal": "Journal of Molecular Diagnostics",
+      "doi": "10.1016/j.jmoldx.2024.06.008",
+      "citations": 9,
+      "summary": "Creates a network-based framework to discover biomarkers that predict treatment response for complex diseases.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1016/j.jmoldx.2024.06.008"
+    },
+    {
+      "title": "Fragmentation of outage clusters during the recovery of power distribution grids",
+      "authors": [
+        "Hao Wu",
+        "Xiangyi Meng",
+        "Michael M. Danziger",
+        "Sean P. Cornelius",
+        "Hui Tian",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2022,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-022-35104-9",
+      "citations": 9,
+      "summary": "Analyzes fragmentation patterns of power outages during recovery of distribution grids.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/s41467-022-35104-9"
+    },
+    {
+      "title": "Control energy scaling in temporal networks",
+      "authors": [
+        "Aming Li",
+        "Sean P. Cornelius",
+        "Yang‐Yu Liu",
+        "Long Wang",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2017,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.1712.06434",
+      "citations": 8,
+      "summary": "Analyzes how control energy scales with network size in temporal networks.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.48550/arxiv.1712.06434"
+    },
+    {
+      "title": "Quantifying the impact of biobanks and cohort studies",
+      "authors": [
+        "Rodrigo Dorantes-Gilardi",
+        "Kerry L. Ivey",
+        "Lauren Costa",
+        "Rachael Matty",
+        "Kelly Cho",
+        "John Michael Gaziano",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2025,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.2427157122",
+      "citations": 7,
+      "summary": "Quantifies the scientific impact of biobanks and cohort studies using citation-based and network analysis methods.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1073/pnas.2427157122"
+    },
+    {
+      "title": "Improving the performance and interpretability on medical datasets using graphical ensemble feature selection",
+      "authors": [
+        "Enzo Battistella",
+        "Dina Ghiassian",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2024,
+      "journal": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btae341",
+      "citations": 7,
+      "summary": "Improves machine learning performance and interpretability on medical datasets using graphical ensemble feature selection.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1093/bioinformatics/btae341"
+    },
+    {
+      "title": "MilkyBase, a database of human milk composition as a function of maternal-, infant- and measurement conditions",
+      "authors": [
+        "Tünde Pacza",
+        "Mayara Lopes Martins",
+        "Maha Rockaya",
+        "Katalin Eszter Müller",
+        "Ayan Chatterjee",
+        "Albert-Ĺaszló Barabási",
+        "József Baranyi"
+      ],
+      "year": 2022,
+      "journal": "Scientific Data",
+      "doi": "10.1038/s41597-022-01663-1",
+      "citations": 7,
+      "summary": "Presents MilkyBase, a comprehensive database of human milk composition as a function of maternal, infant, and measurement variables.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1038/s41597-022-01663-1"
+    },
+    {
+      "title": "Visualizing novel connections and genetic similarities across diseases using a network-medicine based approach",
+      "authors": [
+        "Brian R. Ferolito",
+        "Ítalo Faria do Valle",
+        "Hanna Gerlovin",
+        "Lauren Costa",
+        "Juan P. Casas",
+        "J. Michael Gaziano",
+        "David Gagnon",
+        "Edmon Begoli",
+        "Albert-Ĺaszló Barabási",
+        "Kelly Cho"
+      ],
+      "year": 2022,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-022-19244-y",
+      "citations": 7,
+      "summary": "Studies the structural and functional properties of networks in the context of Scientific Reports, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/s41598-022-19244-y"
+    },
+    {
+      "title": "GroceryDB: Prevalence of Processed Food in Grocery Stores",
+      "authors": [
+        "Babak Ravandi",
+        "Gordana Ispirova",
+        "Michael Sebek",
+        "Peter Mehler",
+        "Albert-Ĺaszló Barabási",
+        "Giulia Menichetti"
+      ],
+      "year": 2022,
+      "journal": "medRxiv",
+      "doi": "10.1101/2022.04.23.22274217",
+      "citations": 7,
+      "summary": "Presents GroceryDB, a comprehensive database documenting the prevalence of processed foods in grocery stores.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1101/2022.04.23.22274217"
+    },
+    {
+      "title": "Twenty Years of Network Science: From Structure to Control",
+      "authors": [
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2019,
+      "journal": "Bulletin of the American Physical Society",
+      "doi": "",
+      "citations": 5,
+      "summary": "Studies the structural and functional properties of networks in the context of Bulletin of the American Physical Society, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": ""
+    },
+    {
+      "title": "Network Medicine Framework Shows Proximity of Polyphenol Targets and Disease Proteins is Predictive of the Therapeutic Effects of Polyphenols",
+      "authors": [
+        "Ítalo Faria do Valle",
+        "Harvey G. Roweth",
+        "Michael W. Malloy",
+        "Sofia Moco",
+        "Denís Barron",
+        "Elisabeth M. Battinelli",
+        "Joseph Loscalzo",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2020,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "10.1101/2020.08.27.270173",
+      "citations": 4,
+      "summary": "Applies a network medicine framework to show that the proximity between polyphenol targets and disease proteins in the human interactome predicts therapeutic effects.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1101/2020.08.27.270173"
+    },
+    {
+      "title": "NetMedPy: A Python package for Large-Scale Network Medicine Screening",
+      "authors": [
+        "Andrés Aldana",
+        "Michael Sebek",
+        "Gordana Ispirova",
+        "Rodrigo Dorantes-Gilardi",
+        "Albert-Ĺaszló Barabási",
+        "Joseph Loscalzo",
+        "Giulia Menichetti"
+      ],
+      "year": 2024,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "10.1101/2024.09.05.611537",
+      "citations": 3,
+      "summary": "Introduces NetMedPy, a Python package for large-scale network medicine screening that integrates multi-omics data.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1101/2024.09.05.611537"
+    },
+    {
+      "title": "Genomics-based annotations help unveil the molecular composition of edible plants",
+      "authors": [
+        "Shany Ofaim",
+        "Giulia Menichetti",
+        "Michael Sebek",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2022,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "10.1101/2022.01.24.477528",
+      "citations": 3,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1101/2022.01.24.477528"
+    },
+    {
+      "title": "Assessment of community efforts to advance computational prediction of protein-protein interactions",
+      "authors": [
+        "Xu‐Wen Wang",
+        "Lorenzo Madeddu",
+        "Kerstin Spirohn",
+        "Leonardo Martini",
+        "Adriano Fazzone",
+        "Luca Becchetti",
+        "Thomas P. Wytock",
+        "I. Kovács",
+        "Olivér M. Balogh",
+        "Bettina Benczik",
+        "Mátyás Pétervári",
+        "Bence Ágg",
+        "Péter Ferdinandy",
+        "Loan Vulliard",
+        "Jörg Menche",
+        "Stefania Colonnese",
+        "Manuela Petti",
+        "Gaetano Scarano",
+        "Francesca Cuomo",
+        "Tong Hao",
+        "Florent Laval",
+        "Luc Willems",
+        "Jean‐Claude Twizere",
+        "Michael A. Calderwood",
+        "Enrico Petrillo",
+        "Albert-Ĺaszló Barabási",
+        "Edwin K. Silverman",
+        "Joseph Loscalzo",
+        "Paola Velardi",
+        "Yang‐Yu Liu"
+      ],
+      "year": 2021,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "10.1101/2021.09.22.461292",
+      "citations": 3,
+      "summary": "Assesses community efforts to advance network-based prediction of protein-protein interactions.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1101/2021.09.22.461292"
+    },
+    {
+      "title": "Topological Phase Transitions in Spatial Networks",
+      "authors": [
+        "Paul Balister",
+        "Chaoming Song",
+        "Oliver Riordan",
+        "Béla Bollobás",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2018,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.1806.10114",
+      "citations": 3,
+      "summary": "Studies the structural and functional properties of networks in the context of arXiv (Cornell University), contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.48550/arxiv.1806.10114"
+    },
+    {
+      "title": "Surface optimization governs the local design of physical networks",
+      "authors": [
+        "Xiangyi Meng",
+        "Benjamin Piazza",
+        "Csaba Both",
+        "Baruch Barzel",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2026,
+      "journal": "Nature",
+      "doi": "10.1038/s41586-025-09784-4",
+      "citations": 2,
+      "summary": "Reveals that surface optimization governs the local design of physical networks, showing how spatial constraints shape the structure of physical links.",
+      "relevance_to_six_knives": "physical-networks",
+      "source": "https://doi.org/10.1038/s41586-025-09784-4"
+    },
+    {
+      "title": "Logarithmic kinetics and bundling in random packings of elongated 3D physical links",
+      "authors": [
+        "Ivan Bonamassa",
+        "Balázs Ráth",
+        "Márton Pósfai",
+        "Miklós Abért",
+        "Dániel Keliger",
+        "Balázs Szegedy",
+        "János Kertész",
+        "László Lovász",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2025,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.2427145122",
+      "citations": 2,
+      "summary": "Discovers logarithmic kinetics and bundling behavior in random packings of elongated 3D physical links, revealing fundamental physical constraints.",
+      "relevance_to_six_knives": "physical-networks",
+      "source": "https://doi.org/10.1073/pnas.2427145122"
+    },
+    {
+      "title": "Philanthropy in art: locality, donor retention, and prestige",
+      "authors": [
+        "Louis Shekhtman",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2023,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-023-38815-1",
+      "citations": 2,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/s41598-023-38815-1"
+    },
+    {
+      "title": "Universal dynamics of ranking",
+      "authors": [
+        "Gerardo Íñiguez",
+        "Carlos Pineda",
+        "Carlos Gershenson",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2021,
+      "journal": "arXiv (Cornell University)",
+      "doi": "",
+      "citations": 2,
+      "summary": "Reveals universal dynamics of ranking systems across diverse domains from sports to science.",
+      "relevance_to_six_knives": "other",
+      "source": ""
+    },
+    {
+      "title": "Divergent accumulation patterns of SNVs and INDELs reveal negative selection in noncancerous cells",
+      "authors": [
+        "Lei Zhang",
+        "Moonsook Lee",
+        "Xiaoxiao Hao",
+        "Xiao Ma",
+        "Chuwei Xia",
+        "Yiwei Zhao",
+        "Joseph Ehlert",
+        "Zhongxuan Chi",
+        "Bo Jin",
+        "Ronald Cutler",
+        "Alexander Y. Maslov",
+        "Albert-Ĺaszló Barabási",
+        "Jan H.J. Hoeijmakers",
+        "Winfried Edelmann",
+        "Jan Vijg",
+        "Xiao Dong"
+      ],
+      "year": 2025,
+      "journal": "The Innovation",
+      "doi": "10.1016/j.xinn.2025.101008",
+      "citations": 1,
+      "summary": "Reveals divergent accumulation patterns of single nucleotide variants and insertions/deletions under negative selection.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1016/j.xinn.2025.101008"
+    },
+    {
+      "title": "Transformers Enhance the Predictive Power of Network Medicine",
+      "authors": [
+        "J.O. Spector",
+        "Andrés Aldana",
+        "Michael Sebek",
+        "Joey Ehlert",
+        "Christian De Frondeville",
+        "Susan Dina Ghiassian",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2025,
+      "journal": "medRxiv",
+      "doi": "10.1101/2025.01.27.25321204",
+      "citations": 1,
+      "summary": "Shows that transformer-based AI models significantly improve the predictive accuracy of network medicine methods.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1101/2025.01.27.25321204"
+    },
+    {
+      "title": "Enhancing the Accuracy of Network Medicine Through Understanding the Impact of Sample Size in Gene Co-expression Networks",
+      "authors": [
+        "Joaquim Aguirre‐Plans",
+        "Bingsheng Chen",
+        "Susan Dina Ghiassian",
+        "Alex Jones",
+        "Viatcheslav R. Akmaev",
+        "Alif Saleh",
+        "Deisy Morselli Gysi",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2025,
+      "journal": "Network and Systems Medicine",
+      "doi": "10.14293/nsm.25.1.0002",
+      "citations": 1,
+      "summary": "Improves network medicine accuracy by characterizing how sample size affects gene co-expression network construction.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.14293/nsm.25.1.0002"
+    },
+    {
+      "title": "Negative Selection Allows DNA Mismatch Repair-Deficient Mouse Fibroblasts In Vitro to Tolerate High Levels of Somatic Mutations",
+      "authors": [
+        "Lei Zhang",
+        "Moonsook Lee",
+        "Xiaoxiao Hao",
+        "Joseph Ehlert",
+        "Zhongxuan Chi",
+        "Bo Jin",
+        "Alexander Y. Maslov",
+        "Albert-Ĺaszló Barabási",
+        "Jan H.J. Hoeijmakers",
+        "Winfried Edelmann",
+        "Jan Vijg",
+        "Xiao Dong"
+      ],
+      "year": 2024,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "10.1101/2024.05.04.592535",
+      "citations": 1,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1101/2024.05.04.592535"
+    },
+    {
+      "title": "Logarithmic kinetics and bundling in physical networks",
+      "authors": [
+        "Ivan Bonamassa",
+        "Balázs Ráth",
+        "Márton Pósfai",
+        "Miklós Abért",
+        "Dániel Keliger",
+        "Balázs Szegedy",
+        "János Kertész",
+        "László Lovász",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2024,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2401.02579",
+      "citations": 1,
+      "summary": "Discovers logarithmic kinetics and bundling behavior in random packings of elongated 3D physical links, revealing fundamental physical constraints.",
+      "relevance_to_six_knives": "physical-networks",
+      "source": "https://doi.org/10.48550/arxiv.2401.02579"
+    },
+    {
+      "title": "Estimating Biochemical Concentration in Food Using Untargeted Metabolomics",
+      "authors": [
+        "Michael Sebek",
+        "Giulia Menichetti",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2022,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "10.1101/2022.12.02.518912",
+      "citations": 1,
+      "summary": "Explores the composition and health implications of food and nutrition using data-driven and network medicine approaches.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.1101/2022.12.02.518912"
+    },
+    {
+      "title": "Non-Coding RNAs Improve the Predictive Power of Network Medicine",
+      "authors": [
+        "Deisy Morselli Gysi",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2022,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2211.14800",
+      "citations": 1,
+      "summary": "Studies the structural and functional properties of networks in the context of arXiv (Cornell University), contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.48550/arxiv.2211.14800"
+    },
+    {
+      "title": "Understanding the Invisible. From Networks to Transformations. Interview with Albert-László Barabási",
+      "authors": [
+        "Albert-Ĺaszló Barabási",
+        "Stefano Maffei"
+      ],
+      "year": 2022,
+      "journal": "DIID",
+      "doi": "10.30682/diid7521f",
+      "citations": 1,
+      "summary": "Studies the structural and functional properties of networks in the context of DIID, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.30682/diid7521f"
+    },
+    {
+      "title": "Recovery coupling in multilayer networks",
+      "authors": [
+        "Michael M. Danziger",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2022,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-022-28379-5",
+      "citations": 1,
+      "summary": "Studies the structural and functional properties of networks in the context of Nature Communications, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1038/s41467-022-28379-5"
+    },
+    {
+      "title": "Identification of Druggable Host Targets Needed for SARS-CoV-2 Infection by Combined Pharmacological Evaluation and Cellular Network Directed Prioritization Both in vitro and in vivo",
+      "authors": [
+        "J. J. Patten",
+        "Patrick T. Keiser",
+        "Deisy Morselli Gysi",
+        "Giulia Menichetti",
+        "Hiroyuki Mori",
+        "Callie J. Donahue",
+        "Xiao Gan",
+        "Ítalo Faria do Valle",
+        "Kathleen Geoghegan-Barek",
+        "Manu Anantpadma",
+        "RuthMabel Boytz",
+        "Jacob Berrigan",
+        "Sarah Hulsey-Stubbs",
+        "Tess Ayazika",
+        "Colin O’Leary",
+        "Sallieu Jalloh",
+        "Florence F. Wagner",
+        "Seyoum Ayehunie",
+        "Stephen J. Elledge",
+        "Deborah J. Anderson",
+        "Joseph Loscalzo",
+        "Marinka Žitnik",
+        "Suryaram Gummuluru",
+        "Mark Namchuk",
+        "Albert-Ĺaszló Barabási",
+        "Robert A. Davey"
+      ],
+      "year": 2022,
+      "journal": "SSRN Electronic Journal",
+      "doi": "10.2139/ssrn.4038525",
+      "citations": 1,
+      "summary": "Studies the structural and functional properties of networks in the context of SSRN Electronic Journal, contributing to the understanding of complex systems.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.2139/ssrn.4038525"
+    },
+    {
+      "title": "AI-Bind: Improving Binding Predictions for Novel Protein Targets and Ligands",
+      "authors": [
+        "Ayan Chatterjee",
+        "Robin Walters",
+        "Zohair Shafi",
+        "Omair Shafi Ahmed",
+        "Michael Šebek",
+        "Deisy Morselli Gysi",
+        "Rose Yu",
+        "Tina Eliassi‐Rad",
+        "Albert-Ĺaszló Barabási",
+        "Giulia Menichetti"
+      ],
+      "year": 2021,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2112.13168",
+      "citations": 1,
+      "summary": "Investigates the molecular and biological properties of proteins or genes using network-based approaches.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.48550/arxiv.2112.13168"
+    },
+    {
+      "title": "The aging genome exhibits organized vulnerability to somatic mutations",
+      "authors": [
+        "Joseph Ehlert",
+        "Ronald Cutler",
+        "Jonah Spector",
+        "Bnaya Gross",
+        "Orr Levy",
+        "Jan Vijg",
+        "Xiao Dong",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "10.64898/2026.05.21.726885",
+      "citations": 0,
+      "summary": "Reveals that the aging genome exhibits organized vulnerability to somatic mutations, with specific genomic regions more susceptible to age-related damage.",
+      "relevance_to_six_knives": "network-medicine",
+      "source": "https://doi.org/10.64898/2026.05.21.726885"
+    },
+    {
+      "title": "Hungary’s chance to rebuild science",
+      "authors": [
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2026,
+      "journal": "Science",
+      "doi": "10.1126/science.aei5835",
+      "citations": 0,
+      "summary": "Analyzes patterns in scientific research and careers using quantitative methods and network analysis.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.1126/science.aei5835"
+    },
+    {
+      "title": "Human mobility in the metaverse mirrors patterns in the physical world",
+      "authors": [
+        "Kishore Vasan",
+        "Kinga Márton",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-026-45128-6",
+      "citations": 0,
+      "summary": "Shows that human mobility patterns in the metaverse mirror those in the physical world, with similar scaling laws and predictability.",
+      "relevance_to_six_knives": "predictability",
+      "source": "https://doi.org/10.1038/s41598-026-45128-6"
+    },
+    {
+      "title": "Surface Optimisation Governs the Local Design of Physical Networks",
+      "authors": [
+        "Xiangyi Meng",
+        "Benjamin Piazza",
+        "Csaba Both",
+        "Baruch Barzel",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2025,
+      "journal": "ArXiv.org",
+      "doi": "10.48550/arxiv.2509.23431",
+      "citations": 0,
+      "summary": "Shows that surface optimization principles govern the local design and topology of physical networks.",
+      "relevance_to_six_knives": "physical-networks",
+      "source": "https://doi.org/10.48550/arxiv.2509.23431"
+    },
+    {
+      "title": "Network-driven discovery of repurposable drugs targeting hallmarks of aging.",
+      "authors": [
+        "Bnaya Gross",
+        "Joseph Ehlert",
+        "Vadim N. Gladyshev",
+        "Joseph Loscalzo",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2025,
+      "journal": "PubMed",
+      "doi": "",
+      "citations": 0,
+      "summary": "Uses network medicine approaches to discover repurposable drugs targeting hallmarks of aging.",
+      "relevance_to_six_knives": "other",
+      "source": ""
+    },
+    {
+      "title": "Quantifying Institutional Gender Inequality in Contemporary Visual Art",
+      "authors": [
+        "Xindi Wang",
+        "Alexander J. Gates",
+        "Magnus Resch",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2025,
+      "journal": "ArXiv.org",
+      "doi": "10.48550/arxiv.2506.22103",
+      "citations": 0,
+      "summary": "Quantifies gender inequality in the contemporary visual art world using network analysis of exhibition records.",
+      "relevance_to_six_knives": "science-of-science",
+      "source": "https://doi.org/10.48550/arxiv.2506.22103"
+    },
+    {
+      "title": "The origin, consequence, and visibility of criticism in science",
+      "authors": [
+        "B. Chen",
+        "Dakota Murray",
+        "Yixuan Liu",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2024,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2412.02809",
+      "citations": 0,
+      "summary": "Analyzes the origins and impact of criticism in scientific publishing using network and citation data.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.48550/arxiv.2412.02809"
+    },
+    {
+      "title": "Human Mobility in the Metaverse",
+      "authors": [
+        "Kishore Vasan",
+        "Marton Karsai",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2024,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2404.03071",
+      "citations": 0,
+      "summary": "Shows that human mobility patterns in the metaverse mirror those in the physical world, with similar scaling laws and predictability.",
+      "relevance_to_six_knives": "predictability",
+      "source": "https://doi.org/10.48550/arxiv.2404.03071"
+    },
+    {
+      "title": "An Overivew of the Science of Success",
+      "authors": [
+        "Xindi Wang",
+        "Alexander J. Gates",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2024,
+      "journal": "",
+      "doi": "10.31235/osf.io/ftgqw",
+      "citations": 0,
+      "summary": "Analyzes patterns in scientific research and careers using quantitative methods and network analysis.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.31235/osf.io/ftgqw"
+    },
+    {
+      "title": "RNAs não codificantes: o que são e porque podem nos ajudar a prevenir e tratar melhor doenças genéticas",
+      "authors": [
+        "Deisy Morselli Gysi",
+        "Albert-Ĺaszló Barabási"
+      ],
+      "year": 2024,
+      "journal": "",
+      "doi": "10.64628/ade.gaeh7t57k",
+      "citations": 0,
+      "summary": "Contributes to the understanding of complex systems using network science and data-driven approaches.",
+      "relevance_to_six_knives": "other",
+      "source": "https://doi.org/10.64628/ade.gaeh7t57k"
+    }
+  ],
+  "rounds_log": [
+    {
+      "round": 1,
+      "added": 0,
+      "cumulative": 0,
+      "decision": "keep",
+      "note": "Initial web_search failed (bot-detection)"
+    },
+    {
+      "round": 2,
+      "added": 0,
+      "cumulative": 0,
+      "decision": "keep",
+      "note": "Semantic Scholar via web_fetch returned JS-only page"
+    },
+    {
+      "round": 3,
+      "added": 0,
+      "cumulative": 0,
+      "decision": "keep",
+      "note": "Google Scholar blocked (bot-detection)"
+    },
+    {
+      "round": 4,
+      "added": 50,
+      "cumulative": 50,
+      "decision": "keep",
+      "note": "OpenAlex API: author A5038976962, top 50 cited works"
+    },
+    {
+      "round": 5,
+      "added": 100,
+      "cumulative": 150,
+      "decision": "keep",
+      "note": "OpenAlex API: pages 2-3 (papers 51-150) by citation"
+    },
+    {
+      "round": 6,
+      "added": 52,
+      "cumulative": 202,
+      "decision": "end",
+      "note": "OpenAlex API: newest papers (year desc), filtered + deduped"
+    }
+  ]
+}
