@@ -1,0 +1,360 @@
+{
+  "status": "success",
+  "search_rounds_run": 1,
+  "finalize_rounds_run": 1,
+  "total_items": 38,
+  "items": [
+    {
+      "id": "curation-001",
+      "source": "How I Hunt For Viral Ideas (A 5 Minute Reading Habit) - thedankoe.com/letters/how-i-read-books-for-maximum-intelligence-5-minute-habit/",
+      "type": "article",
+      "curation_aspect": "阅读方法论",
+      "key_insight": "Dan Koe 的阅读方法论核心是『狩猎式阅读』：不为记全书而读，而是为了找到改变人生的一个想法。读到一个新想法就停下来，深入思考它如何适用于自己的生活、如何用于目标、如何转译为自己的语言。他提倡『读完一本书的5%也比100%的泛读更好』，强调质量远胜数量。",
+      "original_quote": "You don't read a book to remember every single word. You read a book to find a life-changing idea and implement it into your life.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-002",
+      "source": "How I Hunt For Viral Ideas (A 5 Minute Reading Habit) - thedankoe.com/letters/how-i-read-books-for-maximum-intelligence-5-minute-habit/",
+      "type": "article",
+      "curation_aspect": "创意与输入",
+      "key_insight": "Dan Koe 将阅读与创造性输出紧密绑定：他提出『创意是玩心智乐高(Creativity Is Playing With Mental Legos)』——从阅读中捕获的想法是原材料，通过写作/输出将这些零散的想法重新组合成原创框架。他的核心内容策略是：写newsletter→拆成推文→再把推文组合回newsletter。",
+      "original_quote": "Deconstruct the idea you gathered on your hunt, reconnect the dots through original writing, deconstruct your own writing into a plethora of ideas, repeat.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-003",
+      "source": "How I Remember Everything I Learn - thedankoe.com/letters/how-i-remember-everything-i-learn/",
+      "type": "article",
+      "curation_aspect": "沉浸学习",
+      "key_insight": "Dan Koe 的深层记忆三要素：1) 有强烈的意图(intention)——选书要匹配当前人生阶段的具体问题；2) 真实的好奇心(genuine curiosity)——源自信任的推荐者驱动的探索欲；3) 缩短执行差距(execution gap)——读到可实践的理念立即放下书去执行，用直接经验固化理论知识。",
+      "original_quote": "If you want to learn faster, don't start learning. Start building it out, learn along the way.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-004",
+      "source": "How I Remember Everything I Learn - thedankoe.com/letters/how-i-remember-everything-i-learn/",
+      "type": "article",
+      "curation_aspect": "创意与输入",
+      "key_insight": "Dan Koe 提出『信息丰富的现代问题是信息过剩』——人们喜欢囤积理论但缺乏直接体验。他的解决方案是成为『建造者(builder)』：始终有一个项目在构建中，学以致用。建造项目产生具体问题，问题引导你寻找特定知识，特定知识形成心智锁定。强迫同步(Forced Synchronicity)是关键——当你有一个目标/项目时，你的意识会自然过滤信号和噪声。",
+      "original_quote": "When you start with a project to build, your mind expands to notice things that will aid in that project's survival.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-005",
+      "source": "How I Remember Everything I Learn - thedankoe.com/letters/how-i-remember-everything-i-learn/",
+      "type": "article",
+      "curation_aspect": "信息筛选",
+      "key_insight": "Dan Koe 的信号过滤机制：当你的心智锁定了一个未来目标，你的注意力场(field of awareness)会自然扩张，开始自动过滤信号与噪声(signal from noise)。他比喻为『当你发现了一辆新车，你开始到处看到它』。同样，当你热爱自我提升时，每天都会看到平时滑过的机会。",
+      "original_quote": "When your mind is set on a goal for the future, your field of awareness expands. You begin to filter signal from noise, whether it feels like you are or not.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-006",
+      "source": "How I Remember Everything I Learn - thedankoe.com/letters/how-i-remember-everything-i-learn/",
+      "type": "article",
+      "curation_aspect": "沉浸学习",
+      "key_insight": "Dan Koe 的深度学习六步法：1) 设定目标(Set a goal)——注入意图，所有摄入的内容开始为愿景服务；2) 安排创造力时间块(Schedule a Creativity Block)——每日30分钟散步听书/播客，激活默认模式网络；3) 创建笔记系统(Create A Note Taking System)；4) 构建生活的每个方面(Build Every Aspect)——把自己当作终极项目；5) 教学相长(Teach What You Know)——费曼技巧变体；6) 转化为你毕生的事业(Turn It Into Your Life's Work)。",
+      "original_quote": "Building helps you retain more knowledge. But teaching helps you retain even more.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-007",
+      "source": "Become A Free Thinker If You Want Creative Business Success - thedankoe.com/letters/become-a-free-thinker-if-you-want-creative-business-success/",
+      "type": "article",
+      "curation_aspect": "品味养成",
+      "key_insight": "Dan Koe 对品味的深层定义：品味不是审美偏好，而是对『思维矩阵(Matrix)』的觉察与突破能力。他将品味与批判性思维挂钩：真正的品味源自对自身认知局限的觉察，敢于探索未知(the unknown)，拒绝接受默认赋予的思维框架。品味就是选择『红色药丸』的能力——看清你以为真实的信念只是一层心智构建。",
+      "original_quote": "When most people talk about 'the matrix' they think about the classic movie. I'm not talking about this matrix, but your choice to take the 'red' pill to create a glitch in this matrix is more than possible.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-008",
+      "source": "Become A Free Thinker If You Want Creative Business Success - thedankoe.com/letters/become-a-free-thinker-if-you-want-creative-business-success/",
+      "type": "article",
+      "curation_aspect": "信息筛选",
+      "key_insight": "Dan Koe 区分浅层思考(Shallow Thinking)和深层思考(Deep Thinking)。浅层思考＝接受所见即真实，从不深究感知背后的局限性。深层思考＝意识到心智的极限，将一切感知保持在可能性领域(until filtered with direct experience)，质疑一切包括自己认为绝对正确的想法。这直接决定了一个人能接收和处理的信息层级。",
+      "original_quote": "Shallow thinking is taking what you see as real, or never seeing beyond the surface of your perceptions.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-009",
+      "source": "Become A Free Thinker If You Want Creative Business Success - thedankoe.com/letters/become-a-free-thinker-if-you-want-creative-business-success/",
+      "type": "article",
+      "curation_aspect": "噪声过滤",
+      "key_insight": "Dan Koe 定义噪声的根源：噪声不是外部信息过多，而是内容与你当前身份/perpective不匹配。人的意识水平决定能接收的信息层级。他的观点是：知识要与执行层级匹配——如果你迷路了，答案是教育；如果你受够了教育，答案是行动；如果你在行动，答案是一致性。这是一种自适应的信息过滤系统。",
+      "original_quote": "If you are lost, the answer is education. If you are educated, the answer is action. If you are acting, the answer is consistency.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-010",
+      "source": "Become A Free Thinker If You Want Creative Business Success - thedankoe.com/letters/become-a-free-thinker-if-you-want-creative-business-success/",
+      "type": "article",
+      "curation_aspect": "信息筛选",
+      "key_insight": "Dan Koe 的『已知/未知』(The Known vs The Unknown)分析框架：The Known是你心智安居的预期之网；The Unknown是现实的织体、无限潜力的土地。品味和策展能力就是在已知的边缘(edge of the known)探索的能力。他提出『状态(state)与阶段(stage)』理论——状态可短暂达到，阶段是持久提升后的新基准。知识输入应该匹配自己的阶段，避免好高骛远。",
+      "original_quote": "Living at the edge of the known also applies to how you learn and execute. There are levels, baselines that you need to reach for your awareness to expand to the point of understanding.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-011",
+      "source": "Distraction Is The Greatest Trap Of The 21st Century - thedankoe.com/letters/distraction-is-the-greatest-trap-of-the-21st-century/",
+      "type": "article",
+      "curation_aspect": "噪声过滤",
+      "key_insight": "Dan Koe 定义『数字黑暗时代(Digital Dark Ages)』：一个充满分心、封闭思维和廉价多巴胺的时代。噪声的核心来源是封闭思维(closed-mindedness)——无法看到超过自己狭隘视角的一切。具体表现：假设与期望(assumption and expectation)形成心智牢笼、自私视角(selfish perspective)只看自己想看的东西、字面理解(literal interpretation)丢失隐喻的深度。",
+      "original_quote": "Your reality is determined by your conditioning. That is, your identity that houses your perspective. ... These are limits on what you think is possible.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-012",
+      "source": "Distraction Is The Greatest Trap Of The 21st Century - thedankoe.com/letters/distraction-is-the-greatest-trap-of-the-21st-century/",
+      "type": "article",
+      "curation_aspect": "噪声过滤",
+      "key_insight": "Dan Koe 的开放心态(open-mindedness)递进实践：1) 批判性思维入门——将所有想法保持在可能性领域，直到通过直接经验过滤；2) 追求更全面的身份——身份决定视角、视角决定信念、信念决定思想；3) 信任隐喻的力量——文字是指向月亮的手指，不是月亮本身；4) 避免错过重点——不要极端聚焦于整体故事的一个片段。",
+      "original_quote": "Hold all thoughts, ideas, and opinions in the realm of possibility until filtered through direct experience.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-013",
+      "source": "Focus Is A Superpower: How To Succeed In The Information Age - thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/",
+      "type": "article",
+      "curation_aspect": "信息筛选",
+      "key_insight": "Dan Koe 的『编程或被编程(Program Or Be Programmed)』理论：信息时代中你只有两个选择——有意识地编程你的心智走向成功，或者被默认环境编程为平庸。他提出要精心策展(curate)你的数字环境：取关不服务于你未来的账号、购买提升你潜力觉察的书籍、订阅教授学校不教内容的博客和newsletter。在你周围的每个角落，策展一个让成功不可避免的数字环境。",
+      "original_quote": "Everywhere you turn, curate a digital environment that makes success inevitable.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-014",
+      "source": "Focus Is A Superpower: How To Succeed In The Information Age - thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/",
+      "type": "article",
+      "curation_aspect": "信息筛选",
+      "key_insight": "Dan Koe 著名的『99%信息是干扰』论断：在你当前的层级，99%的你接触到的信息都是干扰。必须将心智窄化到少数几个真正能带你进入更好生活的事情上。他提出用『框架(frame)』进行信息过滤——设定自己的愿景/元目标，它会天然屏蔽不相关的信息。每个人的框架是独特的，决定了什么算信号、什么算噪声。",
+      "original_quote": "At your current level in life, 99% of the information you are exposed to is a distraction.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-015",
+      "source": "Focus Is A Superpower: How To Succeed In The Information Age - thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/",
+      "type": "article",
+      "curation_aspect": "噪声过滤",
+      "key_insight": "Dan Koe 的『廉价多巴胺 vs 昂贵多巴胺』框架：分心导致廉价多巴胺(cheap dopamine)，价值创造导致昂贵多巴胺(expensive dopamine)。目标是增加生命中昂贵多巴胺与廉价多巴胺的比例。这与信息策展直接相关——选择哪些信息源决定了你的多巴胺类型。他的『信号噪声比(signal to noise)』提升方法：创建自生成目标的层级体系，没有有意识的目标就无法放置注意力。",
+      "original_quote": "We want to increase the signal to noise, significance to insignificance, and meaningful to meaningless ratios.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-016",
+      "source": "How To Think Originally - thedankoe.com/letters/how-to-think-originally/",
+      "type": "article",
+      "curation_aspect": "品味养成",
+      "key_insight": "Dan Koe 的原创思维方法论直接关联品味策展：1) 同中求异(Say The Same Thing, But From Your Perspective)——原创不是说出全新的话，而是以全新角度探索已有思想；2) 读少数人读过的书(Read What Few People Have Before)——最好的想法在鲜为人知的书籍、播客和帖子中积灰；3) 跨学科连接(Connect Ideas From Different Disciplines)——不要只研究你已经擅长的领域，将不同领域的点连接起来；4) 拥抱框架(Stop Being Afraid Of Frameworks)——创造力在约束中蓬勃发展；5) 实验为师(Experimentation Is Your Teacher)。",
+      "original_quote": "The best ideas I've found are the ones collecting dust in little-known books, podcasts, videos, and posts. Most people aren't original, they are just talking about ideas you haven't seen before.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-017",
+      "source": "How To Think Originally - thedankoe.com/letters/how-to-think-originally/",
+      "type": "article",
+      "curation_aspect": "阅读方法论",
+      "key_insight": "Dan Koe 提倡『深挖兔子洞(Go down more rabbit holes)』的阅读方式。他建议：停止阅读主流书籍，停止看主流内容，不要只通过算法获取信息。他承认大部分探索努力会被浪费——你不可能一次搜索就找到完美的书、视频或帖子。但正是这种浪费性的广泛探索，才让你走到很少有人到达的地方。",
+      "original_quote": "Stop reading mainstream books. Stop watching mainstream content. Stop only getting your information from the algorithm.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-018",
+      "source": "How To Think Originally - thedankoe.com/letters/how-to-think-originally/",
+      "type": "article",
+      "curation_aspect": "品味养成",
+      "key_insight": "Dan Koe 的『怀疑论者(skeptic)』品味的核心：成为一个真正的怀疑论者——不仅怀疑他人的信念，也要怀疑自己的怀疑。他引用古代怀疑论者Sextus Empiricus的话『每个论点都有一个同样有力的相反论点』。真正品味高的人能够暂时搁置判断(suspend judgment)，不被任何信念绑定，愿意在遇到更好的信息时毫不抗拒地转向。",
+      "original_quote": "A true skeptic who is skeptical of their own skepticism. Someone who is skeptical about one belief but not their own is not a skeptic.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-019",
+      "source": "How To Create Your Niche Of One (Become Nicheless) - thedankoe.com/letters/how-to-create-your-niche-of-one-become-nicheless/",
+      "type": "article",
+      "curation_aspect": "输入系统",
+      "key_insight": "Dan Koe 的『你即是利基』(The Most Profitable Niche Is You)概念：个人的世界观/视角就是一个利基。他对利基的定义是『世界观或视角(A Niche Is A Worldview or Perspective)』。他建议不要把自己锁死在超具体的技能或兴趣上，而是把整个人的成长经历、多领域兴趣、跨学科知识整合成一个独特的视角系统。策展输入的过程，本质上就是在构建你的世界观利基。",
+      "original_quote": "A customer avatar is the mind, worldview, or perspective of someone you are creating for or marketing toward.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-020",
+      "source": "How To Create Your Niche Of One (Become Nicheless) - thedankoe.com/letters/how-to-create-your-niche-of-one-become-nicheless/",
+      "type": "article",
+      "curation_aspect": "输入系统",
+      "key_insight": "Dan Koe 的『人生之书』(The Book Of Your Life)框架作为输入系统的组织原则：你在互联网上记录自己的人生就是在创建你的独有利基。过去、现在和未来的心智模式与技能集应该以有说服力的方式呈现，以吸引那些个性相似但领先几步的人。他建议用一本书的结构来组织你的知识体系：你的人生目标、你遇到的障碍、你的解决方案、你的蜕变故事。这个结构就是策展输入的天然框架。",
+      "original_quote": "When you document your life on the internet, you create your niche of one.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-021",
+      "source": "How To Create Your Niche Of One (Become Nicheless) - thedankoe.com/letters/how-to-create-your-niche-of-one-become-nicheless/",
+      "type": "article",
+      "curation_aspect": "信息筛选",
+      "key_insight": "Dan Koe 的客户意识5级(Awareness Levels)筛选框架：1) 完全不知道问题及其如何损害生活质量；2) 意识到问题但不知如何解决；3) 意识到问题也知道有解决方案/知识；4) 意识到问题知道有可用的系统化路径；5) 准备改变，只需正确的'为什么'瞬间改变行为。这个框架既是内容创作的指南，也是信息策展的筛选标准——你只策展那些能帮助提升受众意识层次的信息。",
+      "original_quote": "Your entire job as an education brand is to raise the consciousness of your audience.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-022",
+      "source": "Ideas Are The New Oil - thedankoe.com/letters/ideas-are-the-new-oil-how-more-people-get-rich-in-the-digital-era/",
+      "type": "article",
+      "curation_aspect": "输入系统",
+      "key_insight": "Dan Koe 的『数字地产组合』(Digital Real Estate Portfolio)输入输出系统：1) 社交媒体的日常内容是吸引层；2) Newsletter是去平台化(deplatform)的深度层；3) 免费产品建立权威；4) 一系列数字产品实现变现；5) 多平台分发扩大覆盖。这个系统天然要求『策展输入→合成输出』的持续循环——你无法输出你没有过滤和吸收过的内容。",
+      "original_quote": "The new rich aren't extracting finite physical resources. They're synthesizing the infinite resource called ideas.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-023",
+      "source": "Ideas Are The New Oil - thedankoe.com/letters/ideas-are-the-new-oil-how-more-people-get-rich-in-the-digital-era/",
+      "type": "article",
+      "curation_aspect": "创意与输入",
+      "key_insight": "Dan Koe 论证『执行比以往更易获取，因此想法质量成为关键』：在AI时代，执行不再是壁垒，想法的质量、想法的分发、想法的迭代才是决定富足人生的三要素。这意味着输入策展变成了核心竞争力——如果你只摄取平庸的想法，你无法产生优秀的想法输出。他把想法工人(idea workers)定义为数字时代的赢家。",
+      "original_quote": "We no longer live in a world where execution matters more than ideas. We live in a world where quality of ideas, distribution of ideas, and iteration of ideas lead to a rich life.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-024",
+      "source": "How Smart Creators Make Money (The Build-Teach-Earn Method) - thedankoe.com/letters/how-smart-creators-make-money-the-build-teach-earn-method/",
+      "type": "article",
+      "curation_aspect": "创意与输入",
+      "key_insight": "Dan Koe 的主题(Content)定义：『内容是结构化信息(Content is structured information)』。信息是我们学习、成长、适应的方式。信息占据你的心智、塑造你的心智、从你的心智中输出。前端是内容，后端是代码(code)——即你内在的心智代码。这解释了为什么策展输入质量等于编程你的心智代码质量——你输出的内容质量不会超过你摄入和消化的内容质量。",
+      "original_quote": "Content is structured information. Information is how we learn, grow, and adapt as a species.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-025",
+      "source": "How To Be More Disagreeable (Create A Reality Distortion Field) - thedankoe.com/letters/how-to-be-more-disagreeable-create-a-reality-distortion-field/",
+      "type": "article",
+      "curation_aspect": "信息筛选",
+      "key_insight": "Dan Koe 的『被讨厌的勇气』与信息筛选的关系：成为一个有主见(disagreeable)的人需要obsess over what you want——执着于你真正想要的东西。当你对目标obsess时，所有不服务于这个目标的信息都自动变成了干扰。他引用Steve Jobs的『现实扭曲力场(Reality Distortion Field)』概念——围绕自己的愿景构建一个无形结界，让你能够不被外界噪声裹挟。这与策展输入直接相关：你策展的不是所有好内容，而是对你的愿景有贡献的内容。",
+      "original_quote": "You can't be distracted from a non-existent goal. You can't learn a thing if you don't have an aim for your learning.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-026",
+      "source": "How To Be More Disagreeable (Create A Reality Distortion Field) - thedankoe.com/letters/how-to-be-more-disagreeable-create-a-reality-distortion-field/",
+      "type": "article",
+      "curation_aspect": "噪声过滤",
+      "key_insight": "Dan Koe 的『不同意→聚焦』辩证法：有主见(disagreeable)是知道你真正想要什么的副产品。当你知道自己要什么并且不妥协时，你自然对大部分信息说『不』。高自主性(high-agency)的人必须是有主见的——因为如果想朝着自己的目标行动，必须先不认同社会想让你走的默认路径，然后对所有想把你拉离方向的分心说『不』。高度控制输入就是高度自主性的体现。",
+      "original_quote": "High-agency people are disagreeable. They have to be. Because if they want to act toward their own goals, they must first disagree with the default path.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-027",
+      "source": "A Complete Knowledge Base Of HUMAN 3.0 - thedankoe.com/letters/a-complete-knowledge-base-of-human-3-0/",
+      "type": "article",
+      "curation_aspect": "输入系统",
+      "key_insight": "Dan Koe 展示了自己的知识策展实践：他撰写了超长的『HUMAN 3.0』知识库文章，里面综合了他自己多年的原则、心流心理学(Mihaly Csikszentmihalyi)、神经科学 Steven Kotler、荣格、马斯洛以及多种发展心理学模型。这不是简单的收集，而是将多个知识体系『合成(Synthesize)』成一个连贯的个人框架。他用AI帮助自己串联已有知识中的联系——他认为AI的最大妙用是帮你在已有知识中发现被忽视的连接。",
+      "original_quote": "I realized the vastly underutilized use case of AI, making connections in knowledge you already have.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-028",
+      "source": "A Complete Knowledge Base Of HUMAN 3.0 - thedankoe.com/letters/a-complete-knowledge-base-of-human-3-0/",
+      "type": "article",
+      "curation_aspect": "输入系统",
+      "key_insight": "Dan Koe 的HUMAN 3.0框架四大人生维度(也是他策展输入的组织结构)：内部个体(Interior Individual——思维、情绪、信念、觉察)、外部个体(Exterior Individual——健康、能量、运动、临在)、内部集体(Interior Collective——关系、目的、社区、超越)、外部集体(Exterior Collective——事业、金钱、系统、遗产)。这四象限既是人生发展的罗盘，也是他选择输入信息、过滤噪点的分类框架。",
+      "original_quote": "Life dimensions/perspectives must all be developed: Interior Individual, Exterior Individual, Interior Collective, Exterior Collective.",
+      "relevance": "medium"
+    },
+    {
+      "id": "curation-029",
+      "source": "Focus Is A Superpower - thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/",
+      "type": "article",
+      "curation_aspect": "阅读方法论",
+      "key_insight": "Dan Koe 的「信息橡树」隐喻：将人类知识体系比作一棵巨大的橡树——粗壮的核心主干分支出3-6个主要领域，每个分支再不断细分，每个叶子都是一个微观生态系统。大多数人被条件限制在一条分支上。聚焦(focus)就是主动选择探索哪些分支的能力。信息策展的基础就是了解橡树的结构并有意选择你将要深入的分支。",
+      "original_quote": "There are infinite branches and leaves to explore, but most are conditioned into the one they learned during childhood.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-030",
+      "source": "Focus Is A Superpower - thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/",
+      "type": "article",
+      "curation_aspect": "信息筛选",
+      "key_insight": "Dan Koe 的三步聚焦过滤法：1) 缩放到宏观(Zoom Out To Gain Perspective)——写下你对理想未来的详细描述，这成为你审视日常情境的『透镜(lens)』；2) 解构弥合清晰度差距(Deconstruct To Bridge The Clarity Gap)——将每个生活领域分解为可管理的子目标；3) 缩放到微观以有目的地行动(Zoom In To Act With Purpose)——把你的'框架(frame)'放在脑海深处，作为信息过滤器。",
+      "original_quote": "Think of your frame as a field that filters distractions. Most people's field is projected on them and that's why they don't do anything great with their lives.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-031",
+      "source": "How Smart Creators Will Make Money In 2026 - thedankoe.com/letters/how-smart-creators-will-make-money-in-2026-youre-early/",
+      "type": "article",
+      "curation_aspect": "创意与输入",
+      "key_insight": "Dan Koe 论证为什么AI时代个人信息策展更重要：信息永远不会免费——有价值的信息需要劳动成本。AI永远不会给你开箱即用的最好答案——它的效果取决于你的能力。课程是静态的，而真实的个人化策展知识是不可替代的。创作者提供的是个人化信息(personal information)，这是AI无法复制的——因为你策展的信息是你独特的人生经历、品味和判断的产物。",
+      "original_quote": "The problem is getting the right information in the right place.",
+      "relevance": "medium"
+    },
+    {
+      "id": "curation-032",
+      "source": "Become A Free Thinker - thedankoe.com/letters/become-a-free-thinker-if-you-want-creative-business-success/",
+      "type": "article",
+      "curation_aspect": "品味养成",
+      "key_insight": "Dan Koe 的费曼技巧(Feynman Technique)变体作为品味和策展的实践方法：1) 选择并研究一个概念——选择你可以终身投入的兴趣；2) 教给一个孩子——用隐喻让四岁孩子也能理解；3) 深入学习和填补知识空白——努力研究该主题的所有视角，寻求证明自己是错的；4) 建造者心态——持续有一个副项目在构建。这个过程就是在持续丰富和迭代你的策展品味。",
+      "original_quote": "If you are a carnivore, study veganism with an open mind… or live in the matrix you've put yourself in and get uncontrollably angry and reactive toward them.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-033",
+      "source": "How I Hunt For Viral Ideas - thedankoe.com/letters/how-i-read-books-for-maximum-intelligence-5-minute-habit/",
+      "type": "article",
+      "curation_aspect": "输入系统",
+      "key_insight": "Dan Koe 的『Commonplace』笔记法与策展输入的结合：创建一个commonplace（一个随手可及的笔记本或APP）来捕获最突出的想法。一旦捕获：1) 停下来停止阅读；2) 思考这个想法对你生活的多方面应用；3) 应用到你的目标上；4) 尝试转译成你自己的语言。他还提出了『思想发展系统』(Idea Development System)——如果没有，就从简单的7天创意挑战开始。他的内容策略是newsletter↔Twitter帖子↔threads之间的循环再利用。",
+      "original_quote": "If an idea doesn't grip you, choose a different book or skip to a different chapter. Most people don't need more advice. They need more powerful ideas to shape their worldview.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-034",
+      "source": "How I Read Books For Maximum Intelligence - thedankoe.com/letters/how-i-read-books-for-maximum-intelligence-5-minute-habit/",
+      "type": "article",
+      "curation_aspect": "阅读方法论",
+      "key_insight": "Dan Koe 的阅读习惯核心：每天不到5分钟。他的策略不是强迫读完整本书，而是每天只摄取一个能改变人生的想法。通过『狩猎』(hunt)的方式——不是在你已知中狩猎，而是探索未知。读那些挑战你的书、激发好奇心的书、一直拖延着没读的书。这本书放在你理解的边缘(edge of your understanding)，你的神经系统会告诉你这是有意义的。",
+      "original_quote": "You do not hunt in the known. You explore the unknown to make novel discoveries. Read the books that challenge you. Read the books that pique your curiosity.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-035",
+      "source": "How I Remember Everything I Learn - thedankoe.com/letters/how-i-remember-everything-i-learn/",
+      "type": "article",
+      "curation_aspect": "沉浸学习",
+      "key_insight": "Dan Koe 区分『廉价多巴胺』和『好多巴胺』：廉价多巴胺来自不经过挣扎就获得新体验（如刷短视频）。好多巴胺来自通过挣扎创造新体验（如设定自己的目标、自我教育如何达成、在恐惧的边缘行动）。策展输入就是要选择能产生好多巴胺的内容，避开廉价多巴胺的陷阱。这与他的核心学习哲学一致——『输入是输出的前置条件，但输入必须伴随挣扎性的执行实践』。",
+      "original_quote": "Cheap dopamine comes from receiving novelty without struggle. Good dopamine comes from creating novelty through struggle.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-036",
+      "source": "How I Read Books For Maximum Intelligence - thedankoe.com/letters/how-i-read-books-for-maximum-intelligence-5-minute-habit/",
+      "type": "article",
+      "curation_aspect": "创意与输入",
+      "key_insight": "Dan Koe 的『千人之网』理论说明为什么策展输入有意义：每个人一生中会认识约1000人。这1000人每人认识另外1000人。所以只要通过两个人，你的想法就可以触达10亿人。这个传播公式(1000×1000=1,000,000→1,000,000,000)说明了你策展、整合和分享的每个想法都有指数级的传播潜力。",
+      "original_quote": "You will know 1000 people in your life. They will know 1000 in their lives. 1 billion people are 2 people that spread your ideas away from you.",
+      "relevance": "medium"
+    },
+    {
+      "id": "curation-037",
+      "source": "Distraction Is The Greatest Trap - thedankoe.com/letters/distraction-is-the-greatest-trap-of-the-21st-century/",
+      "type": "article",
+      "curation_aspect": "噪声过滤",
+      "key_insight": "Dan Koe 的封闭思维四标志(作为噪点识别的反向指南)：1) 假设和期望(Assumption and Expectation)——默认相信已知的路径，不质疑；2) 自私视角(Selfish Perspective)——只能看到自己视角内的世界；3) 字面理解(Literal Interpretation)——丢失隐喻的深度和本质；4) 错过重点(Missing The Point)——过度关注整体故事的某一碎片。识别这些自我思维中的噪点是提升策作品味的第一步。",
+      "original_quote": "Don't miss the point of life, or any of its multi-dimensional aspects, by lasering in on one part of the story.",
+      "relevance": "high"
+    },
+    {
+      "id": "curation-038",
+      "source": "How To Be More Disagreeable - thedankoe.com/letters/how-to-be-more-disagreeable-create-a-reality-distortion-field/",
+      "type": "article",
+      "curation_aspect": "品味养成",
+      "key_insight": "Dan Koe 的『说服性沟通vs操纵』(Persuasion vs Manipulation)区分：说服是激励人们为双方利益行动；操纵是误导人们只为了让操纵者获利。他提出要掌握『说服性沟通』——足够的研究支撑你的论点，以及一个能说明蜕变的引人故事。这实际上是策展输出环节的高级技能：你把策展输入的内容转化为具有说服力的沟通，让高质量的输入以高影响力的方式输出。",
+      "original_quote": "Persuasion: inspiring people to act on something beneficial for both parties. Manipulation: misleading people to act on something beneficial only for the manipulator.",
+      "relevance": "medium"
+    }
+  ],
+  "search_log": [
+    {
+      "round": 1,
+      "new_items": 38,
+      "cumulative": 38,
+      "decay_rate": "N/A",
+      "decision": "end - target range reached (38, within 25-40)",
+      "note": "在 Dan Koe 官方网站成功获取10篇核心文章，提取38个独特方法论引用"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "status": "success",
+  "search_rounds_run": 2,
+  "finalize_rounds_run": 1,
+  "total_items": 50,
+  "items": [
+    {
+      "id": "articles-001",
+      "source": "The Deep Work Routine That Changed My Life - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "深度工作/生产力",
+      "key_insight": "将注意力视为RAM，提出熵增生产力框架：低熵时段安排深度工作 → 2-3个最重要任务分时块 → 深度工作完成后才做浅层工作。每任务设挑战性截止时间，利用蔡加尼克效应保持心流。",
+      "original_quote": "Your attention is the RAM. Your mind is a supercomputer. Your focus determines performance.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-002",
+      "source": "The Deep Work Routine That Changed My Life - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "创作哲学/注意力经济",
+      "key_insight": "创作人员的真正工作发生在实际工作之前——通过散步、阅读、交谈来填充心智的'精神代谢'。创作者中，'工作最少'的人最终会胜出，因为故事、思想综合和经验是AI无法取代的唯一护城河。",
+      "original_quote": "Understand that as a creative, the people who 'work' the least will end up on top, because your story, synthesis of ideas, and experience are the only moat when AI can do almost anything.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-003",
+      "source": "The Future-Proof Manifesto - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "未来工作/个人品牌",
+      "key_insight": "未来安全感的唯一保障是不可忽视的作品集合( body of work )，而非技能或证书。创作者不是'个人品牌'而是'存在本质'——人类作为工具建造者和深度通才，通过创造力解决问题本身就是生命意义。",
+      "original_quote": "The only real safety net in today's world is a body of work that can't be ignored.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-004",
+      "source": "The Future-Proof Manifesto - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "商业模型/创作者经济",
+      "key_insight": "每家企业都是媒体企业。创建受众的方法：描绘你最能帮助的人的转变故事线(point A→point B)，你的产品是帮助从A到B的精简系统，内容则是让A点人群产生共鸣的教训、见解和观察。",
+      "original_quote": "To start, create a storyline of the person you can help most. Where they are now, where they want to be, and what the journey looks like to go from point A to point B.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-005",
+      "source": "The Future-Proof Manifesto - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "学习哲学/通才教育",
+      "key_insight": "你并非热爱某项特定技能（写作、设计等），你热爱的是创造本身——将泥土变成黄金的行为。传统教育和超专业化是让人臣服于主流范式的工具，应成为深度通才，研究自然的一般原理。",
+      "original_quote": "You are passionate about creation. The act of turning dirt into gold with the creative ability of your mind.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-006",
+      "source": "How To Build A Better Personal Brand Than 99% Of People - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "个人品牌/内容创作",
+      "key_insight": "信任矩阵(Trust Matrix)三要素：可信度(Competence → 高绩效内容结构训练)、真实性(Authenticity → 讲述个人故事和核心信念)、权威性(Authority → 通过新视角教学和说服非目标人群)。",
+      "original_quote": "People don't follow ideas, they follow people who share ideas.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-007",
+      "source": "How To Build A Better Personal Brand Than 99% Of People - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "内容创作/写作方法论",
+      "key_insight": "学习高效内容创作的核心方法：找出5-10位欣赏的创作者→研究其表现出众的帖子（2倍以上互动率）→逐条分析3-5个为什么成功（心理策略、句子结构、用词）→用AI辅助分析并转化为自己的风格。",
+      "original_quote": "In a nutshell, you are dissecting why proven ideas have done well. When you practice writing in a way that stops the scroll and nearly demands readers to absorb the idea, growth is a byproduct.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-008",
+      "source": "How To Build A Better Personal Brand Than 99% Of People - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "商业模型/数字产品",
+      "key_insight": "第一个产品不应超过一周构建时间。将已有资产（如简历、受欢迎的帖子）转化为模板或简短指南。从$10开始定价，转化率超过2.5%再扩展为完整产品。",
+      "original_quote": "Your first product should take no longer than a week to build. Because you probably already have a product lying around.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-009",
+      "source": "Self-Discipline Is Easy, Actually - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "习惯/自律框架",
+      "key_insight": "自律不是靠强迫，而是身份认同的副产品。你已经对当前目标（即使是无意识的舒适目标）拥有自律。改变的关键：识别痛苦问题 → 搜索理想未来版本的证据 → 改变物理和数字环境 → 以终身实践的心态安排时间。",
+      "original_quote": "Discipline isn't built, it's discovered.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-010",
+      "source": "Self-Discipline Is Easy, Actually - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "身份工程/心理学",
+      "key_insight": "身份工程四步骤：1) 识别当前身份（你正在追求什么无意识目标）→ 2) 策略性失调(Strategic Dissonance)——扩大现状与理想之间的差距，培养不满 → 3) 环境工程——取消关注、扔掉坏食物、精确规划每周 → 4) 自我实验——尝试所有可能直到找到无法自拔的那件事。",
+      "original_quote": "Who you are determines what you consider important.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-011",
+      "source": "You Have About 36 Months To Make It - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "未来工作/AI时代",
+      "key_insight": "个人权力的三层转移：1) 互联网→知识的获取，2) 社交媒体→受众的杠杆，3) AI→创造、自动化和外包几乎一切的能力。关键三种超能力：学习(Learning)、说服(Persuasion)、执行(Execution)。",
+      "original_quote": "Learning – the ability to adapt. Persuasion – the ability to build trust. Execution – the ability to turn ideas into reality.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-012",
+      "source": "You Have About 36 Months To Make It - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "创作哲学/AI与艺术",
+      "key_insight": "品味(Taste)是新的智力。衡量艺术家不靠工具而靠视野、故事、情感和灵魂。区分艺术与垃圾的是品味——对AI输入微调的控制力是关键。硅解决实用性问题，碳才能超越到意义层面。",
+      "original_quote": "The single distinction that will separate art from slop is taste.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-013",
+      "source": "You Have About 36 Months To Make It - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "内容创作/未来职业",
+      "key_insight": "成为哲学建造者(Philosopher-Builder)——将精神与实践两极融合。成为思想过滤器——筛选哪些想法值得执行。成为AI编排师——将AI视为高度专业化的员工而非替代品。",
+      "original_quote": "The peak of human ability lies in being a specialized generalist.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-014",
+      "source": "The Most Profitable Niche In The Creator Economy Right Now - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "个人品牌/利基策略",
+      "key_insight": "区分基于主题(Topic-Based)和基于使命(Mission-Based)的利基策略。基于主题让你被框死；基于使命让业务成为人生工作的载体。以'帮助尽可能多的人实现目标'为使命，可以谈论任何推动使命的话题。",
+      "original_quote": "Business becomes a vessel for your life's work.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-015",
+      "source": "The Most Profitable Niche In The Creator Economy Right Now - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "个人品牌/内容策略",
+      "key_insight": "构建一个让人们探索的世界(World-building)，而非一句品牌陈述。像一个迷你漫威宇宙：电影(长内容)、衍生剧(短内容)、动作人偶(产品)。人们会浏览你的一切，这就是你真正开始赚钱的时候。",
+      "original_quote": "Your niche is illustrated by your body of work and those who are attracted to it.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-016",
+      "source": "The Most Profitable Niche In The Creator Economy Right Now - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "内容创作/说服心理学",
+      "key_insight": "大多数初学者的内容失败是因为：1) 不够深入触及痛点，2) 没有让人关心。人们刷社交媒体不是为了学技能，如果人想学生技能会去搜索。你必须先说服人为什么他们应该关心这个话题。",
+      "original_quote": "Before you hit send on any piece of content, ask yourself: What's one big pain point this solves? How can this massively benefit the average person?",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-017",
+      "source": "How Average People Will Get Rich With AI - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "商业模型/AI商业",
+      "key_insight": "四个AI-first商业技能：内容(Content)、品牌(Brand)、产品(Product)、推广(Promotion)。个人品牌不是商业模式而是信任机制。初学者应从数字产品开始，用社交内容测试想法→快速转化为产品→通过反馈改进→扩展不同报价。",
+      "original_quote": "A personal brand is not a business model, it's a trust mechanism.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-018",
+      "source": "How Average People Will Get Rich With AI - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "AI使用/提示工程",
+      "key_insight": "AI提示工程方法：找到你信任的专家内容（如YouTube视频）→将其建议喂给AI提炼为详细行动计划→转化为两阶段的提示（Phase 1收集上下文→Phase 2执行任务）。提示质量决定了AI产出质量。",
+      "original_quote": "The quality of your work is the quality of your prompt.",
+      "relevance": "medium"
+    },
+    {
+      "id": "articles-019",
+      "source": "7 Bad Habits Preventing You From The Life You Want - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "心理习惯/自我提升",
+      "key_insight": "七个心理习惯：1) 不够自私——氧气面罩原则，先确保自己的福祉；2) 问'如何开始'——行动胜过教程，假设没人会告诉你答案；3) 从不发布——公开工作是反馈和责任感的来源；4) 制造人为复杂性——基础原则的一贯执行胜过花哨策略。",
+      "original_quote": "You need consistent execution of the basic principles. Start. Make a mistake. Learn from the mistake. That's the blueprint: no blueprint at all.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-020",
+      "source": "7 Bad Habits Preventing You From The Life You Want - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "金钱心理学/财务思维",
+      "key_insight": "金钱问题不存在，心理问题才存在。金钱是一种技能——可以从生存(Level 1)到地位(Level 2)到自主(Level 3)到创造(Level 4)再到帮助他人(Level 5)逐步发展。每个低层次变得痛苦时才能进入下一层。",
+      "original_quote": "Money problems don't exist. Psychological problems do.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-021",
+      "source": "7 Bad Habits Preventing You From The Life You Want - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "身份转变/习惯改变",
+      "key_insight": "最关键的转变：一夜之间跳入新身份。撕掉创可贴，让你厌恶地意识到——你现在所处的位置，正是因为你现在的作为。坚持旧身份带来的短期痛苦与持续平庸的长期痛苦相比，是值得付出的代价。",
+      "original_quote": "If you really want to change, you need to rip the band-aid off. You need to jump into a new identity overnight.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-022",
+      "source": "HUMAN 3.0 – A Map To Reach The Top 1% - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "世界观/全人发展模型",
+      "key_insight": "HUMAN 3.0 四象限模型（改编自Ken Wilber的AQAL模型）：Mind(内心精神世界)、Body(外在行为身体)、Spirit(集体内心/文化/意义)、Vocation(集体外部/系统/职业)。通过四个维度的发展达到全面自我实现。",
+      "original_quote": "The foundation of Human 3.0 is four quadrants that represent the four domains of life.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-023",
+      "source": "HUMAN 3.0 – A Map To Reach The Top 1% - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "发展心理学/意识进化",
+      "key_insight": "三个宏观发展层级：1.0 Conformist(顺从者)→价值观来自权威和传统；2.0 Individualist(个体主义者)→拒绝规范追求自身目标；3.0 Synthesist(综合者)→能采纳多视角，连接各种模式并制定新路径。每个层级超越并包含前一层。",
+      "original_quote": "These levels reflect your complexity of self in any given domain. The more complex you are (by cultivating perspective and expanding consciousness), the more interesting life becomes.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-024",
+      "source": "HUMAN 3.0 – A Map To Reach The Top 1% - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "发展心理学/变革机制",
+      "key_insight": "变革三阶段：Dissonance(失调期)→对现状感到厌倦；Exploration(探索期)→进入未知习得新知识和技能；Integration(整合期)→发现帮助达到下一级的教育、工具和资源。Channel(通道)概念：进入该阶段时会沉迷于学习或构建，快速积累经验。",
+      "original_quote": "When you are in the Dissonance phase, the best advice I can give is to search for excitement and enthusiasm and pursue that without shame.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-025",
+      "source": "HUMAN 3.0 – A Map To Reach The Top 1% - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "发展心理学/变革机制",
+      "key_insight": "Glitch(故障加速器)：可迫使进入Channel的工具——如迷幻剂加速神秘体验、激素提升健身效果、搬进承担不起的公寓创造真实截止日期。AI是当前最广泛可用且贯穿所有领域的Glitch，但需要品味和辨别力。",
+      "original_quote": "AI is the most recent and widely available Glitch that crosses into all domains. It can be used to self-develop or self-destruct rapidly.",
+      "relevance": "medium"
+    },
+    {
+      "id": "articles-026",
+      "source": "You Can Learn Anything In 2 Weeks - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "学习方法论/技能获取",
+      "key_insight": "学习和技能化的核心方法：从目标出发→分解为核心技能→分解为基础→花40+小时实验每个技巧→记录哪些有效→反思进步、精炼目标。知识是假设，实践是实验，结果是数据。",
+      "original_quote": "True education is not memorization, it's discovery.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-027",
+      "source": "You Can Learn Anything In 2 Weeks - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "学习方法论/战术压力",
+      "key_insight": "战术性压力(Tactical Stress)——将自己置于高压环境创造强截止日期。把自己放入几乎强迫你学习所需知识的环境中，以最快速度实现飞跃。大多数人在真正触底之前就麻木了，战术压力在你注意到痛苦时立刻部署。",
+      "original_quote": "Put yourself in an environment that nearly forces you to learn what you need to learn, as fast as humanely possible.",
+      "relevance": "medium"
+    },
+    {
+      "id": "articles-028",
+      "source": "These 3 Decisions Will Determine If You Get Rich - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "致富思维/财务框架",
+      "key_insight": "致富三决策：1) 将自己的时间设定为'荒谬的小时费率'（如$5,000/小时）→做出更好的决策和发现高杠杆机会；2) 力量集中——让致富成为压倒性欲望；3) 不给自己留退路——用金钱作为强迫函数来赚更多。",
+      "original_quote": "The only way to get rich is to (1) value your time at a delusional dollar amount, (2) be obsessed with getting rich, and (3) give yourself no other option but to get rich.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-029",
+      "source": "These 3 Decisions Will Determine If You Get Rich - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "大脑可塑性/目标设定",
+      "key_insight": "荒谬的目标重写大脑。当你想像更好的未来时，会激活与实际体验相同的神经网络。多巴胺在目标追求过程中的峰值高于实现目标时。最佳挑战区约85%难度——不太焦虑也不太无聊。",
+      "original_quote": "Delusional goals rewire your brain.",
+      "relevance": "medium"
+    },
+    {
+      "id": "articles-030",
+      "source": "Be A Loser If You Want To Be Happy - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "幸福哲学/成功定义",
+      "key_insight": "幸福的定义为：持续进步(progress being made) + 对大于自身的事物的贡献(contribution to something greater than yourself) + 管理情绪波动的能力。快乐是意识的一个状态，而非永久状态。追求有用比追求快乐更有效。",
+      "original_quote": "Pursuing usefulness will make you a lot happier than pursuing happiness.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-031",
+      "source": "Be A Loser If You Want To Be Happy - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "教育哲学/自我教育",
+      "key_insight": "真正教育的四步法：追求自己生成的(高兴趣高意义)目标→分解为实现目标所需的核心技能→分解为基础→花40+小时实验每个技巧。知识是假设，实践是实验，结果是数据。",
+      "original_quote": "True education is the pursuit of truth. Truth is not found in the words uttered from someone else's mouth.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-032",
+      "source": "Be A Loser If You Want To Be Happy - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "幸福哲学/生命整合",
+      "key_insight": "四个现实维度：内部个人(主观/情绪思想)、外部个人(客观/身体行为)、内部集体(主观/共享文化价值观)、外部集体(客观/社会经济系统)。西部思维追求客观和物质，东部追求内心和灵性，真正的成功是二者整合。",
+      "original_quote": "Life doesn't reduce down to only a Western doing, nor an Eastern being, but an integration of them both as becoming.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-033",
+      "source": "The Death Of Thoughtful Creation - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "创作哲学/AI时代策略",
+      "key_insight": "你无法在速度上竞争过机器。人类的领域：故事、戏剧、新奇、神话和意义。AI和自动化解决必要工作，人类为故事、新奇、神话和意义而生。硅解决实用性问题，碳才能超越到意义。",
+      "original_quote": "Silicon sands the rough edges of necessity so carbon can ascend to meaning.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-034",
+      "source": "The Death Of Thoughtful Creation - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "创作哲学/策展优于创作",
+      "key_insight": "当任何人都能创造任何东西时，辨别力和克制力变得重要。策展(Curation)变得比创作(Creation)更重要。最大的技能不是创造而是策展。品味是新的智力，是需要实践中培养的技能。",
+      "original_quote": "When anyone can create anything, discernment and restraint matter. Curation begins to matter more than creation.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-035",
+      "source": "The Death Of Thoughtful Creation - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "个人品牌/创作者方法论",
+      "key_insight": "三种方法脱颖而出：1) 建立个人品牌并在公开场合发布作品，故事必须放在最前面；2) 为有品位的输出筛选输入，成为噪声世界中的信号灯塔；3) 构建一个有意义的项目并将其转化为产品。如果你不卖产品，就不得不为别人卖劳动。",
+      "original_quote": "If you don't sell a product, you will be forced to sell your labor for someone else.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-036",
+      "source": "20-30 Years Old Is The Tutorial Phase - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "人生策略/20岁转型",
+      "key_insight": "20-30岁是教程阶段而非正赛。不要听从未拥有你想要生活的人的建议。快速体验分心事物以识别它们为错误。尽一切可能永远不要找一份工作——时间自主是核心。设定让你害怕的目标，写下10个让你不舒服的目标，分布在10年。",
+      "original_quote": "The best way to make the most of your 20s is to make them your worst. Use your 20s to become who you were meant to be.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-037",
+      "source": "20-30 Years Old Is The Tutorial Phase - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "商业模型/入门路径",
+      "key_insight": "最小风险创业路径：1) 卖服务（自由职业或代理）→ 2) 在做手动外联的同时建立受众 → 3) 推出信息产品或社区 → 4) 现在你有技能和现金流 → 5) 雇佣团队或开始软件/电商业务。初期业务2-3年后会完全不同。",
+      "original_quote": "It really doesn't matter what kind of business you start because what you do 2-3 years from now will be completely different.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-038",
+      "source": "This Single Decision Will Determine Most Of Your Life - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "决策哲学/生命轨迹",
+      "key_insight": "你生命的轨迹由10-12个大胆决定决定——如同12次铁轨变轨。如果在这些节点不做决定，生活就会停滞。不做决定就是让别人为你做决定。错误决定胜过不做决定——没有错误的人生就是死亡。",
+      "original_quote": "Wrong decisions are better than no decision.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-039",
+      "source": "How To Be More Disagreeable - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "个人影响力/现实扭曲场",
+      "key_insight": "打造现实扭曲场(Reality Distortion Field)四要素：1) 知道生活中想要什么且不妥协→2) 相信自己能做得比大多数人好→3) 制定拉伸可能性的计划→4) 掌握有说服力的沟通。高度自主的人是不好相处(disagreeable)的，因为他们必须如此才能追求自己的目标。",
+      "original_quote": "The most important task in your life is to figure out what you want.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-040",
+      "source": "You Need To Be Extreme - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "极端主义/人生转变方法论",
+      "key_insight": "极端的人生态度改变大脑重塑速度。新颖和挑战比一致性更能刺激神经可塑性。痴迷创造了神经化学鸡尾酒：好奇心→热情→意义→自主→掌控。大脑基于你的痴迷过滤现实——你注意到什么强化了你认为自己是谁。",
+      "original_quote": "Neurons that fire together, wire together.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-041",
+      "source": "You Need To Be Extreme - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "僧侣模式/人生转变规划",
+      "key_insight": "整体僧侣模式(Holistic Monk Mode)两个部分：防御(Defense)——消除一切分散注意力的东西，一次性改变所有坏习惯，把'不'当自动回答；进攻(Offense)——4个习惯：1个项目(能改变职业生涯的项目)+ 1本书(为知识而阅读)+ 1种冥想(感知现实细节)+ 1项训练(身体运动)。消失3-6个月。",
+      "original_quote": "For the sake of being extreme, it's easier to change everything at once than it is to change one thing at a time.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-042",
+      "source": "The Unpleasant Truth AI Is Coming For Your Job - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "AI时代/工作策略",
+      "key_insight": "AI原生(AI-First)方法论：写下你工作的完整流程(包括思维过程)→假设任何任务都可以用提示完成→尝试将任务转化为提示→测试、记录缺陷、精炼直到90%满意→安全存储。尝试自动化你自己脱离工作，这是学习AI的最佳方式。",
+      "original_quote": "The quality of your work is the quality of your prompt. It's not that AI isn't as good as you. It's that you aren't good enough to make AI as good as you.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-043",
+      "source": "The Unpleasant Truth AI Is Coming For Your Job - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "创作者经济/1000真粉丝",
+      "key_insight": "1000个真粉丝模型：只需不到1000人，每月$5-10k就能维持生计。分层报价：$10订阅×500人=$5k/月（加上年付约翻倍）。关键是建立一个可探索的世界，而非销售漏斗。",
+      "original_quote": "It's less about building a sales funnel and more about building a world people can explore.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-044",
+      "source": "The Unpleasant Truth AI Is Coming For Your Job - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "未来工作/大师经济",
+      "key_insight": "剩余的是精通和意义经济(Mastery and Meaning Economy)。在AI时代的方向：选择你深深关心的事情→结合AI优先心态无情地研究、掌握→在公开场合毫不知耻地分享你知道的、做的和为什么做。当今世界唯一真正的安全网是难以忽视的作品集合。",
+      "original_quote": "The only real safety net in today's world is a body of work that's impossible to ignore.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-045",
+      "source": "How To Launch Into A Completely New Life - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "人生转变/游戏化生活",
+      "key_insight": "将生活游戏化：目标不是必须不计代价实现的东西，而是做决策的镜头。由最终目标、长期目标和短期目标组成。使用可量化优先级任务作为反馈回路（如每天写1000字）。生活失去新奇和模式识别是因为故事模糊或无意识。",
+      "original_quote": "A goal is not something that you must achieve at all costs. A goal is a lens from which to make decisions.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-046",
+      "source": "How To Launch Into A Completely New Life - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "心理操作/目标重编程",
+      "key_insight": "你的思想是追求目标的机器。你之所以处在现在的位置是因为你想要如此——但这是无意识的。感到迷失/困惑其实是对你有利的，因为它让你避免做非常规之事带来的痛苦、恐惧和尴尬。意识到这一点是改变的第一步。",
+      "original_quote": "You are in your current situation because you want to be, but that's unconscious to you.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-047",
+      "source": "The Deep Work Routine That Changed My Life - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "深度工作/心流状态",
+      "key_insight": "用心流通道和挑战-技能平衡模型来解释低效原因：任务挑战低于技能→无聊→自我中心思维；任务挑战高于技能→焦虑→自我意识思维。治愈无聊和焦虑的唯一方法是清晰(clarity)——重新聚焦于手头任务和生命整体的理想结果。",
+      "original_quote": "When you have the skill and knowledge that matches the challenge of a task, life becomes a video game of quests that you love to play.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-048",
+      "source": "7 Bad Habits Preventing You From The Life You Want - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "行动哲学/出版与公开",
+      "key_insight": "从不发布导致'进度不可见'——没有外部反馈和责任机制，你实际上没有学到任何东西。公开不但是为了获得反馈，更是一种通过隔离扭曲现实的形式——没有社群、客户、反馈和责任，很容易维持自欺欺人。",
+      "original_quote": "Never making your work public is a form of reality distortion through isolation.",
+      "relevance": "medium"
+    },
+    {
+      "id": "articles-049",
+      "source": "How To Be More Disagreeable - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "说服/影响力",
+      "key_insight": "说服与操纵的区别：说服是激励他人对双方都有益的事采取行动；操纵是误导他人只对操纵者有益。要有说服力需要两件事：足够的研究来阐述论点+讲述转变的引人入胜的故事。世界通过故事理解意义，故事让人关心你所做的事。",
+      "original_quote": "To be persuasive, you need two things: enough research to articulate your argument, and a compelling story that illustrates a transformation.",
+      "relevance": "high"
+    },
+    {
+      "id": "articles-050",
+      "source": "You Need To Be Extreme - thedankoe.com",
+      "type": "article",
+      "methodology_topic": "世界观/进化哲学",
+      "key_insight": "演化从混沌中创造秩序(Ilya Prigogine的耗散结构理论)。宇宙由全-部分(whole-parts)组成——每一层既是整体又是部分。当心理健康达到混沌临界点时，就是更高自我形态出现的机会。这是熵增定律在心理层面的应用。",
+      "original_quote": "When you take the concept of entropy and apply it to the psyche, you get psychic entropy. The mind tends toward disorder, randomness, chaos, etc. When you reach that point, you are presented with an opportunity for a higher version of yourself to emerge.",
+      "relevance": "high"
+    }
+  ],
+  "failure_reason": null
+}

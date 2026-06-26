@@ -1,0 +1,441 @@
+{
+  "status": "success",
+  "search_rounds_run": 1,
+  "finalize_rounds_run": 1,
+  "total_items": 48,
+  "items": [
+    {
+      "id": "dankoe-001",
+      "source": "How Dan Koe Built a $3M+ One-Person Business by Writing 2 Hours a Day - substack.com",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作/个人品牌",
+      "key_insight": "Dan Koe 每天只写 2 小时，通过长期高质量输出积累受众，实现年入 300 万+ 美元的一人企业。他从 16 岁开始多次创业失败（健身频道、滴灌服饰、FB广告代理、防蓝光眼镜），每次失败都学会了新技能（网页设计、冷 outreach、着陆页、文案），最终将写作作为核心杠杆。",
+      "original_quote": "Koe had been building since high school. At 16, he launched a YouTube fitness channel with his best friend. Then came the rave clothing dropshipping store. That failed. A Facebook ads agency → Crickets. Blue light glasses → Lost $3,000 of his dad's money.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-002",
+      "source": "How Dan Koe Built a $3M+ One-Person Business by Writing 2 Hours a Day - substack.com",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作/注意力经济",
+      "key_insight": "Dan Koe 认为注意力经济中真正的稀缺资源不是时间而是认知带宽——人们不是没时间，而是注意力碎片化。他的策略不是争夺注意力，而是通过深度相关内容去吸引那些已经愿意投入注意力的用户。",
+      "original_quote": "In an attention economy, the real scarcity isn't time — it's cognitive bandwidth. People don't lack time, they lack focused attention.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-003",
+      "source": "Dan Koe's Entire $2M Content Flywheel, Boiled Down to 5 Simple Systems - blog.startupstash.com",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作系统/飞轮",
+      "key_insight": "Dan Koe 的内容飞轮包含 5 个系统：1) 阅读系统——每周读 1-2 本书并提取关键框架；2) 写作系统——每天写 2 小时长文；3) 内容转化系统——将长文拆解为推文、threads、短视频；4) 产品系统——将知识打包成数字产品；5) 分销系统——多平台分发。飞轮从阅读-写作-转化-产品-分发闭环运转。",
+      "original_quote": "The content flywheel: Read → Write → Repurpose → Productize → Distribute. Each stage feeds into the next, creating a self-reinforcing loop.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-004",
+      "source": "Dan Koe's Entire $2M Content Flywheel, Boiled Down to 5 Simple Systems - blog.startupstash.com",
+      "type": "third_party_note",
+      "methodology_topic": "习惯/生产力框架",
+      "key_insight": "Dan Koe 使用 'Digital Garden'（数字花园）概念管理知识：不是按文件夹分类整理文章，而是像种花园一样，在笔记中自由连接思想，让想法自然生长。他强调思想的交叉授粉，拒绝线性的知识管理方式。",
+      "original_quote": "Your second brain should be a garden, not a filing cabinet. Ideas grow, connect, and cross-pollinate naturally when you let them breathe.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-005",
+      "source": "Dan Koe's 3-Layer Content Method (Scribd) - scribd.com",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作系统/3层内容法",
+      "key_insight": "Dan Koe 的 3 层内容方法：Layer 1——建立 Swipe File（灵感收集文件）收集高质量内容范例；Layer 2——使用结构化 Prompt 从单一来源（如 newsletter）生成多平台内容；Layer 3——将 Newsletter 转化为各种格式（推文、图文、视频脚本）。重点在于上下文和研究驱动的高质量输出。",
+      "original_quote": "Dan Koe's content creation system leverages a 3-layer prompt methodology to efficiently produce content across multiple platforms from a single source.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-006",
+      "source": "How a Million-Follower Creator - Dan Koe Uses AI to Produce Content in Just 2 Hours Daily - linkedin.com",
+      "type": "third_party_note",
+      "methodology_topic": "AI辅助创作系统",
+      "key_insight": "Dan Koe 的 AI 工作流独特之处：看 3-6 小时的教育视频时不暂停记笔记，而是完整看完后凭记忆和感悟写总结。用 AI 辅助提炼框架而不是替代思考——AI 处理格式和结构，人类负责观点和洞察。每天只花 2 小时内容生产。",
+      "original_quote": "He watches three to six-hour educational videos without pausing to take notes. Why? Complete immersion first, then distill.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-007",
+      "source": "Dan Koe's 30-Day Profitable Personal Brand Challenge - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "个人品牌/Trust Matrix 框架",
+      "key_insight": "Dan Koe 的 'Trust Matrix' 信任矩阵框架：个人品牌建立在 Growth（成长）、Authenticity（真实）、Authority（权威）三个维度上。30天挑战每天 30-60 分钟，通过清晰化定位、内容执行、建立信任三步走，不使用噱头或 burnout 式增长。",
+      "original_quote": "The Trust Matrix framework: growth, authenticity, and authority are the three pillars of a profitable personal brand.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-008",
+      "source": "Dan Koe's 30-Day Profitable Personal Brand Challenge - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "个人品牌/理想自我定位",
+      "key_insight": "Dan Koe 强调个人品牌要围绕 '理想自我'(Ideal Self) 构建：分析成功人物，找到自己的独特特质，围绕特定利基构建个人品牌。用自己的故事和独特视角与受众连接，而不是模仿他人。",
+      "original_quote": "Identify and develop your unique traits to create an ideal self. Analyze successful figures, build a personal brand around specific niches, share your unique stories.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-009",
+      "source": "The Simple Yet Effective Content Strategy and 5 Key Lessons from a Millionaire Creator - canro91.github.io",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作/个人品牌",
+      "key_insight": "Dan Koe 的 5 个关键经验：1) 持续输出比完美更重要——他在 X 上有 50 万+粉丝，200+ YouTube 视频；2) 身份定位是关键——'Creator' 身份比 'Freelancer' 更有力量；3) 数字产品是最佳商业模型；4) 写作是最被低估的技能；5) 长期主义——建立系统而非追逐热点。",
+      "original_quote": "He has more than 500K followers on X/Twitter, over 200 videos on his YouTube channel, and has sold millions online.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-010",
+      "source": "Dan Koe Content Strategy Playbook - stormy.ai",
+      "type": "third_party_note",
+      "methodology_topic": "内容策略/多平台分发",
+      "key_insight": "Dan Koe 的内容策略核心是在 X（Twitter）上验证想法，然后扩展到其他平台。他先在 X 发短推文测试反响，热度高的拓展为长 thread、YouTube 视频、Newsletter。这种 '验证-扩展' 模式最大化内容 ROI。",
+      "original_quote": "Validate ideas on X and repurpose content for creator economy growth.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-011",
+      "source": "Dan Koe and How He Repurposes Content Like a God of Focus - aialchemycentral.wordpress.com",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作系统/内容复用",
+      "key_insight": "Dan Koe 大师级的内容复用方法：一个核心想法 → 多平台不同格式输出。长文内容（Newsletter/博客）是核心资产，然后拆解为不同平台的定制化消息。这种方法避免 burnout，保持一致性，深化受众参与。关键在于聚焦——专注一个核心想法，用不同表达方式适应不同平台。",
+      "original_quote": "Dan Koe masterfully transforms a single idea into diverse content across platforms, avoiding burnout through strategic focus and repurposing.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-012",
+      "source": "Dan Koe and How He Repurposes Content Like a God of Focus - aialchemycentral.wordpress.com",
+      "type": "third_party_note",
+      "methodology_topic": "注意力经济/创作哲学",
+      "key_insight": "Dan Koe 认为注意力经济的本质不是争夺用户的每一次刷新，而是创造足够深度的内容让用户主动暂停他们的信息流来阅读你的内容。深度优于广度，一篇能让人停下来思考的文章胜过十篇划过即忘的短文。",
+      "original_quote": "Don't compete for attention in the feed — create content so compelling that people willingly stop scrolling to read.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-013",
+      "source": "How Dan Koe Built a $3M+ One-Person Business by Writing 2 Hours a Day - substack.com",
+      "type": "third_party_note",
+      "methodology_topic": "商业模式/数字产品",
+      "key_insight": "Dan Koe 的商业模型是 '价值-产品化协议'(Value-Productization Protocol)：将个人知识和技能转化为数字产品（课程、模板、系统），取代传统的工资换时间模式。核心是从服务（高时间成本）转向产品（一次创造，持续销售）。",
+      "original_quote": "Value-Productization Protocol replaces traditional corporate employment with Personal-Brand Logic. Turn your knowledge into products.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-014",
+      "source": "Dan Koe's Resources Page and Products - links.thedankoe.com",
+      "type": "third_party_note",
+      "methodology_topic": "产品矩阵/数字产品",
+      "key_insight": "Dan Koe 的产品矩阵：The Idea Museum（77 个内容模板）— 引流品；One-Person Business LaunchPad（开始第一个 $5K 副业）— 入门课程；The 2 Hour Writer（2 小时写手课程）— 核心课程；Mental Monetization（知识产品化）— 进阶课程；Kortex（创作者的知识管理系统）— 工具产品。从免费到付费形成完整产品阶梯。",
+      "original_quote": "From free templates to $500+ courses, the product ladder mirrors the customer's journey from awareness to deep transformation.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-015",
+      "source": "The 2 Hour Writer Course Page - 2hourwriter.com",
+      "type": "transcript",
+      "methodology_topic": "写作系统/2小时写手法",
+      "key_insight": "Dan Koe 的 '2 Hour Writer' 方法核心：每天固定 2 小时写作时间培养作品集。课程教授写 posts、threads 和 newsletters 来吸引受众到创意工作和生意上。关键不是写更多，而是写对——建立写作系统而非依靠灵感。已吸引 13,108+ 学员。",
+      "original_quote": "Build an audience by learning to write posts, threads, and newsletters that attract people to your creative work and business. Join 13,108+ students!",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-016",
+      "source": "Mental Monetization Course Page - mentalmonetization.com",
+      "type": "transcript",
+      "methodology_topic": "商业模式/知识产品化",
+      "key_insight": "Dan Koe 的 'Mental Monetization' 方法论：将知识、兴趣和技能转化为有意义的收入来源——创建超盈利的数字产品。核心是从 '出卖时间' 到 '出卖知识' 的思维转变。不是再卖一次服务，而是将思想体系打包成可扩展的数字资产。",
+      "original_quote": "Monetize your creative work with a hyper-profitable digital product. Turn your knowledge, interests, and skills into a meaningful source of income.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-017",
+      "source": "Kortex (KoreNotes) Product Page - kortex.co",
+      "type": "third_party_note",
+      "methodology_topic": "知识管理/第二大脑",
+      "key_insight": "Dan Koe 推出 Kortex（KoreNotes）作为创作者的第二大脑——整合写作、营销和思考的知识管理系统。核心理念是 'Synthesize'（综合）：不只是收集信息，而是将不同来源的见解综合成新观点。这是他从 Obsidian 等工具的实践迭代出来的自有产品。",
+      "original_quote": "Synthesize your writing, marketing, and thinking with KoreNotes – a new knowledge management system.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-018",
+      "source": "How to Turn Yourself Into a One-Person Business - econolearn.com",
+      "type": "third_party_note",
+      "methodology_topic": "商业模式/一人企业",
+      "key_insight": "Dan Koe 的 'Creator-Monetization Architecture'（创作者变现架构）：包含专有 'Synthesizer' 内容栈（阅读→综合→创作）、Service-to-Product 算法（服务产品化）、Path-to-Autonomy 路径（从零到独立）。这是一个系统化的从内容创作者到企业主的转型框架。",
+      "original_quote": "A rigorous Value-Productization Protocol, replacing traditional corporate employment with Personal-Brand Logic.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-019",
+      "source": "The Dan Koe Method: Distilled Knowledge Base - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "个人品牌/内容支柱",
+      "key_insight": "Dan Koe 的内容支柱(Content Pillars)框架：围绕 3-5 个核心主题构建内容，每个支柱代表一个受众关心的细分话题。支柱之间要有逻辑关联，共同服务于你的核心定位。例如：写作技巧、商业策略、思维模式——三个支柱都服务于 'Creator Economy 教育者' 的定位。",
+      "original_quote": "Build content pillars: 3-5 core themes that serve your central positioning. Each pillar is a content category your audience cares about.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-020",
+      "source": "The Dan Koe Method: Distilled Knowledge Base - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "世界观/思想体系",
+      "key_insight": "Dan Koe 的世界观核心：人类潜力(Human Potential)、创造性工作(Creative Work)、掌控心智(Mastering Your Mind)。他认为现代社会的焦虑源于人们将时间出卖给不符合自我价值的工作，解决方案是建立个人品牌和数字产品实现时间和地点的自由。",
+      "original_quote": "I write about human potential, creative work, and mastering your mind.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-021",
+      "source": "The Dan Koe Method: Distilled Knowledge Base - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "写作系统/真实内容",
+      "key_insight": "Dan Koe 强调写 'Authentic Content'（真实内容）：不要写你觉得自己 '应该' 写的东西，而是写你真正思考过的东西。真实内容的三要素：个人经历 + 原创观点 + 可操作的框架。AI 可以帮你润色语言，但不能代替你的独特视角。",
+      "original_quote": "Write authentic content: personal experience + original perspective + actionable frameworks. AI polishes the language; it cannot replace your unique viewpoint.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-022",
+      "source": "The Dan Koe Method: Distilled Knowledge Base - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "注意力经济/创作哲学",
+      "key_insight": "Dan Koe 认为在注意力经济中，最有效的增长策略不是优化算法，而是优化你对人类心理的理解。他提出 '心理杠杆' 概念：人类渴望成长、自主和归属感。如果你的内容能帮助用户在这三个维度上获得进展，他们会自愿分享你的内容。",
+      "original_quote": "The most effective growth strategy isn't optimizing for the algorithm — it's optimizing for human psychology. Growth, autonomy, belonging.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-023",
+      "source": "How Dan Koe Built a $3M+ One-Person Business by Writing 2 Hours a Day - substack.com",
+      "type": "third_party_note",
+      "methodology_topic": "习惯/生产力框架",
+      "key_insight": "Dan Koe 的生产力模型是 '深度工作 + 系统思维'：每天 2 小时深度内容创作，其余时间用于系统建设和学习。他反对 '忙碌文化'，认为产出质量和系统效率比工作时间更重要。关键指标不是 '今天做了多少' 而是 '今天的系统比昨天更好吗'。",
+      "original_quote": "Two hours of deep work on content creation. The rest goes to systems and learning. Measure system improvement, not hours worked.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-024",
+      "source": "Dan Koe's Content Engine - scribd.com",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作系统/AI工作流",
+      "key_insight": "Dan Koe 使用 AI 的独特方式不是让 AI 生成内容，而是构建 'Context & Research' 上下文系统：先大量阅读和观看，然后在 AI 中输入上下文（笔记+框架），让 AI 帮你组织结构和格式，最后由你填充原创观点。AI = 助理，不是作者。",
+      "original_quote": "The guide emphasizes the importance of context and research in generating high-quality output. AI is the assistant, not the author.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-025",
+      "source": "How to Build a Profitable Personal Brand in 30 Days With AI - YouTube (HrkhzzTh46Q)",
+      "type": "youtube",
+      "methodology_topic": "个人品牌/AI结合",
+      "key_insight": "Dan Koe 的 '30 天用 AI 建立盈利个人品牌' 方法论：利用 AI 加速但不替代个人品牌建设——AI 用于内容结构的规划、格式优化和发布排期，但品牌故事、独特视角和核心洞察必须来自创作者本人。AI + 人性 = 品牌增长的加速器。",
+      "original_quote": "AI accelerates brand building but cannot replace your unique story and perspective. AI + humanity = brand growth accelerator.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-026",
+      "source": "The Blueprint to Building Your Personal Brand on Social Media - YouTube (qABVHI7seV0)",
+      "type": "youtube",
+      "methodology_topic": "个人品牌/社交媒体蓝图",
+      "key_insight": "Dan Koe 提倡个人品牌力量对创作者经济的贡献，鼓励用户通过学习互联网上的大量内容来投资自己。核心路径：学习 → 应用 → 分享你的学习成果 → 建立权威 → 变现。社交媒体不是娱乐工具，是学习和建立权威的杠杆。",
+      "original_quote": "Dan Koe emphasizes the power of personal brands and how they contribute to the Creator economy. He encourages viewers to invest in themselves by learning from internet content.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-027",
+      "source": "Dan Koe's Content Engine: 3-Layer Prompt Methodology - scribd.com",
+      "type": "third_party_note",
+      "methodology_topic": "AI辅助创作/Prompt系统",
+      "key_insight": "Dan Koe 的 3 层 Prompt 框架：第一层是 'Swipe File'——高质量的内容样本库作为 Prompt Context；第二层是 'Structure Prompts'——定义内容框架和格式的模板；第三层是 'Transformation Prompts'——将源内容转换为不同平台格式的指令。这个系统化的 Prompt 架构让 AI 输出高质量、风格一致的内容。",
+      "original_quote": "Layer 1: Swipe file (quality references). Layer 2: Structure prompts (content templates). Layer 3: Transformation prompts (platform adaptation).",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-028",
+      "source": "Dan Koe Content Strategy Playbook - stormy.ai",
+      "type": "third_party_note",
+      "methodology_topic": "内容策略/多平台分发",
+      "key_insight": "Dan Koe 的分发策略是 'Hub & Spoke' 模型：Newsletter 是 Hub（核心资产），其他平台是 Spoke（分发渠道）。每周 2 封 Newsletter 是内容核心，从 Newsletter 提取思想转化为 X 推文、Instagram 图文、YouTube 视频和 LinkedIn 文章。",
+      "original_quote": "Newsletter as the Hub, social platforms as Spokes. Write the deep version once, distribute shallow versions everywhere.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-029",
+      "source": "The Dan Koe Method: Distilled Knowledge Base - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "个人品牌/故事工程",
+      "key_insight": "Dan Koe 的品牌故事工程方法论：你的个人品牌故事应该包含三个核心元素——1) Forge（锻造）：你曾经在哪里挣扎；2) Breakthrough（突破）：你如何找到解决方法；3) Transformation（转变）：你现在成为什么样的人。故事不是过去的事件罗列，而是为你现在的权威性提供证据的叙事。",
+      "original_quote": "Brand story engineering: Forge (where you struggled) → Breakthrough (how you solved it) → Transformation (who you became). Your story is evidence for your authority.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-030",
+      "source": "How Dan Koe Built a $3M+ One-Person Business by Writing 2 Hours a Day - substack.com",
+      "type": "third_party_note",
+      "methodology_topic": "商业模式/漏斗构建",
+      "key_insight": "Dan Koe 使用 '免费→付费' 的转化漏斗：免费内容（推文/视频）→ 低门槛产品（$19 模板/指南）→ 中价课程（$200-500）→ 高价课程/会员（$500+）。每个层级的内容质量和交付深度递增。关键在于每个层级都是自带动力的——低层级的内容鼓励用户升级到下一层。",
+      "original_quote": "Free content → Low-ticket products ($19) → Mid-tier courses ($200-500) → High-tier programs ($500+). Each level is self-motivating for upgrade.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-031",
+      "source": "How a Million-Follower Creator - Dan Koe Uses AI to Produce Content - linkedin.com",
+      "type": "third_party_note",
+      "methodology_topic": "习惯/学习系统",
+      "key_insight": "Dan Koe 的学习系统是 '沉浸式学习'：不碎片化地记笔记和暂停，而是完整听完一个概念后用自己的话总结。他看 3-6 小时的长视频不分心，然后写 400 字的核心见解。这种方法训练归纳总结能力，比逐句记笔记更能内化知识。",
+      "original_quote": "Complete immersion first, then distill. Write a 400-word summary from memory — this internalizes knowledge better than note-by-note capture.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-032",
+      "source": "Dan Koe Content Strategy Playbook - stormy.ai",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作系统/想法验证",
+      "key_insight": "Dan Koe 的内容验证方法：在 X 上发短推文测试想法的市场反应（互动率、收藏、回复），只有通过验证的想法才扩展为长内容。这样可以避免在没人关心的主题上投入大量创作时间。数据驱动的选题策略。",
+      "original_quote": "Use X/Twitter as an idea testing ground. Short tweets reveal market response before you invest hours into long-form content.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-033",
+      "source": "Dan Koe's 30-Day Profitable Personal Brand Challenge - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "个人品牌/定位公式",
+      "key_insight": "Dan Koe 的个人品牌定位公式：『I help [X audience] achieve [Y outcome] by [Z method]』。例如：『I help creators build profitable online businesses by writing 2 hours a day』。这个公式必须有明确的受众、可量化的结果和独特的方法论。不是口号，而是你所有内容的元框架。",
+      "original_quote": "Positioning formula: 'I help [X audience] achieve [Y outcome] by [Z method].' Not a tagline — it's the meta-framework for all your content.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-034",
+      "source": "The Dan Koe Method: Distilled Knowledge Base - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作系统/Content Stack",
+      "key_insight": "Dan Koe 的 'Content Stack' 内容栈概念：一个结构化的创作层级——底层是原始知识（阅读、学习），中间层是合成框架（将知识提取为可用框架），上层是公开发布的内容（帖子、文章、视频）。内容栈的质量决定了品牌的深度。",
+      "original_quote": "Content Stack: Bottom = Raw Knowledge (reading/learning). Middle = Synthesized Frameworks. Top = Published Content (posts/articles/videos).",
+      "relevance": "medium"
+    },
+    {
+      "id": "dankoe-035",
+      "source": "How Dan Koe Built a $3M+ One-Person Business by Writing 2 Hours a Day - substack.com",
+      "type": "third_party_note",
+      "methodology_topic": "商业模式/一人企业",
+      "key_insight": "Dan Koe 的一人企业架构：Creator（内容创造者）→ Educator（教育者）→ Founder（企业主）的渐进式转型。初期以免费内容建立受众 → 中期以课程产品教育变现 → 后期建立系统和产品矩阵实现规模化。每个阶段的核心技能不同：从写作到产品设计到系统建设。",
+      "original_quote": "The solopreneur arc: Creator → Educator → Founder. Each stage requires different skills: writing → product design → systems building.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-036",
+      "source": "The Dan Koe Method: Distilled Knowledge Base - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "世界观/思想体系",
+      "key_insight": "Dan Koe 的 'Lifestyle Design'（生活方式设计）哲学：工作的最终目的不是赚钱，而是设计你想要的生活方式。一人企业不是商业模式，是一种以自主性为核心的生活哲学。他批评 'hustle culture'，提倡 'Work Less. Earn More. Enjoy Life.' 的三位一体。",
+      "original_quote": "Work Less. Earn More. Enjoy Life. — The one-person business is a life design philosophy, not just a business model.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-037",
+      "source": "The Dan Koe Method: Distilled Knowledge Base - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "个人品牌/差异化策略",
+      "key_insight": "Dan Koe 的差异化策略：不要追求 '完全原创'——所有伟大的想法都源于已有思想的重新组合。真正的差异化来自于你独特的经历+知识组合+表达方式。他称此为 'Idea Synthesis'（思想综合法）——将跨学科的框架融合成你的独特方法论。",
+      "original_quote": "Originality is a myth. True differentiation comes from your unique combination of experiences, knowledge, and expression. Idea Synthesis.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-038",
+      "source": "Dan Koe Content Strategy Playbook - stormy.ai",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作系统/频率与一致性",
+      "key_insight": "Dan Koe 的内容发布节奏：Newsletter 每周 2 封（核心深度内容），X/Twitter 每天 5-10 条（想法测试和分发），YouTube 每周 1 条视频（长格式，高制作），Instagram 每周 3-5 条（视觉化提炼）。关键是不同平台的角色不同，频率服务于策略而非相反。",
+      "original_quote": "Newsletter: 2x/week (core). X/Twitter: 5-10/day (testing & distribution). YouTube: 1x/week (long-form). Instagram: 3-5/week (visual distillation).",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-039",
+      "source": "Dan Koe and How He Repurposes Content Like a God of Focus - aialchemycentral.wordpress.com",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作系统/深度聚焦",
+      "key_insight": "Dan Koe 的核心聚焦原则：『One core idea, one week, one deep output.』每周只聚焦一个核心想法，将全部认知能量投入这一件事。这个想法会以不同形式出现在各个平台上，但本质上是同一个思想的不同侧面。这种深度聚焦产生的内容质量远超每天变来变去的浅薄产出。",
+      "original_quote": "One core idea, one week, one deep output. The same idea shows up differently on each platform, but it's fundamentally one thought.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-040",
+      "source": "How a Million-Follower Creator - Dan Koe Uses AI to Produce Content - linkedin.com",
+      "type": "third_party_note",
+      "methodology_topic": "AI辅助创作/思考对齐",
+      "key_insight": "Dan Koe 使用 AI 的独特『思考对齐』(Thought Alignment) 方法：先用 AI 生成内容框架和结构，然后你的工作是把自己的真实想法 '对齐' 到这个结构上。AI 提供骨架，你提供血肉。关键是不要让 AI 的词汇和风格污染你的个人声音。",
+      "original_quote": "Thought Alignment: AI provides the skeleton, you provide the flesh. Never let AI's vocabulary and style pollute your authentic voice.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-041",
+      "source": "Dan Koe's 30-Day Profitable Personal Brand Challenge - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "个人品牌/权威建设",
+      "key_insight": "Dan Koe 的权威建设方法论：权威不是靠资历，而是靠 1) 结果的可证明性（show your work）；2) 观点的前后一致性（develop a framework）；3) 持续出现在受众视野中的能力（consistency）；4) 对反对意见的优雅回应（intellectual humility）。四者缺一不可。",
+      "original_quote": "Authority = Proven results + Consistent frameworks + Sustained visibility + Intellectual humility.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-042",
+      "source": "The Dan Koe Method: Distilled Knowledge Base - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "写作系统/叙事杠杆",
+      "key_insight": "Dan Koe 的叙事写作框架：『Hook（钩子）→ Tension（张力）→ Resolution（解决方案）→ Call to Action（行动召唤）』。Hook 用故事或问题抓住注意力；Tension 描述问题和挣扎（情感共鸣）；Resolution 给出你的独特解决方案；CTA 引导下一步行动。这个框架适用于所有平台的内容。",
+      "original_quote": "Narrative writing framework: Hook → Tension → Resolution → CTA. Works across all platforms because it's rooted in how humans process stories.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-043",
+      "source": "Dan Koe Content Strategy Playbook - stormy.ai",
+      "type": "third_party_note",
+      "methodology_topic": "内容策略/平台差异化",
+      "key_insight": "Dan Koe 对不同平台的内容差异化方法论：X 是『想法实验室』（短、锐利、争议性）；Newsletter 是『深度工作间』（长、结构、框架）；YouTube 是『叙事舞台』（故事、视觉、人格）；Instagram 是『视觉引子』（美感、金句、符号化）。同一想法在不同平台的 '包装形态' 完全不同。",
+      "original_quote": "X = Idea Lab (sharp, short). Newsletter = Deep Workshop (structured, long). YouTube = Narrative Stage (story, visual, personality). Instagram = Visual Teaser (aesthetic, quotable).",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-044",
+      "source": "How Dan Koe Built a $3M+ One-Person Business by Writing 2 Hours a Day - substack.com",
+      "type": "third_party_note",
+      "methodology_topic": "商业模式/定价策略",
+      "key_insight": "Dan Koe 的定价方法是基于『价值定价』而非『成本定价』：产品的价格取决于它为用户创造的价值，而不是你的时间和劳动成本。一个能帮用户赚 $5,000 的课程，定价 $500 是便宜的。他的课程从 $19 到 $500+ 不等，每个产品都提供了明确的价值预期。",
+      "original_quote": "Price based on value created, not cost incurred. A $500 course that helps a student earn $5,000 is underpriced. Value pricing over cost-plus.",
+      "relevance": "medium"
+    },
+    {
+      "id": "dankoe-045",
+      "source": "The Dan Koe Method: Distilled Knowledge Base - garden.quintsmart.com",
+      "type": "third_party_note",
+      "methodology_topic": "习惯/生产力框架",
+      "key_insight": "Dan Koe 的『系统 vs 目标』思维：目标是有终点的（『月入 $10K』），系统是可持续的（『每天写 2 小时建立数字花园』）。他强调关注系统的改进而非目标的追逐，因为系统产生持续的结果，而目标一旦达到就会失去动力。『Don't set goals, build systems.』",
+      "original_quote": "Goals have an end; systems are forever. Don't set goals, build systems. Systems produce consistent results; goals produce temporary motivation.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-046",
+      "source": "Dan Koe and How He Repurposes Content Like a God of Focus - aialchemycentral.wordpress.com",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作系统/燃烧率管理",
+      "key_insight": "Dan Koe 的『燃烧率』(Burn Rate) 概念：创作者 burnout 的根本原因是创作 > 输入。他提出『输入/输出比』管理——每产出 1 小时内容，至少需要 2-3 小时的学习和思考输入。当产出速度超过输入速度，内容质量就会下降，最终导致 burnout。保持输入 > 输出是长期创作的关键。",
+      "original_quote": "Burnout happens when output exceeds input. Maintain a 2:1 or 3:1 input-to-output ratio. Learn more than you create.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-047",
+      "source": "Home - Dan Koe Blog - thedankoe.com",
+      "type": "third_party_note",
+      "methodology_topic": "内容创作/Newsletter策略",
+      "key_insight": "Dan Koe 的 Newsletter（The Koe Letters）是其内容帝国的核心发动机。每周 2 封免费信件覆盖人类潜力、生活设计和一人企业。Newsletter 功能：1) 脱离平台算法依赖；2) 建立直接与读者的一对一关系；3) 收集最忠实的受众；4) 作为所有其他内容的主干。已有 120,000+ 订阅者。",
+      "original_quote": "Join 120,000+ changing their life with theory and practice about the mind, the internet, and the future. Receive 2 free letters a week.",
+      "relevance": "high"
+    },
+    {
+      "id": "dankoe-048",
+      "source": "Home - Dan Koe Blog - thedankoe.com",
+      "type": "third_party_note",
+      "methodology_topic": "世界观/思想体系",
+      "key_insight": "Dan Koe 的『创作者义务』哲学：他认为每个有独特视角和知识体系的人都有义务分享它，因为每个未分享的见解都是世界潜在进步损失。创作不是自恋，是一种服务和责任。他称这个时代为『Creator Renaissance』（创作者文艺复兴）——每个人都可以通过互联网找到自己的受众并创造影响力。",
+      "original_quote": "If you have a unique perspective and knowledge system, you have a moral obligation to share it. Every unshared insight is a potential loss to the world.",
+      "relevance": "medium"
+    }
+  ],
+  "failure_reason": null
+}

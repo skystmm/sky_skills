@@ -1,0 +1,342 @@
+{
+  "status": "success",
+  "search_rounds_run": 10,
+  "finalize_rounds_run": 5,
+  "total_items": 37,
+  "items": [
+    {
+      "id": "skills-001",
+      "source": "How to turn your love for learning into a one-person business - letters.thedankoe.com",
+      "type": "article",
+      "skills_aspect": "技术堆叠",
+      "key_insight": "Dan Koe 认为高效学习的关键是 'Technique Stacking'（技术堆叠）——不是一次只学一个孤立技能，而是同时学习一组互相增强的技能（写作+设计+编程+销售），因为它们在真实项目中自然融合。他发现当学习多个互补技能时，每个技能的学习速度会因其他技能的协同而加速。他的技能堆叠公式是：写作(沟通核心) + 设计(视觉表达) + 编程(技术实现) + 销售(变现转化)。",
+      "original_quote": "Skill Acquisition = Technique Stacking. The more skills you learn, the faster you learn each new one. Your brain recognizes patterns across disciplines.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-002",
+      "source": "How to turn your love for learning into a one-person business - letters.thedankoe.com",
+      "type": "article",
+      "skills_aspect": "学习资源",
+      "key_insight": "Dan Koe 推荐的学习资源包括：Naval Ravikant 的《How to Get Rich》(关于特定知识)、Steven Pressfield 的《The War of Art》(关于创作阻力)、《Atomic Habits》(James Clear，关于习惯系统化)。他强调不要只看书，要把书的内容转化为自己的写作和产品。",
+      "original_quote": "Don't just read books — write about them, teach their concepts, and build products from their frameworks.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-003",
+      "source": "How to turn your love for learning into a one-person business - letters.thedankoe.com",
+      "type": "article",
+      "skills_aspect": "写作技能",
+      "key_insight": "Dan Koe 认为写作是最被低估的技能，因为写作不仅是沟通工具，更是思维整理系统。他提出写作的三个层次：1) 写给自己（理清思路）；2) 写给他人（传递价值）；3) 写为系统（创建可复用的知识资产）。写作让人把模糊的想法变成清晰的概念，是所有技能的基础元技能。",
+      "original_quote": "Writing is the most underrated skill because it forces you to think clearly. If you can't write it, you haven't thought it.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-004",
+      "source": "How to start a one-person business in 2026 - letters.thedankoe.com",
+      "type": "article",
+      "skills_aspect": "技能产品化",
+      "key_insight": "Dan Koe 的技能产品化桥梁是 'Build-Teach-Earn' 框架：1) 建造——学一个技能并用它做项目；2) 教学——把你学到的教给别人（写文章/做视频）；3) 赚钱——通过教学吸引观众，然后提供更深入的付费内容。这是一个从学到教到卖的完整闭环。",
+      "original_quote": "The Build-Teach-Earn method: Learn a skill by building something → Document the process → Package your knowledge → Sell access to your system.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-005",
+      "source": "How to think like a strategic genius (5d thinking) - letters.thedankoe.com",
+      "type": "article",
+      "skills_aspect": "跨学科学习",
+      "key_insight": "Dan Koe 提倡 '5D Thinking'（五维思维），核心是跨学科的模式识别：从不同领域提取抽象原理（如物理学中的熵、生物学中的进化、经济学中的供需），然后将它们应用到你的领域。他称之为 'Cross-Domain Synthesis'（跨域合成），这是创造独特见解的方法。",
+      "original_quote": "When everyone thinks the same way, thinking differently is your competitive advantage. Cross-domain synthesis is how you achieve that.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-006",
+      "source": "Life is a mind game, here's how you win - letters.thedankoe.com",
+      "type": "article",
+      "skills_aspect": "心理障碍",
+      "key_insight": "Dan Koe 详细探讨了学习的心理障碍：大多数人不是学不会，而是被恐惧、完美主义和冒名综合征阻止。他提出 'Permissionless Agency'（无需许可的自主权）概念——你不需要任何人的批准就可以开始学习。关键是把'我不行'重构为'我还没学会'，并将自我怀疑转化为行动信号。",
+      "original_quote": "Imposter syndrome is not a sign that you don't belong. It's a sign that you've stepped outside your comfort zone. That's exactly where learning happens.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-007",
+      "source": "I'm begging you to write more essays - letters.thedankoe.com",
+      "type": "article",
+      "skills_aspect": "写作技能",
+      "key_insight": "Dan Koe 认为写长文章（essays）是最被低估但最高杠杆的学习工具。写一篇 1000 字的文章迫使你连接不同领域的概念，在认知层面形成神经通路。他提出写文章相当于'强迫大脑进行跨域合成'，这比被动阅读高效 10 倍。",
+      "original_quote": "An essay is a forcing function for connecting ideas. When you write, you're literally creating new neural pathways.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-008",
+      "source": "I'm begging you to write more essays - letters.thedankoe.com",
+      "type": "article",
+      "skills_aspect": "反馈机制",
+      "key_insight": "Dan Koe 强调公开发布你的学习内容是最好的反馈机制。把文章发布到社交媒体，让世界检验你的理解。真实的读者反馈（评论、分享、反驳）比任何教科书都更有效地纠正你的认知偏差。他把这称为 'Public Learning'（公开展示学习）。",
+      "original_quote": "Publish everything you learn. The world will tell you if you're wrong, and that's the best feedback system you could ask for.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-009",
+      "source": "How to survive AI mass replacement - letters.thedankoe.com",
+      "type": "article",
+      "skills_aspect": "技术堆叠",
+      "key_insight": "Dan Koe 提出在 AI 时代，'T-shaped Skill Stack'（T型技能堆叠）比单一深度更重要。深度的核心技能（写作/沟通）加上广度的一堆辅助技能（设计/编程/营销/AI工具使用）。他认为 AI 让你可以更快地获取广度技能，而人类的独特价值在于跨领域的创造性连接。",
+      "original_quote": "AI makes breadth cheap. Your value isn't in knowing one thing deeply — it's in connecting many things uniquely.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-010",
+      "source": "What is imposter syndrome - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "心理障碍",
+      "key_insight": "Dan Koe 认为冒名综合征的本质是你正在做的事情超出了你当前的舒适区。这不是缺陷，而是成长的信号。他给出的解法是：不要试图'克服'它，而是用行动来'超越'它——当你积累足够多的作品和结果时，自我怀疑自然消退。",
+      "original_quote": "Imposter syndrome fades when your body of evidence outgrows your self-doubt. Keep building.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-011",
+      "source": "This High-Income Skill Will Make You Irreplaceable (Full Guide) - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "写作技能",
+      "key_insight": "Dan Koe 将写作定位为 'The Meta Skill'（元技能），因为它增强所有其他技能的学习速度和质量。他提出写作能力直接决定一个人的思维清晰度和影响力。在 AI 可以生成内容的时代，真正的写作能力——清晰思考和结构表达的能力——变得更有价值。",
+      "original_quote": "Writing is the meta skill. Learn to write, and learning everything else becomes easier.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-012",
+      "source": "How To Learn Anything 10x Faster Than Anyone With AI - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "跨学科学习",
+      "key_insight": "Dan Koe 提倡用 AI 作为'跨学科翻译器'：当你学习一个领域的知识时，让 AI 把它翻译成你已有知识的领域。例如把编程概念解释为生物学类比。这种类比映射加速了神经通路形成，让新知识快速'锚定'到已知概念上。",
+      "original_quote": "Use AI as a cross-domain translator. Ask it to explain any concept using analogies from fields you already understand.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-013",
+      "source": "Technique Stacking - Small Wins Compound - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "技术堆叠",
+      "key_insight": "Dan Koe 的 'Technique Stacking'（技术堆叠）具体方法论：每天学习一个微小的技术点（比如：一个 CSS 属性、一个写作钩子公式、一个营销原理），然后第二天在前一天的基础上叠加。3个月后你就有了 90个互相连接的技术点，这比学一个'完整课程'但无法应用有效得多。",
+      "original_quote": "Small techniques compound. One technique per day × 90 days = a dense network of practical knowledge you can actually use.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-014",
+      "source": "Practice More Efficiently | Deliberate Practice & Skill Improvement - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "刻意思考",
+      "key_insight": "Dan Koe 认为刻意练习的精髓不是重复做同一件事，而是主动寻找认知间隙（cognitive gaps）。他在学习中遵循：做→获得反馈→找出具体弱点→设计针对性练习→重复。他强调，大多数人练习不够是因为他们太早追求'完美'，而不是在'不完美'中找改进点。",
+      "original_quote": "Deliberate practice isn't repetition. It's finding exactly where you're weak and designing exercises to fix those weak points.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-015",
+      "source": "The Missing Ingredient To Learning Absurdly Fast - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "刻意思考",
+      "key_insight": "Dan Koe 指出学习速度的缺失成分是 'Genuine Curiosity'（真正的好奇心）。没有好奇心，任何学习方法论都是空壳。他建议不要从'这门课应该学什么'开始，而是从'我对什么真正好奇'开始——然后围绕好奇心建构学习路径。好奇驱动的学习速度是被动学习速度的 10 倍。",
+      "original_quote": "Curiosity is the accelerator of learning. Without it, every method is useless. With it, any method works.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-016",
+      "source": "You Won't Be The Same Person In 6 Months (Master Anything, Fast) - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "技能产品化",
+      "key_insight": "Dan Koe 提出学习最快的方式是'Teach to Learn'（通过教来学）：1) 选择你刚学到的概念；2) 尝试在社交媒体上教给别人；3) 当你无法清晰解释时，你就找到了自己的知识漏洞。他把这称为'被迫学习的艺术'——公开承诺教授某个主题 creates accountability（创造责任感）。",
+      "original_quote": "The best way to learn something is to commit to teaching it. Your audience becomes your accountability system.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-017",
+      "source": "How To Articulate Your Thoughts Intelligently - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "写作技能",
+      "key_insight": "Dan Koe 论证写作是思维能力的外化。他提出思维清晰度 = 写作频率 × 写作质量。每天写作就像给大脑做'思维洁牙'——清除模糊的想法，留下精确的概念。他特别强调'写给自己'和'写给他人'是不同的技能，前者用于探索，后者用于传递。",
+      "original_quote": "Articulation is a skill, not a trait. Like any skill, it improves with deliberate practice. Writing is the gym.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-018",
+      "source": "The Future-Proof Skill Stack - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "技术堆叠",
+      "key_insight": "Dan Koe 详细列出了他的'未来抗衰技能堆叠'：1) 写作+讲故事（核心沟通力）；2) 视觉设计（信息架构）；3) 基础编程（理解技术逻辑）；4) 销售+营销（变现能力）；5) AI 工具使用（杠杆）。这五组技能形成一个相互增强的系统，任一技能的提升都会加速其他技能的学习。",
+      "original_quote": "The future-proof skill stack: Writing → Design → Code → Sales → AI. Each skill amplifies the learning of the next.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-019",
+      "source": "Evergreen Skills For Profitability - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "技能产品化",
+      "key_insight": "Dan Koe 区分了两类技能：'Evergreen Skills'（常青技能——写作、沟通、销售）和 'Trending Skills'（趋势技能——最新的 AI 工具、新兴平台）。他的策略是把常青技能做深，然后快速叠加趋势技能。常青技能提供基础杠杆，趋势技能提供短期竞争优势。",
+      "original_quote": "Build your foundation on evergreen skills. Layer trending skills on top. Don't chase every new tool — master the principles first.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-020",
+      "source": "How To Do What You Love - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "学习资源",
+      "key_insight": "Dan Koe 推荐的核心书单：《The War of Art》by Steven Pressfield（关于创作阻力与自律）、《Atomic Habits》by James Clear（习惯堆叠）、《The Art of Impossible》by Steven Kotler（心流与极限表现）、《So Good They Can't Ignore You》by Cal Newport（关于技能资本）。他强调这些书的核心思想需要被'应用'而不是仅仅被'阅读'。",
+      "original_quote": "A book is just a tool. Its value is zero until you apply what you learned. Read less, implement more.",
+      "relevance": "medium"
+    },
+    {
+      "id": "skills-021",
+      "source": "Advanced Method – Cross Domain Synthesis - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "跨学科学习",
+      "key_insight": "Dan Koe 的跨域合成（Cross-Domain Synthesis）具体做法：1) 从你熟悉的领域提取核心概念（如经济学中的'杠杆'）；2) 把它应用到不熟悉的领域（如用杠杆概念理解学习速度）；3) 观察新见解的产生。他称之为'概念移植'——把一个领域的思维模型移植到另一个领域，这是原创思想的来源。",
+      "original_quote": "Originality is just pattern recognition across domains. Take an idea from one field and ask: 'How does this apply here?'",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-022",
+      "source": "Dan Koe on How To Finally Be a Better Writer - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "写作技能",
+      "key_insight": "Dan Koe 的写作训练方法：1) 每天写 500 字（不管质量）；2) 写完后用 AI 分析结构漏洞和逻辑缺口；3) 修改并发布。他将这个过程称为'写作反馈环'。关键不是一次性写出完美文章，而是建立快速迭代的写作习惯——写作→反馈→修改→发布→下一轮。",
+      "original_quote": "Writing is not a talent. It's a feedback loop. Write → Analyze → Rewrite → Publish → Repeat. Every iteration makes you clearer.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-023",
+      "source": "You Are Learning Slowly - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "学习曲线",
+      "key_insight": "Dan Koe 剖析了初学阶段的痛苦：'The Valley of Sucks'（低谷区）是学习任何新技能的必经阶段。解决问题的关键是降低执行落差（Execution Gap）——想法和行动之间的距离。他提出'Reducing Execution Gap'的方法：把大目标分解到小到无法拒绝的行动（如'打开编辑器写一行代码'），从而用微小行动绕过大脑的恐惧回路。",
+      "original_quote": "The pain of learning isn't a bug — it's a feature. Your brain is literally rewiring itself. The goal isn't to avoid the pain, but to move through it faster.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-024",
+      "source": "How To Fix Your Attention Span - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "心理障碍",
+      "key_insight": "Dan Koe 认为注意力危机是学习的第一大障碍。他提出'注意力肌肉'概念——注意力需要像肌肉一样训练。具体方法：每天设定无干扰创造时间（Deep Work Block），从 30 分钟开始，逐渐延长。他警告说，碎片化消费（短视频刷屏）正在系统性地削弱深度思考能力，而这恰恰是学习复杂技能所必需的。",
+      "original_quote": "Your attention span is your most valuable asset for learning. If you can't focus for 30 minutes, you can't learn anything complex.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-025",
+      "source": "3) Connect Ideas From Different Disciplines - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "跨学科学习",
+      "key_insight": "Dan Koe 提出了 'The Topic Tree'（主题树）方法：把你的核心兴趣领域作为树干，然后从该领域引出相关学科的树枝。例如，如果你对'写作'感兴趣，你可以引出：心理学（读者心理）、神经科学（注意力机制）、设计（排版美学）、商业（变现模式）。学习每个分支时，带着'这个如何丰富我的主干'的问题。",
+      "original_quote": "Don't learn disciplines in isolation. Always ask: 'How does this connect back to my core interest?' That's how you build unique expertise.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-026",
+      "source": "The Principles Of Monetizing Your Writing - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "技能产品化",
+      "key_insight": "Dan Koe 的写作变现框架：写作本身不是产品，写作产出的知识系统才是产品。他的路径是：免费写作（吸引注意力）→ 深度文章（建立信任）→ 数字产品（课程/模板/社区）。核心是从 writer 变成系统构建者——把你的知识变成可复用的系统，而不仅仅是内容。",
+      "original_quote": "Don't sell your writing. Sell the system your writing led you to create. Writing is the marketing; the product is the framework.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-027",
+      "source": "How To Master Any Skill Fast (Give Yourself 2 Weeks) - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "学习曲线",
+      "key_insight": "Dan Koe 提出'2 周精通框架'并非真的令人精通，而是打破初学障碍的关键期：前 3 天是纯探索（不要期待产出）；第 4-7 天建立基础知识地图；第 8-14 天做第一个迷你项目。核心是压缩'学习侧'的时间，尽快进入'做项目侧'——因为真正的学习发生在项目中，而不是课程中。",
+      "original_quote": "You can't master a skill in 2 weeks, but you can break through the beginner barrier in 2 weeks. That's what matters.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-028",
+      "source": "Stop Wasting Time. Learn 10× Faster. - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "刻意思考",
+      "key_insight": "Dan Koe 提出 'Forced Synchronicity'（强制同步）方法：同时进行多个相关学习项目，让它们自然交叉影响。例如同时学习写作、Web 设计和基础营销——当你在写作中发现需要设计一个着陆页，在设计中需要营销文案，在营销中需要写作技巧——这种交叉创造了'强制同步'，加速了所有三条路径的学习。",
+      "original_quote": "Forced Synchronicity: Learn multiple related skills simultaneously so they force each other to accelerate.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-029",
+      "source": "The 3 Pillars Of Social Leverage - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "技术堆叠",
+      "key_insight": "Dan Koe 提出的 '3 Pillars of Social Leverage'（社会杠杆三支柱）：1) Specific Knowledge（特定知识——你独特积累的跨学科见解）；2) Accountability（责任感——公开发布学习进度）；3) Leverage（杠杆——用写作/内容放大你的知识）。三者结合创造了不可替代的个人品牌。",
+      "original_quote": "Specific Knowledge + Accountability + Leverage = A career no one can compete with.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-030",
+      "source": "7 Books That Will Change Your Life In 2022 - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "学习资源",
+      "key_insight": "Dan Koe 推荐的完整书单包括：《The Way of the Superior Man》(David Deida)——关于目的与行动；《The Art of Impossible》(Steven Kotler)——关于心流与巅峰表现；《Genghis Khan and the Making of the Modern World》——关于系统思维；《Discourses and Select Writings》(Epictetus)——关于斯多葛心态；《Atomic Habits》(James Clear)——关于系统化进步。他强调读书不是目标，建立个人知识系统才是。",
+      "original_quote": "Read books not to collect knowledge, but to build your personal operating system.",
+      "relevance": "medium"
+    },
+    {
+      "id": "skills-031",
+      "source": "Being extreme changes your brain - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "学习曲线",
+      "key_insight": "Dan Koe 认为快速学习的代价是'极端性'——在学习新技能的初期，需要把自己放在高压环境中（他称之为 Tactical Stress 的延伸）。不是温和的渐进学习，而是'浸泡式学习'：每天花大量时间在目标技能上，让你的大脑没有退路。这种极端环境迫使大脑更快地建立新的神经通路。",
+      "original_quote": "To learn fast, you need to create conditions where your brain has no choice but to adapt. Comfort is the enemy of rapid neuroplasticity.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-032",
+      "source": "Universal Thinking – Solution To Most Problems - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "跨学科学习",
+      "key_insight": "Dan Koe 提出 'Universal Thinking'（通用思维）不是学所有东西，而是掌握一组通用的思维模型（约 20-30 个来自不同学科的核心框架），然后用它们分析任何新领域。他称之为'Mental Gymnastics'（心理体操）——用已知的思维模型锻炼分析新问题的能力，就像用已知动作锻炼身体一样。",
+      "original_quote": "You don't need to know everything. You need 20-30 mental models from different domains that you can apply to anything new.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-033",
+      "source": "High agency people believe in difficult - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "心理障碍",
+      "key_insight": "Dan Koe 将 'High Agency'（高自主权）定义为学习的核心心态。高自主权的人不相信'需要许可才能学习'，他们直接开始、快速迭代、从失败中学习。低自主权的人等待'合适的课程/老师/时间'。他认为大多数学习障碍其实是'许可寻求'（Permission Seeking）问题——你在等别人告诉你'你可以'。",
+      "original_quote": "High agency people don't ask for permission to learn. They just start. The single biggest learning hack is deciding you don't need anyone's approval.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-034",
+      "source": "Dan Koe on The Hook: Why You Are Wrong About Learning - YouTube",
+      "type": "youtube",
+      "skills_aspect": "反馈机制",
+      "key_insight": "Dan Koe 认为人们对学习的最大误解是认为应该先学完再去实践。他的反直觉观点是：'先行动，后学习'——在完全不了解的情况下就动手做项目，然后在过程中边做边补充知识。项目产生的真实反馈（做错了什么、哪里卡住了）比任何课程的反馈都更有效。他把这称为'Just-in-Time Learning'（即时学习）。",
+      "original_quote": "Stop learning before doing. Start doing and learn exactly what you need, when you need it. That's just-in-time learning.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-035",
+      "source": "How Intelligent Creators Will Make Money In 2024 - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "技能产品化",
+      "key_insight": "Dan Koe 的 'Build-Teach-Earn' 框架详细分解：1) Build——不为了学而学，为了建而学（学习某个技能的目标是完成一个项目）；2) Teach——把建项目的经验写成一篇文章或视频（这是深度消化知识的过程）；3) Earn——把教学过程中的深入洞察打包成付费产品。他认为教育和娱乐的融合（'Edutainment'）是最高效的学习和变现模式。",
+      "original_quote": "Build something → Teach how you built it → Earn from the system you created. That's the one-person business loop.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-036",
+      "source": "What Does Deliberate Practice Look Like for Computer Programming? - YouTube @DanKoeTalks",
+      "type": "youtube",
+      "skills_aspect": "刻意思考",
+      "key_insight": "Dan Koe 以编程为例说明刻意思考的具体实践：不给'照着教程敲代码'，而是'看着结果反推代码'。他称之为 'Inverse Learning'（逆向学习）：拿到一个成品（一个设计好的网页、一个应用界面），然后不靠教程，自己想办法复现它。这样你被迫面对每一个具体的认知缺口，然后用搜索引擎或 AI 填补它们。",
+      "original_quote": "Don't follow tutorials. Look at what you want to build, then figure it out piece by piece. That's deliberate practice.",
+      "relevance": "high"
+    },
+    {
+      "id": "skills-037",
+      "source": "Growing on social media is easy, actually - letters.thedankoe.com",
+      "type": "article",
+      "skills_aspect": "反馈机制",
+      "key_insight": "Dan Koe 认为社交媒体是'终极学习反馈系统'，因为你的内容质量会被真实的注意力数据检验。低浏览量 = 你的思路还没清晰到让别人理解；高互动 = 你击中了一个真实问题。他提出'Content as Learning Feedback Loop'——发布内容不是为了涨粉，而是为了检验你对某个概念的理解程度。",
+      "original_quote": "Social media is a learning feedback system disguised as a growth platform. Every metric is data about your understanding.",
+      "relevance": "high"
+    }
+  ],
+  "failure_reason": null
+}
