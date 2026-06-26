@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "updated_at": null,
+  "techniques": [
+    {
+      "id": "init-001",
+      "name": "基础曝光三角",
+      "category": "核心技术",
+      "level": "入门",
+      "summary": "光圈/快门/ISO 的平衡关系",
+      "sources": []
+    },
+    {
+      "id": "init-002",
+      "name": "构图法则",
+      "category": "核心技术",
+      "level": "入门",
+      "summary": "三分法/引导线/框架构图/黄金比例",
+      "sources": []
+    },
+    {
+      "id": "init-003",
+      "name": "后期基础调色",
+      "category": "后期",
+      "level": "入门",
+      "summary": "曝光/对比度/饱和度/曲线基础",
+      "sources": []
+    }
+  ]
+}

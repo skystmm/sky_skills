@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "updated_at": null,
+  "tools": [
+    {
+      "id": "tool-001",
+      "name": "Adobe Lightroom Classic",
+      "category": "后期软件",
+      "platform": "桌面",
+      "summary": "主流 RAW 后期调色软件",
+      "sources": []
+    },
+    {
+      "id": "tool-002",
+      "name": "Capture One",
+      "category": "后期软件",
+      "platform": "桌面",
+      "summary": "专业 RAW 后期，飞思相机配套",
+      "sources": []
+    },
+    {
+      "id": "tool-003",
+      "name": "Snapseed",
+      "category": "后期软件",
+      "platform": "手机",
+      "summary": "手机入门级后期",
+      "sources": []
+    }
+  ]
+}

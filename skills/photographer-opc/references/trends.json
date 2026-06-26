@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "updated_at": null,
+  "trends": [
+    {
+      "id": "trend-init-001",
+      "topic": "手机计算摄影",
+      "summary": "AI 计算摄影持续进化，后期前移",
+      "started_at": "2025",
+      "sources": []
+    },
+    {
+      "id": "trend-init-002",
+      "topic": "AI 辅助后期",
+      "summary": "AI 降噪/超分/局部编辑/自动调色工具兴起",
+      "started_at": "2025",
+      "sources": []
+    }
+  ]
+}

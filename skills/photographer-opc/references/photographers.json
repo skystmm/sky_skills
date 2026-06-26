@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "updated_at": null,
+  "kol_list": [
+    {
+      "name": "待填充",
+      "platform": "",
+      "account": "",
+      "category": "大师|比赛获奖者|KOL|新锐",
+      "style": "人文|风光|人像|街拍|手机|实验",
+      "why_follow": "为什么值得关注",
+      "added_at": null
+    }
+  ],
+  "template": {
+    "platforms": ["小红书", "Instagram", "X", "抖音", "图虫", "500px"],
+    "categories": ["人文纪实", "风光", "人像", "街拍", "手机摄影", "微距", "航拍", "胶片", "实验/概念"],
+    "competitions": ["哈苏大师赛", "索尼世界摄影奖", "玛格南摄影奖", "国家地理摄影大赛", "IPPA手机摄影奖"]
+  }
+}
