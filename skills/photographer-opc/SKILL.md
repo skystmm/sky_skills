@@ -232,9 +232,11 @@ Skill 内置一个每周自更新的知识基线：
 4. 旧引用(>30天) 标记 `[可能已过时]`
 
 ### 手动触发
-```
-python3 scripts/ingest.py --force
-```
+两种方式：
+- **对 agent 说**：「更新摄影知识库」或「摄影 ingest」
+- **命令行**：`python3 scripts/ingest.py --force`
+
+自动定时触发：每周一 10:00（cron: `0 10 * * 1` Asia/Shanghai）
 忽略上次更新时间，强制全量刷新所有基线。
 
 ---
